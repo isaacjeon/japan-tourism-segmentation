@@ -1,0 +1,685 @@
+Area of Visit,Means of Transportation,Percentage
+Hokkaido,Airplane (within Japan),16.1267
+Hokkaido,Shinkansen,11.4921
+Hokkaido,Railway/monorail,56.6888
+Hokkaido,Chartered buses,35.0865
+Hokkaido,Long-distance buses,10.0859
+Hokkaido,Suburban buses,18.8141
+Hokkaido,Taxies/limousine hires,17.5931
+Hokkaido,Car rental,15.4287
+Hokkaido,Bicycle rental,1.3279
+Hokkaido,Ships (within Japan),2.0262
+Hokkaido,Other,1.0077
+Hokkaido,Only by walking,0.0269
+Aomori,Airplane (within Japan),10.1843
+Aomori,Shinkansen,56.8417
+Aomori,Railway/monorail,67.8888
+Aomori,Chartered buses,26.0391
+Aomori,Long-distance buses,8.9995
+Aomori,Suburban buses,28.8547
+Aomori,Taxies/limousine hires,25.4834
+Aomori,Car rental,18.2276
+Aomori,Bicycle rental,2.8889
+Aomori,Ships (within Japan),18.7229
+Aomori,Other,2.185
+Aomori,Only by walking,0
+Iwate,Airplane (within Japan),2.4721
+Iwate,Shinkansen,41.5276
+Iwate,Railway/monorail,50.5864
+Iwate,Chartered buses,45.7647
+Iwate,Long-distance buses,6.8517
+Iwate,Suburban buses,17.9804
+Iwate,Taxies/limousine hires,11.9909
+Iwate,Car rental,17.8509
+Iwate,Bicycle rental,2.9448
+Iwate,Ships (within Japan),17.7219
+Iwate,Other,2.3693
+Iwate,Only by walking,0
+Miyagi,Airplane (within Japan),6.4607
+Miyagi,Shinkansen,48.6587
+Miyagi,Railway/monorail,66.8969
+Miyagi,Chartered buses,28.075
+Miyagi,Long-distance buses,9.1455
+Miyagi,Suburban buses,26.1128
+Miyagi,Taxies/limousine hires,18.5594
+Miyagi,Car rental,15.7068
+Miyagi,Bicycle rental,2.0085
+Miyagi,Ships (within Japan),11.3706
+Miyagi,Other,1.8276
+Miyagi,Only by walking,0
+Akita,Airplane (within Japan),8.2814
+Akita,Shinkansen,45.3894
+Akita,Railway/monorail,57.1037
+Akita,Chartered buses,36.3824
+Akita,Long-distance buses,9.1957
+Akita,Suburban buses,21.4342
+Akita,Taxies/limousine hires,17.5272
+Akita,Car rental,21.9705
+Akita,Bicycle rental,3.1049
+Akita,Ships (within Japan),17.7643
+Akita,Other,2.5864
+Akita,Only by walking,0
+Yamagata,Airplane (within Japan),6.3822
+Yamagata,Shinkansen,33.2965
+Yamagata,Railway/monorail,52.9331
+Yamagata,Chartered buses,40.351
+Yamagata,Long-distance buses,9.0943
+Yamagata,Suburban buses,20.4704
+Yamagata,Taxies/limousine hires,17.0494
+Yamagata,Car rental,19.5425
+Yamagata,Bicycle rental,1.4392
+Yamagata,Ships (within Japan),11.6525
+Yamagata,Other,1.2132
+Yamagata,Only by walking,0
+Fukushima,Airplane (within Japan),2.9688
+Fukushima,Shinkansen,44.3245
+Fukushima,Railway/monorail,59.3562
+Fukushima,Chartered buses,37.8733
+Fukushima,Long-distance buses,11.4536
+Fukushima,Suburban buses,22.7234
+Fukushima,Taxies/limousine hires,19.7284
+Fukushima,Car rental,19.4997
+Fukushima,Bicycle rental,4.1869
+Fukushima,Ships (within Japan),7.8492
+Fukushima,Other,1.5299
+Fukushima,Only by walking,0
+Ibaraki,Airplane (within Japan),2.4067
+Ibaraki,Shinkansen,19.4074
+Ibaraki,Railway/monorail,64.2371
+Ibaraki,Chartered buses,26.819
+Ibaraki,Long-distance buses,10.5799
+Ibaraki,Suburban buses,20.8871
+Ibaraki,Taxies/limousine hires,16.9785
+Ibaraki,Car rental,19.6517
+Ibaraki,Bicycle rental,1.6726
+Ibaraki,Ships (within Japan),0.8971
+Ibaraki,Other,3.8526
+Ibaraki,Only by walking,0
+Tochigi,Airplane (within Japan),4.102
+Tochigi,Shinkansen,52.0009
+Tochigi,Railway/monorail,83.1959
+Tochigi,Chartered buses,16.176
+Tochigi,Long-distance buses,11.9741
+Tochigi,Suburban buses,38.4076
+Tochigi,Taxies/limousine hires,29.5833
+Tochigi,Car rental,12.8397
+Tochigi,Bicycle rental,4.646
+Tochigi,Ships (within Japan),5.7577
+Tochigi,Other,1.9611
+Tochigi,Only by walking,0
+Gunma,Airplane (within Japan),4.4169
+Gunma,Shinkansen,48.6903
+Gunma,Railway/monorail,76.7469
+Gunma,Chartered buses,18.8267
+Gunma,Long-distance buses,18.4877
+Gunma,Suburban buses,27.4566
+Gunma,Taxies/limousine hires,26.6296
+Gunma,Car rental,19.6432
+Gunma,Bicycle rental,2.516
+Gunma,Ships (within Japan),2.3083
+Gunma,Other,3.5374
+Gunma,Only by walking,0
+Saitama,Airplane (within Japan),3.9528
+Saitama,Shinkansen,22.4875
+Saitama,Railway/monorail,88.7657
+Saitama,Chartered buses,9.1339
+Saitama,Long-distance buses,9.681
+Saitama,Suburban buses,24.7538
+Saitama,Taxies/limousine hires,17.6691
+Saitama,Car rental,6.1364
+Saitama,Bicycle rental,1.3924
+Saitama,Ships (within Japan),2.3735
+Saitama,Other,3.5898
+Saitama,Only by walking,0
+Chiba,Airplane (within Japan),4.0723
+Chiba,Shinkansen,34.472
+Chiba,Railway/monorail,88.1581
+Chiba,Chartered buses,11.526
+Chiba,Long-distance buses,10.1883
+Chiba,Suburban buses,21.6588
+Chiba,Taxies/limousine hires,23.7508
+Chiba,Car rental,4.4383
+Chiba,Bicycle rental,1.5533
+Chiba,Ships (within Japan),2.0362
+Chiba,Other,1.2377
+Chiba,Only by walking,0.0205
+Tokyo,Airplane (within Japan),4.8275
+Tokyo,Shinkansen,40.6873
+Tokyo,Railway/monorail,90.4306
+Tokyo,Chartered buses,9.7154
+Tokyo,Long-distance buses,10.0122
+Tokyo,Suburban buses,23.8228
+Tokyo,Taxies/limousine hires,28.5561
+Tokyo,Car rental,4.3288
+Tokyo,Bicycle rental,1.6696
+Tokyo,Ships (within Japan),2.4442
+Tokyo,Other,1.0812
+Tokyo,Only by walking,0.0157
+Kanagawa,Airplane (within Japan),3.3171
+Kanagawa,Shinkansen,41.8962
+Kanagawa,Railway/monorail,90.434
+Kanagawa,Chartered buses,11.2339
+Kanagawa,Long-distance buses,11.67
+Kanagawa,Suburban buses,30.5681
+Kanagawa,Taxies/limousine hires,29.4748
+Kanagawa,Car rental,5.2878
+Kanagawa,Bicycle rental,2.4629
+Kanagawa,Ships (within Japan),5.3138
+Kanagawa,Other,1.5898
+Kanagawa,Only by walking,0
+Niigata,Airplane (within Japan),4.1467
+Niigata,Shinkansen,69.8336
+Niigata,Railway/monorail,88.8983
+Niigata,Chartered buses,9.5092
+Niigata,Long-distance buses,11.6108
+Niigata,Suburban buses,27.9966
+Niigata,Taxies/limousine hires,26.8843
+Niigata,Car rental,14.1471
+Niigata,Bicycle rental,3.8234
+Niigata,Ships (within Japan),4.7919
+Niigata,Other,2.2519
+Niigata,Only by walking,0
+Toyama,Airplane (within Japan),3.211
+Toyama,Shinkansen,25.7754
+Toyama,Railway/monorail,38.9008
+Toyama,Chartered buses,55.6953
+Toyama,Long-distance buses,10.8793
+Toyama,Suburban buses,15.4893
+Toyama,Taxies/limousine hires,10.2079
+Toyama,Car rental,10.9457
+Toyama,Bicycle rental,1.6433
+Toyama,Ships (within Japan),1.9457
+Toyama,Other,1.1118
+Toyama,Only by walking,0
+Ishikawa,Airplane (within Japan),5.0453
+Ishikawa,Shinkansen,62.9942
+Ishikawa,Railway/monorail,71.4969
+Ishikawa,Chartered buses,30.1825
+Ishikawa,Long-distance buses,16.8145
+Ishikawa,Suburban buses,36.9614
+Ishikawa,Taxies/limousine hires,29.4401
+Ishikawa,Car rental,8.7521
+Ishikawa,Bicycle rental,3.8354
+Ishikawa,Ships (within Japan),7.8055
+Ishikawa,Other,0.834
+Ishikawa,Only by walking,0
+Fukui,Airplane (within Japan),4.445
+Fukui,Shinkansen,50.7162
+Fukui,Railway/monorail,66.4027
+Fukui,Chartered buses,22.0119
+Fukui,Long-distance buses,20.2584
+Fukui,Suburban buses,31.6641
+Fukui,Taxies/limousine hires,22.2821
+Fukui,Car rental,24.0927
+Fukui,Bicycle rental,7.5725
+Fukui,Ships (within Japan),7.0288
+Fukui,Other,2.2909
+Fukui,Only by walking,0
+Yamanashi,Airplane (within Japan),3.0169
+Yamanashi,Shinkansen,34.2731
+Yamanashi,Railway/monorail,73.2567
+Yamanashi,Chartered buses,29.2065
+Yamanashi,Long-distance buses,20.2384
+Yamanashi,Suburban buses,21.9173
+Yamanashi,Taxies/limousine hires,23.7604
+Yamanashi,Car rental,9.4116
+Yamanashi,Bicycle rental,2.8985
+Yamanashi,Ships (within Japan),2.1611
+Yamanashi,Other,1.1578
+Yamanashi,Only by walking,0.0252
+Nagano,Airplane (within Japan),4.2647
+Nagano,Shinkansen,54.3465
+Nagano,Railway/monorail,73.871
+Nagano,Chartered buses,25.101
+Nagano,Long-distance buses,17.5791
+Nagano,Suburban buses,27.9885
+Nagano,Taxies/limousine hires,25.2092
+Nagano,Car rental,14.7484
+Nagano,Bicycle rental,3.4624
+Nagano,Ships (within Japan),3.8619
+Nagano,Other,1.4427
+Nagano,Only by walking,0
+Gifu,Airplane (within Japan),3.2607
+Gifu,Shinkansen,39.614
+Gifu,Railway/monorail,64.9559
+Gifu,Chartered buses,33.7949
+Gifu,Long-distance buses,21.8142
+Gifu,Suburban buses,25.9323
+Gifu,Taxies/limousine hires,20.6131
+Gifu,Car rental,13.8233
+Gifu,Bicycle rental,2.1013
+Gifu,Ships (within Japan),4.6435
+Gifu,Other,0.8864
+Gifu,Only by walking,0
+Shizuoka,Airplane (within Japan),2.4194
+Shizuoka,Shinkansen,37.0172
+Shizuoka,Railway/monorail,68.9197
+Shizuoka,Chartered buses,30.5488
+Shizuoka,Long-distance buses,13.5595
+Shizuoka,Suburban buses,23.8043
+Shizuoka,Taxies/limousine hires,24.5108
+Shizuoka,Car rental,10.8007
+Shizuoka,Bicycle rental,1.5155
+Shizuoka,Ships (within Japan),3.7523
+Shizuoka,Other,2.2296
+Shizuoka,Only by walking,0.0636
+Aichi,Airplane (within Japan),3.5995
+Aichi,Shinkansen,33.0362
+Aichi,Railway/monorail,66.3521
+Aichi,Chartered buses,31.4473
+Aichi,Long-distance buses,13.7592
+Aichi,Suburban buses,19.1163
+Aichi,Taxies/limousine hires,18.1088
+Aichi,Car rental,8.8781
+Aichi,Bicycle rental,1.4821
+Aichi,Ships (within Japan),2.2294
+Aichi,Other,1.4545
+Aichi,Only by walking,0
+Mie,Airplane (within Japan),1.3654
+Mie,Shinkansen,20.9512
+Mie,Railway/monorail,60.988
+Mie,Chartered buses,29.2974
+Mie,Long-distance buses,18.0598
+Mie,Suburban buses,19.7541
+Mie,Taxies/limousine hires,19.6636
+Mie,Car rental,17.2637
+Mie,Bicycle rental,1.8852
+Mie,Ships (within Japan),3.8312
+Mie,Other,1.8197
+Mie,Only by walking,0
+Shiga,Airplane (within Japan),1.1465
+Shiga,Shinkansen,26.3751
+Shiga,Railway/monorail,76.7099
+Shiga,Chartered buses,18.93
+Shiga,Long-distance buses,5.3657
+Shiga,Suburban buses,32.7431
+Shiga,Taxies/limousine hires,22.2677
+Shiga,Car rental,15.3204
+Shiga,Bicycle rental,2.6414
+Shiga,Ships (within Japan),3.1073
+Shiga,Other,1.4126
+Shiga,Only by walking,0
+Kyoto,Airplane (within Japan),3.5419
+Kyoto,Shinkansen,45.1661
+Kyoto,Railway/monorail,88.4337
+Kyoto,Chartered buses,13.6779
+Kyoto,Long-distance buses,8.4057
+Kyoto,Suburban buses,36.734
+Kyoto,Taxies/limousine hires,30.3133
+Kyoto,Car rental,3.1717
+Kyoto,Bicycle rental,1.9208
+Kyoto,Ships (within Japan),3.1109
+Kyoto,Other,0.6554
+Kyoto,Only by walking,0.004
+Osaka,Airplane (within Japan),3.698
+Osaka,Shinkansen,36.1793
+Osaka,Railway/monorail,88.509
+Osaka,Chartered buses,12.3319
+Osaka,Long-distance buses,7.9478
+Osaka,Suburban buses,30.0989
+Osaka,Taxies/limousine hires,26.7429
+Osaka,Car rental,3.1502
+Osaka,Bicycle rental,1.5458
+Osaka,Ships (within Japan),2.5756
+Osaka,Other,0.6887
+Osaka,Only by walking,0.0193
+Hyogo,Airplane (within Japan),3.5958
+Hyogo,Shinkansen,31.8912
+Hyogo,Railway/monorail,81.063
+Hyogo,Chartered buses,18.276
+Hyogo,Long-distance buses,10.8438
+Hyogo,Suburban buses,34.3715
+Hyogo,Taxies/limousine hires,23.6434
+Hyogo,Car rental,5.7095
+Hyogo,Bicycle rental,2.1937
+Hyogo,Ships (within Japan),6.3863
+Hyogo,Other,0.9929
+Hyogo,Only by walking,0
+Nara,Airplane (within Japan),3.8574
+Nara,Shinkansen,48.0099
+Nara,Railway/monorail,81.8679
+Nara,Chartered buses,21.8711
+Nara,Long-distance buses,8.5079
+Nara,Suburban buses,37.0295
+Nara,Taxies/limousine hires,28.2956
+Nara,Car rental,3.4313
+Nara,Bicycle rental,2.4247
+Nara,Ships (within Japan),3.9543
+Nara,Other,0.8028
+Nara,Only by walking,0
+Wakayama,Airplane (within Japan),4.3854
+Wakayama,Shinkansen,43.18
+Wakayama,Railway/monorail,85.2773
+Wakayama,Chartered buses,14.4856
+Wakayama,Long-distance buses,10.5752
+Wakayama,Suburban buses,41.4676
+Wakayama,Taxies/limousine hires,27.372
+Wakayama,Car rental,11.4156
+Wakayama,Bicycle rental,4.5358
+Wakayama,Ships (within Japan),7.4774
+Wakayama,Other,1.3198
+Wakayama,Only by walking,0
+Tottori,Airplane (within Japan),8.6291
+Tottori,Shinkansen,36.1784
+Tottori,Railway/monorail,67.5951
+Tottori,Chartered buses,17.325
+Tottori,Long-distance buses,9.7794
+Tottori,Suburban buses,28.8706
+Tottori,Taxies/limousine hires,22.6819
+Tottori,Car rental,24.6936
+Tottori,Bicycle rental,5.5725
+Tottori,Ships (within Japan),12.1383
+Tottori,Other,0.8261
+Tottori,Only by walking,0
+Shimane,Airplane (within Japan),10.1795
+Shimane,Shinkansen,47.8705
+Shimane,Railway/monorail,64.4141
+Shimane,Chartered buses,21.4757
+Shimane,Long-distance buses,11.3675
+Shimane,Suburban buses,35.1017
+Shimane,Taxies/limousine hires,21.3109
+Shimane,Car rental,19.8858
+Shimane,Bicycle rental,2.161
+Shimane,Ships (within Japan),17.291
+Shimane,Other,1.8374
+Shimane,Only by walking,0
+Okayama,Airplane (within Japan),6.6342
+Okayama,Shinkansen,58.8642
+Okayama,Railway/monorail,79.5624
+Okayama,Chartered buses,14.7985
+Okayama,Long-distance buses,13.3915
+Okayama,Suburban buses,38.9607
+Okayama,Taxies/limousine hires,21.7064
+Okayama,Car rental,14.0027
+Okayama,Bicycle rental,5.7302
+Okayama,Ships (within Japan),20.9013
+Okayama,Other,1.84
+Okayama,Only by walking,0
+Hiroshima,Airplane (within Japan),8.2446
+Hiroshima,Shinkansen,84.9837
+Hiroshima,Railway/monorail,91.5594
+Hiroshima,Chartered buses,10.3142
+Hiroshima,Long-distance buses,13.0792
+Hiroshima,Suburban buses,46.2449
+Hiroshima,Taxies/limousine hires,38.6414
+Hiroshima,Car rental,6.3383
+Hiroshima,Bicycle rental,5.3942
+Hiroshima,Ships (within Japan),23.3509
+Hiroshima,Other,1.2781
+Hiroshima,Only by walking,0.0374
+Yamaguchi,Airplane (within Japan),5.4565
+Yamaguchi,Shinkansen,34.1425
+Yamaguchi,Railway/monorail,70.2485
+Yamaguchi,Chartered buses,10.7609
+Yamaguchi,Long-distance buses,12.8803
+Yamaguchi,Suburban buses,44.7038
+Yamaguchi,Taxies/limousine hires,23.344
+Yamaguchi,Car rental,13.2811
+Yamaguchi,Bicycle rental,2.583
+Yamaguchi,Ships (within Japan),22.2575
+Yamaguchi,Other,3.3454
+Yamaguchi,Only by walking,1.4623
+Tokushima,Airplane (within Japan),6.5937
+Tokushima,Shinkansen,24.0581
+Tokushima,Railway/monorail,54.1327
+Tokushima,Chartered buses,22.7283
+Tokushima,Long-distance buses,22.7905
+Tokushima,Suburban buses,21.4316
+Tokushima,Taxies/limousine hires,15.0573
+Tokushima,Car rental,38.0562
+Tokushima,Bicycle rental,5.1373
+Tokushima,Ships (within Japan),28.0677
+Tokushima,Other,0.9033
+Tokushima,Only by walking,0
+Kagawa,Airplane (within Japan),5.5497
+Kagawa,Shinkansen,30.8631
+Kagawa,Railway/monorail,61.6042
+Kagawa,Chartered buses,12.5648
+Kagawa,Long-distance buses,34.2825
+Kagawa,Suburban buses,30.9009
+Kagawa,Taxies/limousine hires,21.6697
+Kagawa,Car rental,20.476
+Kagawa,Bicycle rental,13.8208
+Kagawa,Ships (within Japan),40.2624
+Kagawa,Other,1.0905
+Kagawa,Only by walking,0.2148
+Ehime,Airplane (within Japan),9.6448
+Ehime,Shinkansen,36.9684
+Ehime,Railway/monorail,63.9842
+Ehime,Chartered buses,21.703
+Ehime,Long-distance buses,20.7287
+Ehime,Suburban buses,25.1231
+Ehime,Taxies/limousine hires,22.5451
+Ehime,Car rental,30.7862
+Ehime,Bicycle rental,11.675
+Ehime,Ships (within Japan),30.8989
+Ehime,Other,1.2809
+Ehime,Only by walking,0
+Kochi,Airplane (within Japan),7.586
+Kochi,Shinkansen,25.6493
+Kochi,Railway/monorail,53.2843
+Kochi,Chartered buses,26.7132
+Kochi,Long-distance buses,17.7182
+Kochi,Suburban buses,20.6822
+Kochi,Taxies/limousine hires,20.859
+Kochi,Car rental,36.2824
+Kochi,Bicycle rental,5.4333
+Kochi,Ships (within Japan),28.4024
+Kochi,Other,2.8436
+Kochi,Only by walking,0
+Fukuoka,Airplane (within Japan),3.7184
+Fukuoka,Shinkansen,19.6872
+Fukuoka,Railway/monorail,67.5653
+Fukuoka,Chartered buses,14.1741
+Fukuoka,Long-distance buses,13.7236
+Fukuoka,Suburban buses,42.4214
+Fukuoka,Taxies/limousine hires,39.5369
+Fukuoka,Car rental,12.6742
+Fukuoka,Bicycle rental,2.0262
+Fukuoka,Ships (within Japan),4.0026
+Fukuoka,Other,0.9085
+Fukuoka,Only by walking,0.2705
+Saga,Airplane (within Japan),2.6517
+Saga,Shinkansen,23.8206
+Saga,Railway/monorail,47.4847
+Saga,Chartered buses,24.0974
+Saga,Long-distance buses,13.5588
+Saga,Suburban buses,30.1456
+Saga,Taxies/limousine hires,27.5988
+Saga,Car rental,29.7638
+Saga,Bicycle rental,2.6412
+Saga,Ships (within Japan),3.3181
+Saga,Other,2.6354
+Saga,Only by walking,0.2133
+Nagasaki,Airplane (within Japan),10.8853
+Nagasaki,Shinkansen,48.3528
+Nagasaki,Railway/monorail,65.4562
+Nagasaki,Chartered buses,14.2749
+Nagasaki,Long-distance buses,17.0503
+Nagasaki,Suburban buses,38.1577
+Nagasaki,Taxies/limousine hires,30.7678
+Nagasaki,Car rental,21.085
+Nagasaki,Bicycle rental,3.0818
+Nagasaki,Ships (within Japan),14.4045
+Nagasaki,Other,2.7576
+Nagasaki,Only by walking,0.4491
+Kumamoto,Airplane (within Japan),5.888
+Kumamoto,Shinkansen,37.8718
+Kumamoto,Railway/monorail,50.8941
+Kumamoto,Chartered buses,26.3337
+Kumamoto,Long-distance buses,11.0079
+Kumamoto,Suburban buses,30.577
+Kumamoto,Taxies/limousine hires,24.4576
+Kumamoto,Car rental,28.8825
+Kumamoto,Bicycle rental,1.7523
+Kumamoto,Ships (within Japan),6.3169
+Kumamoto,Other,1.9948
+Kumamoto,Only by walking,0.0576
+Oita,Airplane (within Japan),1.9393
+Oita,Shinkansen,16.544
+Oita,Railway/monorail,55.9402
+Oita,Chartered buses,30.7551
+Oita,Long-distance buses,23.8828
+Oita,Suburban buses,36.4609
+Oita,Taxies/limousine hires,36.1001
+Oita,Car rental,20.8276
+Oita,Bicycle rental,1.4981
+Oita,Ships (within Japan),3.2672
+Oita,Other,0.829
+Oita,Only by walking,0
+Miyazaki,Airplane (within Japan),10.2819
+Miyazaki,Shinkansen,32.3312
+Miyazaki,Railway/monorail,47.287
+Miyazaki,Chartered buses,20.3371
+Miyazaki,Long-distance buses,11.9933
+Miyazaki,Suburban buses,26.4841
+Miyazaki,Taxies/limousine hires,26.0529
+Miyazaki,Car rental,41.9508
+Miyazaki,Bicycle rental,1.0129
+Miyazaki,Ships (within Japan),12.1376
+Miyazaki,Other,3.4457
+Miyazaki,Only by walking,0.7981
+Kagoshima,Airplane (within Japan),12.954
+Kagoshima,Shinkansen,43.1101
+Kagoshima,Railway/monorail,55.3301
+Kagoshima,Chartered buses,17.9954
+Kagoshima,Long-distance buses,10.146
+Kagoshima,Suburban buses,33.8707
+Kagoshima,Taxies/limousine hires,28.6272
+Kagoshima,Car rental,31.1045
+Kagoshima,Bicycle rental,3.2111
+Kagoshima,Ships (within Japan),22.1855
+Kagoshima,Other,4.0707
+Kagoshima,Only by walking,0.2072
+Okinawa,Airplane (within Japan),9.3774
+Okinawa,Shinkansen,5.3146
+Okinawa,Railway/monorail,36.156
+Okinawa,Chartered buses,15.5163
+Okinawa,Long-distance buses,6.7862
+Okinawa,Suburban buses,17.9194
+Okinawa,Taxies/limousine hires,26.3987
+Okinawa,Car rental,51.7876
+Okinawa,Bicycle rental,1.1932
+Okinawa,Ships (within Japan),3.5503
+Okinawa,Other,0.4875
+Okinawa,Only by walking,0
+Hokkaido Region,Airplane (within Japan),16.1267
+Hokkaido Region,Shinkansen,11.4921
+Hokkaido Region,Railway/monorail,56.6888
+Hokkaido Region,Chartered buses,35.0865
+Hokkaido Region,Long-distance buses,10.0859
+Hokkaido Region,Suburban buses,18.8141
+Hokkaido Region,Taxies/limousine hires,17.5931
+Hokkaido Region,Car rental,15.4287
+Hokkaido Region,Bicycle rental,1.3279
+Hokkaido Region,Ships (within Japan),2.0262
+Hokkaido Region,Other,1.0077
+Hokkaido Region,Only by walking,0.0269
+Tohoku Region,Airplane (within Japan),7.903
+Tohoku Region,Shinkansen,51.1141
+Tohoku Region,Railway/monorail,70.3455
+Tohoku Region,Chartered buses,24.3791
+Tohoku Region,Long-distance buses,9.9664
+Tohoku Region,Suburban buses,27.1566
+Tohoku Region,Taxies/limousine hires,23.1923
+Tohoku Region,Car rental,15.3912
+Tohoku Region,Bicycle rental,2.5382
+Tohoku Region,Ships (within Japan),12.389
+Tohoku Region,Other,2.0789
+Tohoku Region,Only by walking,0
+Kanto Region,Airplane (within Japan),4.9386
+Kanto Region,Shinkansen,40.0181
+Kanto Region,Railway/monorail,89.1134
+Kanto Region,Chartered buses,10.6311
+Kanto Region,Long-distance buses,9.9657
+Kanto Region,Suburban buses,23.533
+Kanto Region,Taxies/limousine hires,28.0859
+Kanto Region,Car rental,4.5481
+Kanto Region,Bicycle rental,1.6538
+Kanto Region,Ships (within Japan),2.4217
+Kanto Region,Other,1.2051
+Kanto Region,Only by walking,0.0215
+Hokuriku-Shin'etsu Region,Airplane (within Japan),4.5968
+Hokuriku-Shin'etsu Region,Shinkansen,57.8997
+Hokuriku-Shin'etsu Region,Railway/monorail,74.202
+Hokuriku-Shin'etsu Region,Chartered buses,24.8233
+Hokuriku-Shin'etsu Region,Long-distance buses,16.3932
+Hokuriku-Shin'etsu Region,Suburban buses,30.3119
+Hokuriku-Shin'etsu Region,Taxies/limousine hires,26.7613
+Hokuriku-Shin'etsu Region,Car rental,12.102
+Hokuriku-Shin'etsu Region,Bicycle rental,3.2971
+Hokuriku-Shin'etsu Region,Ships (within Japan),5.0875
+Hokuriku-Shin'etsu Region,Other,1.2521
+Hokuriku-Shin'etsu Region,Only by walking,0
+Chubu Region,Airplane (within Japan),3.5348
+Chubu Region,Shinkansen,39.4935
+Chubu Region,Railway/monorail,70.1086
+Chubu Region,Chartered buses,29.4193
+Chubu Region,Long-distance buses,14.4855
+Chubu Region,Suburban buses,23.7133
+Chubu Region,Taxies/limousine hires,22.3605
+Chubu Region,Car rental,9.8938
+Chubu Region,Bicycle rental,1.8705
+Chubu Region,Ships (within Japan),3.6983
+Chubu Region,Other,1.5632
+Chubu Region,Only by walking,0.0202
+Kinki Region,Airplane (within Japan),3.8229
+Kinki Region,Shinkansen,39.4458
+Kinki Region,Railway/monorail,88.9332
+Kinki Region,Chartered buses,11.9081
+Kinki Region,Long-distance buses,8.0923
+Kinki Region,Suburban buses,30.5438
+Kinki Region,Taxies/limousine hires,27.9443
+Kinki Region,Car rental,3.3251
+Kinki Region,Bicycle rental,1.6331
+Kinki Region,Ships (within Japan),2.7685
+Kinki Region,Other,0.7287
+Kinki Region,Only by walking,0.018
+Chugoku Region,Airplane (within Japan),7.4208
+Chugoku Region,Shinkansen,74.2706
+Chugoku Region,Railway/monorail,87.4954
+Chugoku Region,Chartered buses,10.8179
+Chugoku Region,Long-distance buses,13.0597
+Chugoku Region,Suburban buses,44.6791
+Chugoku Region,Taxies/limousine hires,34.7685
+Chugoku Region,Car rental,8.256
+Chugoku Region,Bicycle rental,4.939
+Chugoku Region,Ships (within Japan),22.2528
+Chugoku Region,Other,1.5546
+Chugoku Region,Only by walking,0.1807
+Shikoku Region,Airplane (within Japan),7.4061
+Shikoku Region,Shinkansen,34.6508
+Shikoku Region,Railway/monorail,64.1071
+Shikoku Region,Chartered buses,14.4229
+Shikoku Region,Long-distance buses,29.9305
+Shikoku Region,Suburban buses,30.0193
+Shikoku Region,Taxies/limousine hires,23.7914
+Shikoku Region,Car rental,20.1383
+Shikoku Region,Bicycle rental,13.3885
+Shikoku Region,Ships (within Japan),37.3945
+Shikoku Region,Other,1.6158
+Shikoku Region,Only by walking,0.174
+Kyushu Region,Airplane (within Japan),4.341
+Kyushu Region,Shinkansen,20.443
+Kyushu Region,Railway/monorail,66.6373
+Kyushu Region,Chartered buses,14.5837
+Kyushu Region,Long-distance buses,13.5515
+Kyushu Region,Suburban buses,41.8211
+Kyushu Region,Taxies/limousine hires,39.1391
+Kyushu Region,Car rental,13.1532
+Kyushu Region,Bicycle rental,2.0148
+Kyushu Region,Ships (within Japan),4.6752
+Kyushu Region,Other,1.1608
+Kyushu Region,Only by walking,0.3124
+Okinawa Region,Airplane (within Japan),9.3774
+Okinawa Region,Shinkansen,5.3146
+Okinawa Region,Railway/monorail,36.156
+Okinawa Region,Chartered buses,15.5163
+Okinawa Region,Long-distance buses,6.7862
+Okinawa Region,Suburban buses,17.9194
+Okinawa Region,Taxies/limousine hires,26.3987
+Okinawa Region,Car rental,51.7876
+Okinawa Region,Bicycle rental,1.1932
+Okinawa Region,Ships (within Japan),3.5503
+Okinawa Region,Other,0.4875
+Okinawa Region,Only by walking,0

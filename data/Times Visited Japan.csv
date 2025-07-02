@@ -1,0 +1,457 @@
+Area of Visit,Times Visited Japan,Percentage
+Hokkaido,1 time,17.8135
+Hokkaido,2 times,17.9444
+Hokkaido,3 times,15.0917
+Hokkaido,4 times,10.3614
+Hokkaido,5 times,9.9704
+Hokkaido,6~9 times,13.9748
+Hokkaido,10~19 times,10.0161
+Hokkaido,20+ times,4.8277
+Aomori,1 time,21.3498
+Aomori,2 times,8.9976
+Aomori,3 times,9.2124
+Aomori,4 times,5.9704
+Aomori,5 times,9.1526
+Aomori,6~9 times,15.3509
+Aomori,10~19 times,17.5618
+Aomori,20+ times,12.4045
+Iwate,1 time,11.9261
+Iwate,2 times,8.9499
+Iwate,3 times,7.857
+Iwate,4 times,4.9193
+Iwate,5 times,9.7763
+Iwate,6~9 times,18.6311
+Iwate,10~19 times,25.5487
+Iwate,20+ times,12.3915
+Miyagi,1 time,14.1149
+Miyagi,2 times,10.8449
+Miyagi,3 times,9.0089
+Miyagi,4 times,7.0446
+Miyagi,5 times,9.7692
+Miyagi,6~9 times,15.8642
+Miyagi,10~19 times,19.9117
+Miyagi,20+ times,13.4417
+Akita,1 time,14.8299
+Akita,2 times,9.461
+Akita,3 times,7.6604
+Akita,4 times,5.9508
+Akita,5 times,9.7428
+Akita,6~9 times,20.285
+Akita,10~19 times,21.0757
+Akita,20+ times,10.9944
+Yamagata,1 time,9.076
+Yamagata,2 times,8.4304
+Yamagata,3 times,10.8043
+Yamagata,4 times,7.7295
+Yamagata,5 times,12.3252
+Yamagata,6~9 times,18.575
+Yamagata,10~19 times,19.736
+Yamagata,20+ times,13.3236
+Fukushima,1 time,18.516
+Fukushima,2 times,12.4025
+Fukushima,3 times,7.4923
+Fukushima,4 times,9.6734
+Fukushima,5 times,8.766
+Fukushima,6~9 times,15.9415
+Fukushima,10~19 times,17.1599
+Fukushima,20+ times,10.0485
+Ibaraki,1 time,21.6055
+Ibaraki,2 times,11.6406
+Ibaraki,3 times,8.2002
+Ibaraki,4 times,5.5439
+Ibaraki,5 times,6.9364
+Ibaraki,6~9 times,15.3351
+Ibaraki,10~19 times,16.0932
+Ibaraki,20+ times,14.6451
+Tochigi,1 time,42.3747
+Tochigi,2 times,13.3021
+Tochigi,3 times,10.303
+Tochigi,4 times,5.6269
+Tochigi,5 times,6.5605
+Tochigi,6~9 times,9.1876
+Tochigi,10~19 times,7.7718
+Tochigi,20+ times,4.8735
+Gunma,1 time,27.8398
+Gunma,2 times,12.9236
+Gunma,3 times,9.2227
+Gunma,4 times,7.7118
+Gunma,5 times,5.8822
+Gunma,6~9 times,12.6826
+Gunma,10~19 times,13.3041
+Gunma,20+ times,10.4331
+Saitama,1 time,25.7066
+Saitama,2 times,14.7483
+Saitama,3 times,12.1129
+Saitama,4 times,9.6327
+Saitama,5 times,7.2206
+Saitama,6~9 times,11.7551
+Saitama,10~19 times,12.1831
+Saitama,20+ times,6.6407
+Chiba,1 time,43.9349
+Chiba,2 times,16.7564
+Chiba,3 times,10.0528
+Chiba,4 times,6.7662
+Chiba,5 times,5.6156
+Chiba,6~9 times,7.3715
+Chiba,10~19 times,6.0569
+Chiba,20+ times,3.4458
+Tokyo,1 time,47.3114
+Tokyo,2 times,16.2676
+Tokyo,3 times,9.1238
+Tokyo,4 times,5.9286
+Tokyo,5 times,5.1166
+Tokyo,6~9 times,6.7757
+Tokyo,10~19 times,5.8704
+Tokyo,20+ times,3.6059
+Kanagawa,1 time,49.3219
+Kanagawa,2 times,15.0982
+Kanagawa,3 times,8.7385
+Kanagawa,4 times,5.3714
+Kanagawa,5 times,5.1352
+Kanagawa,6~9 times,6.6511
+Kanagawa,10~19 times,6.0396
+Kanagawa,20+ times,3.644
+Niigata,1 time,19.572
+Niigata,2 times,12.0655
+Niigata,3 times,8.7076
+Niigata,4 times,10.6359
+Niigata,5 times,7.6323
+Niigata,6~9 times,14.3049
+Niigata,10~19 times,15.8634
+Niigata,20+ times,11.2184
+Toyama,1 time,19.6626
+Toyama,2 times,13.7608
+Toyama,3 times,12.7685
+Toyama,4 times,8.0378
+Toyama,5 times,11.7779
+Toyama,6~9 times,14.9237
+Toyama,10~19 times,12.931
+Toyama,20+ times,6.1376
+Ishikawa,1 time,48.654
+Ishikawa,2 times,13.941
+Ishikawa,3 times,8.2563
+Ishikawa,4 times,6.0515
+Ishikawa,5 times,6.2094
+Ishikawa,6~9 times,7.592
+Ishikawa,10~19 times,6.4882
+Ishikawa,20+ times,2.8077
+Fukui,1 time,26.8735
+Fukui,2 times,11.953
+Fukui,3 times,6.3709
+Fukui,4 times,5.8587
+Fukui,5 times,9.1638
+Fukui,6~9 times,14.2247
+Fukui,10~19 times,16.3
+Fukui,20+ times,9.2554
+Yamanashi,1 time,53.6768
+Yamanashi,2 times,16.1153
+Yamanashi,3 times,8.3443
+Yamanashi,4 times,4.7919
+Yamanashi,5 times,4.3725
+Yamanashi,6~9 times,5.591
+Yamanashi,10~19 times,4.4812
+Yamanashi,20+ times,2.627
+Nagano,1 time,36.4934
+Nagano,2 times,13.0853
+Nagano,3 times,8.4252
+Nagano,4 times,7.0369
+Nagano,5 times,7.2092
+Nagano,6~9 times,10.8133
+Nagano,10~19 times,11.1312
+Nagano,20+ times,5.8054
+Gifu,1 time,35.7188
+Gifu,2 times,12.9002
+Gifu,3 times,10.295
+Gifu,4 times,7.0134
+Gifu,5 times,8.6622
+Gifu,6~9 times,10.2507
+Gifu,10~19 times,10.4385
+Gifu,20+ times,4.7213
+Shizuoka,1 time,43.2999
+Shizuoka,2 times,15.9087
+Shizuoka,3 times,8.1469
+Shizuoka,4 times,5.2249
+Shizuoka,5 times,5.6303
+Shizuoka,6~9 times,8.5784
+Shizuoka,10~19 times,7.3269
+Shizuoka,20+ times,5.8841
+Aichi,1 time,31.706
+Aichi,2 times,13.3834
+Aichi,3 times,10.5466
+Aichi,4 times,7.372
+Aichi,5 times,8.8483
+Aichi,6~9 times,10.9753
+Aichi,10~19 times,11.4291
+Aichi,20+ times,5.7394
+Mie,1 time,16.7924
+Mie,2 times,13.2581
+Mie,3 times,10.2254
+Mie,4 times,8.7052
+Mie,5 times,10.8129
+Mie,6~9 times,13.5101
+Mie,10~19 times,18.7824
+Mie,20+ times,7.9135
+Shiga,1 time,25.2175
+Shiga,2 times,12.3734
+Shiga,3 times,14.6242
+Shiga,4 times,7.6508
+Shiga,5 times,6.6428
+Shiga,6~9 times,12.2685
+Shiga,10~19 times,12.4872
+Shiga,20+ times,8.7357
+Kyoto,1 time,52.843
+Kyoto,2 times,16.6391
+Kyoto,3 times,8.9509
+Kyoto,4 times,5.3929
+Kyoto,5 times,4.1952
+Kyoto,6~9 times,5.633
+Kyoto,10~19 times,4.2754
+Kyoto,20+ times,2.0704
+Osaka,1 time,45.8222
+Osaka,2 times,17.4896
+Osaka,3 times,9.7097
+Osaka,4 times,6.3955
+Osaka,5 times,4.9849
+Osaka,6~9 times,6.9122
+Osaka,10~19 times,5.6768
+Osaka,20+ times,3.0092
+Hyogo,1 time,36.4591
+Hyogo,2 times,17.3746
+Hyogo,3 times,11.0202
+Hyogo,4 times,7.5807
+Hyogo,5 times,6.2348
+Hyogo,6~9 times,8.6997
+Hyogo,10~19 times,8.3274
+Hyogo,20+ times,4.3034
+Nara,1 time,60.1065
+Nara,2 times,16.5193
+Nara,3 times,7.3265
+Nara,4 times,3.9855
+Nara,5 times,2.9806
+Nara,6~9 times,4.4566
+Nara,10~19 times,3.0364
+Nara,20+ times,1.5886
+Wakayama,1 time,41.2129
+Wakayama,2 times,12.6579
+Wakayama,3 times,10.0081
+Wakayama,4 times,5.5068
+Wakayama,5 times,5.8267
+Wakayama,6~9 times,8.9068
+Wakayama,10~19 times,10.8908
+Wakayama,20+ times,4.9899
+Tottori,1 time,14.9168
+Tottori,2 times,7.0095
+Tottori,3 times,8.9358
+Tottori,4 times,7.8973
+Tottori,5 times,9.0195
+Tottori,6~9 times,13.8891
+Tottori,10~19 times,23.977
+Tottori,20+ times,14.355
+Shimane,1 time,10.9199
+Shimane,2 times,10.031
+Shimane,3 times,4.8182
+Shimane,4 times,6.1078
+Shimane,5 times,11.7942
+Shimane,6~9 times,16.2546
+Shimane,10~19 times,22.9114
+Shimane,20+ times,17.1629
+Okayama,1 time,27.8596
+Okayama,2 times,11.1472
+Okayama,3 times,5.5545
+Okayama,4 times,5.9518
+Okayama,5 times,7.1802
+Okayama,6~9 times,15.9863
+Okayama,10~19 times,16.7326
+Okayama,20+ times,9.5879
+Hiroshima,1 time,66.495
+Hiroshima,2 times,11.6809
+Hiroshima,3 times,5.0815
+Hiroshima,4 times,2.6763
+Hiroshima,5 times,2.9737
+Hiroshima,6~9 times,4.5516
+Hiroshima,10~19 times,3.7316
+Hiroshima,20+ times,2.8093
+Yamaguchi,1 time,12.8538
+Yamaguchi,2 times,12.7115
+Yamaguchi,3 times,7.6102
+Yamaguchi,4 times,9.3938
+Yamaguchi,5 times,14.7712
+Yamaguchi,6~9 times,11.9352
+Yamaguchi,10~19 times,18.0595
+Yamaguchi,20+ times,12.6648
+Tokushima,1 time,12.9993
+Tokushima,2 times,9.4249
+Tokushima,3 times,7.8748
+Tokushima,4 times,4.2241
+Tokushima,5 times,5.9518
+Tokushima,6~9 times,14.9784
+Tokushima,10~19 times,31.7469
+Tokushima,20+ times,12.7998
+Kagawa,1 time,20.9905
+Kagawa,2 times,8.0654
+Kagawa,3 times,7.3254
+Kagawa,4 times,7.6105
+Kagawa,5 times,8.1682
+Kagawa,6~9 times,15.8898
+Kagawa,10~19 times,20.8257
+Kagawa,20+ times,11.1245
+Ehime,1 time,22.3263
+Ehime,2 times,10.514
+Ehime,3 times,6.7142
+Ehime,4 times,6.9425
+Ehime,5 times,9.3076
+Ehime,6~9 times,14.921
+Ehime,10~19 times,21.3381
+Ehime,20+ times,7.9364
+Kochi,1 time,26.5797
+Kochi,2 times,6.7921
+Kochi,3 times,6.1498
+Kochi,4 times,3.6586
+Kochi,5 times,7.083
+Kochi,6~9 times,14.6658
+Kochi,10~19 times,26.0468
+Kochi,20+ times,9.0242
+Fukuoka,1 time,16.0354
+Fukuoka,2 times,16.1917
+Fukuoka,3 times,13.589
+Fukuoka,4 times,10.8463
+Fukuoka,5 times,9.9127
+Fukuoka,6~9 times,13.2121
+Fukuoka,10~19 times,12.9991
+Fukuoka,20+ times,7.2137
+Saga,1 time,11.0494
+Saga,2 times,8.4306
+Saga,3 times,13.3925
+Saga,4 times,8.8656
+Saga,5 times,9.4686
+Saga,6~9 times,15.6954
+Saga,10~19 times,20.4877
+Saga,20+ times,12.6102
+Nagasaki,1 time,22.7634
+Nagasaki,2 times,13.0878
+Nagasaki,3 times,10.4573
+Nagasaki,4 times,7.8039
+Nagasaki,5 times,8.1313
+Nagasaki,6~9 times,15.0617
+Nagasaki,10~19 times,15.1023
+Nagasaki,20+ times,7.5923
+Kumamoto,1 time,15.3964
+Kumamoto,2 times,12.6925
+Kumamoto,3 times,12.9222
+Kumamoto,4 times,9.849
+Kumamoto,5 times,11.0391
+Kumamoto,6~9 times,16.5234
+Kumamoto,10~19 times,14.8882
+Kumamoto,20+ times,6.6891
+Oita,1 time,17.6194
+Oita,2 times,16.6832
+Oita,3 times,13.9575
+Oita,4 times,11.737
+Oita,5 times,10.2806
+Oita,6~9 times,13.4699
+Oita,10~19 times,11.5914
+Oita,20+ times,4.661
+Miyazaki,1 time,12.9011
+Miyazaki,2 times,8.7428
+Miyazaki,3 times,9.9928
+Miyazaki,4 times,7.3646
+Miyazaki,5 times,12.2302
+Miyazaki,6~9 times,20.258
+Miyazaki,10~19 times,17.4908
+Miyazaki,20+ times,11.0196
+Kagoshima,1 time,16.469
+Kagoshima,2 times,10.9078
+Kagoshima,3 times,9.3325
+Kagoshima,4 times,8.2867
+Kagoshima,5 times,10.3203
+Kagoshima,6~9 times,15.0345
+Kagoshima,10~19 times,16.1734
+Kagoshima,20+ times,13.4758
+Okinawa,1 time,19.5044
+Okinawa,2 times,20.5089
+Okinawa,3 times,13.6922
+Okinawa,4 times,10.1017
+Okinawa,5 times,9.0562
+Okinawa,6~9 times,12.6203
+Okinawa,10~19 times,10.3827
+Okinawa,20+ times,4.1336
+Hokkaido Region,1 time,17.8135
+Hokkaido Region,2 times,17.9444
+Hokkaido Region,3 times,15.0917
+Hokkaido Region,4 times,10.3614
+Hokkaido Region,5 times,9.9704
+Hokkaido Region,6~9 times,13.9748
+Hokkaido Region,10~19 times,10.0161
+Hokkaido Region,20+ times,4.8277
+Tohoku Region,1 time,19.6441
+Tohoku Region,2 times,10.5066
+Tohoku Region,3 times,9.322
+Tohoku Region,4 times,7.087
+Tohoku Region,5 times,8.8864
+Tohoku Region,6~9 times,15.0369
+Tohoku Region,10~19 times,17.164
+Tohoku Region,20+ times,12.353
+Kanto Region,1 time,46.9558
+Kanto Region,2 times,16.231
+Kanto Region,3 times,9.1213
+Kanto Region,4 times,5.9655
+Kanto Region,5 times,5.1583
+Kanto Region,6~9 times,6.8714
+Kanto Region,10~19 times,5.9351
+Kanto Region,20+ times,3.7617
+Hokuriku-Shin'etsu Region,1 time,39.1966
+Hokuriku-Shin'etsu Region,2 times,13.233
+Hokuriku-Shin'etsu Region,3 times,8.9239
+Hokuriku-Shin'etsu Region,4 times,6.873
+Hokuriku-Shin'etsu Region,5 times,6.7567
+Hokuriku-Shin'etsu Region,6~9 times,10.0257
+Hokuriku-Shin'etsu Region,10~19 times,9.7275
+Hokuriku-Shin'etsu Region,20+ times,5.2636
+Chubu Region,1 time,39.1234
+Chubu Region,2 times,14.108
+Chubu Region,3 times,9.523
+Chubu Region,4 times,6.2367
+Chubu Region,5 times,7.1075
+Chubu Region,6~9 times,9.2272
+Chubu Region,10~19 times,9.3998
+Chubu Region,20+ times,5.2744
+Kinki Region,1 time,47.1263
+Kinki Region,2 times,17.2544
+Kinki Region,3 times,9.4914
+Kinki Region,4 times,6.16
+Kinki Region,5 times,4.8291
+Kinki Region,6~9 times,6.6776
+Kinki Region,10~19 times,5.5245
+Kinki Region,20+ times,2.9367
+Chugoku Region,1 time,54.9825
+Chugoku Region,2 times,11.7521
+Chugoku Region,3 times,5.4328
+Chugoku Region,4 times,4.0737
+Chugoku Region,5 times,4.5861
+Chugoku Region,6~9 times,6.9501
+Chugoku Region,10~19 times,7.3591
+Chugoku Region,20+ times,4.8636
+Shikoku Region,1 time,25.2992
+Shikoku Region,2 times,9.558
+Shikoku Region,3 times,7.79
+Shikoku Region,4 times,7.0909
+Shikoku Region,5 times,7.4297
+Shikoku Region,6~9 times,13.9007
+Shikoku Region,10~19 times,18.7532
+Shikoku Region,20+ times,10.1784
+Kyushu Region,1 time,16.8423
+Kyushu Region,2 times,15.9215
+Kyushu Region,3 times,13.3931
+Kyushu Region,4 times,10.5004
+Kyushu Region,5 times,9.8437
+Kyushu Region,6~9 times,13.1022
+Kyushu Region,10~19 times,12.9994
+Kyushu Region,20+ times,7.3975
+Okinawa Region,1 time,19.5044
+Okinawa Region,2 times,20.5089
+Okinawa Region,3 times,13.6922
+Okinawa Region,4 times,10.1017
+Okinawa Region,5 times,9.0562
+Okinawa Region,6~9 times,12.6203
+Okinawa Region,10~19 times,10.3827
+Okinawa Region,20+ times,4.1336

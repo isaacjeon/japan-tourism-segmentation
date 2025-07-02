@@ -1,0 +1,343 @@
+Area of Visit,Travel Companions,Percentage
+Hokkaido,Solo,12.5568
+Hokkaido,Spouse/partner,23.4596
+Hokkaido,Family member(s),36.9477
+Hokkaido,Work colleague(s),2.463
+Hokkaido,Friend(s),23.6419
+Hokkaido,Other,0.931
+Aomori,Solo,14.5537
+Aomori,Spouse/partner,28.1116
+Aomori,Family member(s),32.7605
+Aomori,Work colleague(s),2.1467
+Aomori,Friend(s),20.1525
+Aomori,Other,2.275
+Iwate,Solo,13.4336
+Iwate,Spouse/partner,31.7323
+Iwate,Family member(s),37.8327
+Iwate,Work colleague(s),2.2053
+Iwate,Friend(s),14.128
+Iwate,Other,0.6681
+Miyagi,Solo,19.6105
+Miyagi,Spouse/partner,24.5471
+Miyagi,Family member(s),32.845
+Miyagi,Work colleague(s),2.5872
+Miyagi,Friend(s),18.6882
+Miyagi,Other,1.7219
+Akita,Solo,15.2495
+Akita,Spouse/partner,32.6449
+Akita,Family member(s),28.0009
+Akita,Work colleague(s),3.7214
+Akita,Friend(s),18.6408
+Akita,Other,1.7424
+Yamagata,Solo,10.5546
+Yamagata,Spouse/partner,26.6193
+Yamagata,Family member(s),36.5451
+Yamagata,Work colleague(s),2.3356
+Yamagata,Friend(s),22.3501
+Yamagata,Other,1.5954
+Fukushima,Solo,16.5697
+Fukushima,Spouse/partner,22.9655
+Fukushima,Family member(s),32.4408
+Fukushima,Work colleague(s),3.7002
+Fukushima,Friend(s),21.1232
+Fukushima,Other,3.2006
+Ibaraki,Solo,24.2809
+Ibaraki,Spouse/partner,18.0577
+Ibaraki,Family member(s),26.8284
+Ibaraki,Work colleague(s),4.7611
+Ibaraki,Friend(s),23.5018
+Ibaraki,Other,2.5702
+Tochigi,Solo,22.0384
+Tochigi,Spouse/partner,24.7322
+Tochigi,Family member(s),24.9333
+Tochigi,Work colleague(s),2.3166
+Tochigi,Friend(s),23.5993
+Tochigi,Other,2.3802
+Gunma,Solo,23.2892
+Gunma,Spouse/partner,21.9193
+Gunma,Family member(s),23.9754
+Gunma,Work colleague(s),1.0177
+Gunma,Friend(s),27.6211
+Gunma,Other,2.1773
+Saitama,Solo,33.2545
+Saitama,Spouse/partner,17.5535
+Saitama,Family member(s),24.0804
+Saitama,Work colleague(s),2.622
+Saitama,Friend(s),21.5898
+Saitama,Other,0.8998
+Chiba,Solo,20.5229
+Chiba,Spouse/partner,18.8123
+Chiba,Family member(s),29.6757
+Chiba,Work colleague(s),1.5998
+Chiba,Friend(s),28.1973
+Chiba,Other,1.1919
+Tokyo,Solo,21.7612
+Tokyo,Spouse/partner,20.898
+Tokyo,Family member(s),27.8954
+Tokyo,Work colleague(s),1.5963
+Tokyo,Friend(s),26.6852
+Tokyo,Other,1.1639
+Kanagawa,Solo,22.5985
+Kanagawa,Spouse/partner,23.4995
+Kanagawa,Family member(s),26.869
+Kanagawa,Work colleague(s),1.5476
+Kanagawa,Friend(s),24.3267
+Kanagawa,Other,1.1587
+Niigata,Solo,19.7055
+Niigata,Spouse/partner,20.0827
+Niigata,Family member(s),27.4697
+Niigata,Work colleague(s),2.0233
+Niigata,Friend(s),28.9142
+Niigata,Other,1.8046
+Toyama,Solo,8.4857
+Toyama,Spouse/partner,19.9273
+Toyama,Family member(s),41.316
+Toyama,Work colleague(s),3.6095
+Toyama,Friend(s),24.2196
+Toyama,Other,2.4419
+Ishikawa,Solo,13.2506
+Ishikawa,Spouse/partner,33.691
+Ishikawa,Family member(s),31.56
+Ishikawa,Work colleague(s),1.7919
+Ishikawa,Friend(s),18.2179
+Ishikawa,Other,1.4886
+Fukui,Solo,18.2493
+Fukui,Spouse/partner,30.0113
+Fukui,Family member(s),34.3561
+Fukui,Work colleague(s),1.5689
+Fukui,Friend(s),14.5238
+Fukui,Other,1.2906
+Yamanashi,Solo,13.8962
+Yamanashi,Spouse/partner,21.9307
+Yamanashi,Family member(s),33.5827
+Yamanashi,Work colleague(s),2.6499
+Yamanashi,Friend(s),26.3488
+Yamanashi,Other,1.5917
+Nagano,Solo,14.4495
+Nagano,Spouse/partner,25.5793
+Nagano,Family member(s),31.2929
+Nagano,Work colleague(s),2.3235
+Nagano,Friend(s),24.3775
+Nagano,Other,1.9773
+Gifu,Solo,9.7914
+Gifu,Spouse/partner,25.1299
+Gifu,Family member(s),37.2033
+Gifu,Work colleague(s),2.2218
+Gifu,Friend(s),23.8341
+Gifu,Other,1.8194
+Shizuoka,Solo,16.1466
+Shizuoka,Spouse/partner,22.8778
+Shizuoka,Family member(s),32.892
+Shizuoka,Work colleague(s),2.6474
+Shizuoka,Friend(s),23.8144
+Shizuoka,Other,1.6216
+Aichi,Solo,15.2272
+Aichi,Spouse/partner,15.1341
+Aichi,Family member(s),37.9745
+Aichi,Work colleague(s),2.7332
+Aichi,Friend(s),27.7415
+Aichi,Other,1.1895
+Mie,Solo,14.0673
+Mie,Spouse/partner,16.6103
+Mie,Family member(s),43.3755
+Mie,Work colleague(s),3.6904
+Mie,Friend(s),21.3463
+Mie,Other,0.9102
+Shiga,Solo,20.333
+Shiga,Spouse/partner,19.9047
+Shiga,Family member(s),34.1495
+Shiga,Work colleague(s),4.1907
+Shiga,Friend(s),18.8369
+Shiga,Other,2.5852
+Kyoto,Solo,15.2311
+Kyoto,Spouse/partner,24.0615
+Kyoto,Family member(s),31.2699
+Kyoto,Work colleague(s),1.7936
+Kyoto,Friend(s),26.2809
+Kyoto,Other,1.363
+Osaka,Solo,16.059
+Osaka,Spouse/partner,21.6902
+Osaka,Family member(s),31.4491
+Osaka,Work colleague(s),1.933
+Osaka,Friend(s),27.6251
+Osaka,Other,1.2437
+Hyogo,Solo,18.0743
+Hyogo,Spouse/partner,22.843
+Hyogo,Family member(s),32.3393
+Hyogo,Work colleague(s),2.3757
+Hyogo,Friend(s),23.0262
+Hyogo,Other,1.3415
+Nara,Solo,15.4819
+Nara,Spouse/partner,24.7293
+Nara,Family member(s),33.1993
+Nara,Work colleague(s),1.836
+Nara,Friend(s),23.2565
+Nara,Other,1.4971
+Wakayama,Solo,21.4224
+Wakayama,Spouse/partner,26.4177
+Wakayama,Family member(s),28.6582
+Wakayama,Work colleague(s),1.5523
+Wakayama,Friend(s),20.3313
+Wakayama,Other,1.6181
+Tottori,Solo,20.3276
+Tottori,Spouse/partner,27.1923
+Tottori,Family member(s),30.7121
+Tottori,Work colleague(s),1.7053
+Tottori,Friend(s),19.5536
+Tottori,Other,0.5091
+Shimane,Solo,26.5043
+Shimane,Spouse/partner,29.704
+Shimane,Family member(s),29.0203
+Shimane,Work colleague(s),0
+Shimane,Friend(s),13.5211
+Shimane,Other,1.2503
+Okayama,Solo,22.3521
+Okayama,Spouse/partner,25.6539
+Okayama,Family member(s),31.5699
+Okayama,Work colleague(s),1.6627
+Okayama,Friend(s),17.058
+Okayama,Other,1.7034
+Hiroshima,Solo,23.8428
+Hiroshima,Spouse/partner,32.1784
+Hiroshima,Family member(s),22.2618
+Hiroshima,Work colleague(s),0.5866
+Hiroshima,Friend(s),19.5793
+Hiroshima,Other,1.5511
+Yamaguchi,Solo,21.3877
+Yamaguchi,Spouse/partner,18.5719
+Yamaguchi,Family member(s),29.2192
+Yamaguchi,Work colleague(s),3.2177
+Yamaguchi,Friend(s),26.476
+Yamaguchi,Other,1.1274
+Tokushima,Solo,20.1706
+Tokushima,Spouse/partner,24.1875
+Tokushima,Family member(s),29.2742
+Tokushima,Work colleague(s),2.0423
+Tokushima,Friend(s),20.7997
+Tokushima,Other,3.5257
+Kagawa,Solo,18.0396
+Kagawa,Spouse/partner,26.1494
+Kagawa,Family member(s),29.3239
+Kagawa,Work colleague(s),2.3955
+Kagawa,Friend(s),22.201
+Kagawa,Other,1.8908
+Ehime,Solo,18.9294
+Ehime,Spouse/partner,21.5177
+Ehime,Family member(s),30.7309
+Ehime,Work colleague(s),3.8433
+Ehime,Friend(s),22.6074
+Ehime,Other,2.3713
+Kochi,Solo,15.9514
+Kochi,Spouse/partner,31.0128
+Kochi,Family member(s),31.5315
+Kochi,Work colleague(s),1.3285
+Kochi,Friend(s),17.7069
+Kochi,Other,2.4689
+Fukuoka,Solo,17.0813
+Fukuoka,Spouse/partner,20.4139
+Fukuoka,Family member(s),34.5966
+Fukuoka,Work colleague(s),2.9572
+Fukuoka,Friend(s),24.1389
+Fukuoka,Other,0.812
+Saga,Solo,13.9833
+Saga,Spouse/partner,21.8659
+Saga,Family member(s),39.2358
+Saga,Work colleague(s),3.84
+Saga,Friend(s),20.3859
+Saga,Other,0.6891
+Nagasaki,Solo,17.8294
+Nagasaki,Spouse/partner,24.6674
+Nagasaki,Family member(s),33.549
+Nagasaki,Work colleague(s),3.6273
+Nagasaki,Friend(s),18.1731
+Nagasaki,Other,2.1538
+Kumamoto,Solo,10.9351
+Kumamoto,Spouse/partner,18.8312
+Kumamoto,Family member(s),44.7481
+Kumamoto,Work colleague(s),4.5239
+Kumamoto,Friend(s),19.2494
+Kumamoto,Other,1.7124
+Oita,Solo,7.9165
+Oita,Spouse/partner,21.9912
+Oita,Family member(s),43.8999
+Oita,Work colleague(s),3.9757
+Oita,Friend(s),21.2786
+Oita,Other,0.9382
+Miyazaki,Solo,14.4569
+Miyazaki,Spouse/partner,27.0503
+Miyazaki,Family member(s),36.8883
+Miyazaki,Work colleague(s),1.259
+Miyazaki,Friend(s),18.4734
+Miyazaki,Other,1.8721
+Kagoshima,Solo,18.0828
+Kagoshima,Spouse/partner,25.5374
+Kagoshima,Family member(s),33.1236
+Kagoshima,Work colleague(s),2.0511
+Kagoshima,Friend(s),19.5982
+Kagoshima,Other,1.6069
+Okinawa,Solo,9.7719
+Okinawa,Spouse/partner,19.3583
+Okinawa,Family member(s),49.562
+Okinawa,Work colleague(s),3.6108
+Okinawa,Friend(s),15.8915
+Okinawa,Other,1.8055
+Hokkaido Region,Solo,12.5568
+Hokkaido Region,Spouse/partner,23.4596
+Hokkaido Region,Family member(s),36.9477
+Hokkaido Region,Work colleague(s),2.463
+Hokkaido Region,Friend(s),23.6419
+Hokkaido Region,Other,0.931
+Tohoku Region,Solo,19.5782
+Tohoku Region,Spouse/partner,24.3608
+Tohoku Region,Family member(s),31.1012
+Tohoku Region,Work colleague(s),2.4343
+Tohoku Region,Friend(s),20.6672
+Tohoku Region,Other,1.8584
+Kanto Region,Solo,21.7853
+Kanto Region,Spouse/partner,20.7882
+Kanto Region,Family member(s),28.1433
+Kanto Region,Work colleague(s),1.6094
+Kanto Region,Friend(s),26.4783
+Kanto Region,Other,1.1955
+Hokuriku-Shin'etsu Region,Solo,14.1194
+Hokuriku-Shin'etsu Region,Spouse/partner,27.4421
+Hokuriku-Shin'etsu Region,Family member(s),31.394
+Hokuriku-Shin'etsu Region,Work colleague(s),2.1302
+Hokuriku-Shin'etsu Region,Friend(s),23.176
+Hokuriku-Shin'etsu Region,Other,1.7382
+Chubu Region,Solo,15.2668
+Chubu Region,Spouse/partner,20.5775
+Chubu Region,Family member(s),34.9979
+Chubu Region,Work colleague(s),2.5634
+Chubu Region,Friend(s),25.1474
+Chubu Region,Other,1.447
+Kinki Region,Solo,16.3992
+Kinki Region,Spouse/partner,22.1301
+Kinki Region,Family member(s),31.1625
+Kinki Region,Work colleague(s),1.8497
+Kinki Region,Friend(s),27.2068
+Kinki Region,Other,1.2516
+Chugoku Region,Solo,22.9965
+Chugoku Region,Spouse/partner,29.8252
+Chugoku Region,Family member(s),24.5609
+Chugoku Region,Work colleague(s),1.1484
+Chugoku Region,Friend(s),19.9865
+Chugoku Region,Other,1.4825
+Shikoku Region,Solo,20.0816
+Shikoku Region,Spouse/partner,26.4523
+Shikoku Region,Family member(s),28.5315
+Shikoku Region,Work colleague(s),2.53
+Shikoku Region,Friend(s),20.4866
+Shikoku Region,Other,1.918
+Kyushu Region,Solo,17.1737
+Kyushu Region,Spouse/partner,20.9175
+Kyushu Region,Family member(s),34.304
+Kyushu Region,Work colleague(s),2.8919
+Kyushu Region,Friend(s),23.8957
+Kyushu Region,Other,0.817
+Okinawa Region,Solo,9.7719
+Okinawa Region,Spouse/partner,19.3583
+Okinawa Region,Family member(s),49.562
+Okinawa Region,Work colleague(s),3.6108
+Okinawa Region,Friend(s),15.8915
+Okinawa Region,Other,1.8055

@@ -1,0 +1,1483 @@
+Area of Visit,Port of Departure,Percentage
+Hokkaido,New Chitose,74.7068
+Hokkaido,Hakodate,3.6174
+Hokkaido,Aomori,0.0097
+Hokkaido,Sendai,0.2571
+Hokkaido,Ibaraki,0.0128
+Hokkaido,Haneda,7.8511
+Hokkaido,Narita,10.3402
+Hokkaido,Komatsu,0
+Hokkaido,Toyama,0
+Hokkaido,Mt.Fuji Shizuoka,0.007
+Hokkaido,Chubu,0.5049
+Hokkaido,Kansai,2.2821
+Hokkaido,Yonago,0
+Hokkaido,Okayama,0.0212
+Hokkaido,Hiroshima,0.0172
+Hokkaido,Sakai Port,0
+Hokkaido,Kanmon (Shimonoseki) Port,0
+Hokkaido,Takamatsu,0.0095
+Hokkaido,Fukuoka,0.3332
+Hokkaido,Hakata Port,0.0104
+Hokkaido,Saga,0
+Hokkaido,Izuhara Port,0
+Hokkaido,Miyazaki,0
+Hokkaido,Kagoshima,0
+Hokkaido,Naha,0.0194
+Hokkaido,Other,0
+Aomori,New Chitose,4.5677
+Aomori,Hakodate,0.3522
+Aomori,Aomori,4.3388
+Aomori,Sendai,25.7391
+Aomori,Ibaraki,0.1053
+Aomori,Haneda,23.9127
+Aomori,Narita,37.0403
+Aomori,Komatsu,0
+Aomori,Toyama,0
+Aomori,Mt.Fuji Shizuoka,0
+Aomori,Chubu,0.1946
+Aomori,Kansai,2.8173
+Aomori,Yonago,0
+Aomori,Okayama,0
+Aomori,Hiroshima,0
+Aomori,Sakai Port,0
+Aomori,Kanmon (Shimonoseki) Port,0
+Aomori,Takamatsu,0
+Aomori,Fukuoka,0.932
+Aomori,Hakata Port,0
+Aomori,Saga,0
+Aomori,Izuhara Port,0
+Aomori,Miyazaki,0
+Aomori,Kagoshima,0
+Aomori,Naha,0
+Aomori,Other,0
+Iwate,New Chitose,1.6354
+Iwate,Hakodate,0
+Iwate,Aomori,0
+Iwate,Sendai,55.8357
+Iwate,Ibaraki,0.1154
+Iwate,Haneda,12.4012
+Iwate,Narita,28.7725
+Iwate,Komatsu,0
+Iwate,Toyama,0.0407
+Iwate,Mt.Fuji Shizuoka,0
+Iwate,Chubu,0.2855
+Iwate,Kansai,0.5753
+Iwate,Yonago,0
+Iwate,Okayama,0
+Iwate,Hiroshima,0
+Iwate,Sakai Port,0
+Iwate,Kanmon (Shimonoseki) Port,0
+Iwate,Takamatsu,0
+Iwate,Fukuoka,0.1747
+Iwate,Hakata Port,0.1635
+Iwate,Saga,0
+Iwate,Izuhara Port,0
+Iwate,Miyazaki,0
+Iwate,Kagoshima,0
+Iwate,Naha,0
+Iwate,Other,0
+Miyagi,New Chitose,2.2842
+Miyagi,Hakodate,0
+Miyagi,Aomori,0
+Miyagi,Sendai,46.1777
+Miyagi,Ibaraki,0.3014
+Miyagi,Haneda,15.2771
+Miyagi,Narita,33.2761
+Miyagi,Komatsu,0
+Miyagi,Toyama,0
+Miyagi,Mt.Fuji Shizuoka,0
+Miyagi,Chubu,0.5906
+Miyagi,Kansai,1.4563
+Miyagi,Yonago,0
+Miyagi,Okayama,0.0765
+Miyagi,Hiroshima,0.0477
+Miyagi,Sakai Port,0
+Miyagi,Kanmon (Shimonoseki) Port,0
+Miyagi,Takamatsu,0.0598
+Miyagi,Fukuoka,0.3868
+Miyagi,Hakata Port,0.0657
+Miyagi,Saga,0
+Miyagi,Izuhara Port,0
+Miyagi,Miyazaki,0
+Miyagi,Kagoshima,0
+Miyagi,Naha,0
+Miyagi,Other,0
+Akita,New Chitose,1.1723
+Akita,Hakodate,0
+Akita,Aomori,0.1473
+Akita,Sendai,43.6405
+Akita,Ibaraki,0.1542
+Akita,Haneda,16.0546
+Akita,Narita,34.3832
+Akita,Komatsu,0
+Akita,Toyama,0
+Akita,Mt.Fuji Shizuoka,0
+Akita,Chubu,0.4662
+Akita,Kansai,3.7239
+Akita,Yonago,0
+Akita,Okayama,0
+Akita,Hiroshima,0
+Akita,Sakai Port,0
+Akita,Kanmon (Shimonoseki) Port,0
+Akita,Takamatsu,0
+Akita,Fukuoka,0.2578
+Akita,Hakata Port,0
+Akita,Saga,0
+Akita,Izuhara Port,0
+Akita,Miyazaki,0
+Akita,Kagoshima,0
+Akita,Naha,0
+Akita,Other,0
+Yamagata,New Chitose,0.1096
+Yamagata,Hakodate,0
+Yamagata,Aomori,0
+Yamagata,Sendai,50.4741
+Yamagata,Ibaraki,0.5309
+Yamagata,Haneda,10.2568
+Yamagata,Narita,36.5747
+Yamagata,Komatsu,0
+Yamagata,Toyama,0
+Yamagata,Mt.Fuji Shizuoka,0.0908
+Yamagata,Chubu,0.3749
+Yamagata,Kansai,1.2548
+Yamagata,Yonago,0
+Yamagata,Okayama,0
+Yamagata,Hiroshima,0
+Yamagata,Sakai Port,0
+Yamagata,Kanmon (Shimonoseki) Port,0
+Yamagata,Takamatsu,0.1228
+Yamagata,Fukuoka,0.2108
+Yamagata,Hakata Port,0
+Yamagata,Saga,0
+Yamagata,Izuhara Port,0
+Yamagata,Miyazaki,0
+Yamagata,Kagoshima,0
+Yamagata,Naha,0
+Yamagata,Other,0
+Fukushima,New Chitose,0.4113
+Fukushima,Hakodate,0
+Fukushima,Aomori,0
+Fukushima,Sendai,24.7261
+Fukushima,Ibaraki,3.1227
+Fukushima,Haneda,14.8194
+Fukushima,Narita,55.562
+Fukushima,Komatsu,0.2641
+Fukushima,Toyama,0
+Fukushima,Mt.Fuji Shizuoka,0
+Fukushima,Chubu,1.0943
+Fukushima,Kansai,0
+Fukushima,Yonago,0
+Fukushima,Okayama,0
+Fukushima,Hiroshima,0
+Fukushima,Sakai Port,0
+Fukushima,Kanmon (Shimonoseki) Port,0
+Fukushima,Takamatsu,0
+Fukushima,Fukuoka,0
+Fukushima,Hakata Port,0
+Fukushima,Saga,0
+Fukushima,Izuhara Port,0
+Fukushima,Miyazaki,0
+Fukushima,Kagoshima,0
+Fukushima,Naha,0
+Fukushima,Other,0
+Ibaraki,New Chitose,0.3057
+Ibaraki,Hakodate,0
+Ibaraki,Aomori,0
+Ibaraki,Sendai,0
+Ibaraki,Ibaraki,19.3611
+Ibaraki,Haneda,20.4743
+Ibaraki,Narita,58.3145
+Ibaraki,Komatsu,0
+Ibaraki,Toyama,0
+Ibaraki,Mt.Fuji Shizuoka,0
+Ibaraki,Chubu,0.6697
+Ibaraki,Kansai,0.8747
+Ibaraki,Yonago,0
+Ibaraki,Okayama,0
+Ibaraki,Hiroshima,0
+Ibaraki,Sakai Port,0
+Ibaraki,Kanmon (Shimonoseki) Port,0
+Ibaraki,Takamatsu,0
+Ibaraki,Fukuoka,0
+Ibaraki,Hakata Port,0
+Ibaraki,Saga,0
+Ibaraki,Izuhara Port,0
+Ibaraki,Miyazaki,0
+Ibaraki,Kagoshima,0
+Ibaraki,Naha,0
+Ibaraki,Other,0
+Tochigi,New Chitose,0.1501
+Tochigi,Hakodate,0
+Tochigi,Aomori,0
+Tochigi,Sendai,0.2129
+Tochigi,Ibaraki,1.38
+Tochigi,Haneda,31.0695
+Tochigi,Narita,58.4148
+Tochigi,Komatsu,0.0809
+Tochigi,Toyama,0
+Tochigi,Mt.Fuji Shizuoka,0.0045
+Tochigi,Chubu,0.2437
+Tochigi,Kansai,8.013
+Tochigi,Yonago,0
+Tochigi,Okayama,0
+Tochigi,Hiroshima,0
+Tochigi,Sakai Port,0
+Tochigi,Kanmon (Shimonoseki) Port,0
+Tochigi,Takamatsu,0.059
+Tochigi,Fukuoka,0.3716
+Tochigi,Hakata Port,0
+Tochigi,Saga,0
+Tochigi,Izuhara Port,0
+Tochigi,Miyazaki,0
+Tochigi,Kagoshima,0
+Tochigi,Naha,0
+Tochigi,Other,0
+Gunma,New Chitose,0.3851
+Gunma,Hakodate,0
+Gunma,Aomori,0
+Gunma,Sendai,0
+Gunma,Ibaraki,0.5285
+Gunma,Haneda,26.9245
+Gunma,Narita,68.7938
+Gunma,Komatsu,0.1085
+Gunma,Toyama,0
+Gunma,Mt.Fuji Shizuoka,0.0116
+Gunma,Chubu,0.0912
+Gunma,Kansai,3.1567
+Gunma,Yonago,0
+Gunma,Okayama,0
+Gunma,Hiroshima,0
+Gunma,Sakai Port,0
+Gunma,Kanmon (Shimonoseki) Port,0
+Gunma,Takamatsu,0
+Gunma,Fukuoka,0
+Gunma,Hakata Port,0
+Gunma,Saga,0
+Gunma,Izuhara Port,0
+Gunma,Miyazaki,0
+Gunma,Kagoshima,0
+Gunma,Naha,0
+Gunma,Other,0
+Saitama,New Chitose,0.1894
+Saitama,Hakodate,0
+Saitama,Aomori,0
+Saitama,Sendai,0
+Saitama,Ibaraki,0.1226
+Saitama,Haneda,24.4531
+Saitama,Narita,71.8267
+Saitama,Komatsu,0
+Saitama,Toyama,0
+Saitama,Mt.Fuji Shizuoka,0.0362
+Saitama,Chubu,0.0938
+Saitama,Kansai,3.1224
+Saitama,Yonago,0
+Saitama,Okayama,0.1559
+Saitama,Hiroshima,0
+Saitama,Sakai Port,0
+Saitama,Kanmon (Shimonoseki) Port,0
+Saitama,Takamatsu,0
+Saitama,Fukuoka,0
+Saitama,Hakata Port,0
+Saitama,Saga,0
+Saitama,Izuhara Port,0
+Saitama,Miyazaki,0
+Saitama,Kagoshima,0
+Saitama,Naha,0
+Saitama,Other,0
+Chiba,New Chitose,0.2453
+Chiba,Hakodate,0
+Chiba,Aomori,0.0017
+Chiba,Sendai,0.051
+Chiba,Ibaraki,0.0741
+Chiba,Haneda,7.4754
+Chiba,Narita,82.0838
+Chiba,Komatsu,0.0115
+Chiba,Toyama,0.0013
+Chiba,Mt.Fuji Shizuoka,0.0608
+Chiba,Chubu,0.4665
+Chiba,Kansai,9.2499
+Chiba,Yonago,0
+Chiba,Okayama,0.0038
+Chiba,Hiroshima,0.0134
+Chiba,Sakai Port,0
+Chiba,Kanmon (Shimonoseki) Port,0
+Chiba,Takamatsu,0
+Chiba,Fukuoka,0.2143
+Chiba,Hakata Port,0.0068
+Chiba,Saga,0
+Chiba,Izuhara Port,0
+Chiba,Miyazaki,0
+Chiba,Kagoshima,0.0017
+Chiba,Naha,0.0387
+Chiba,Other,0
+Tokyo,New Chitose,0.3193
+Tokyo,Hakodate,0.0047
+Tokyo,Aomori,0.0025
+Tokyo,Sendai,0.0604
+Tokyo,Ibaraki,0.0652
+Tokyo,Haneda,28.8829
+Tokyo,Narita,57.8426
+Tokyo,Komatsu,0.0101
+Tokyo,Toyama,0.0204
+Tokyo,Mt.Fuji Shizuoka,0.1014
+Tokyo,Chubu,0.8258
+Tokyo,Kansai,11.4486
+Tokyo,Yonago,0
+Tokyo,Okayama,0.0097
+Tokyo,Hiroshima,0.0204
+Tokyo,Sakai Port,0
+Tokyo,Kanmon (Shimonoseki) Port,0.0028
+Tokyo,Takamatsu,0.0133
+Tokyo,Fukuoka,0.3056
+Tokyo,Hakata Port,0.0081
+Tokyo,Saga,0
+Tokyo,Izuhara Port,0
+Tokyo,Miyazaki,0
+Tokyo,Kagoshima,0.0032
+Tokyo,Naha,0.0532
+Tokyo,Other,0
+Kanagawa,New Chitose,0.1459
+Kanagawa,Hakodate,0
+Kanagawa,Aomori,0.0071
+Kanagawa,Sendai,0.0147
+Kanagawa,Ibaraki,0.0436
+Kanagawa,Haneda,34.2218
+Kanagawa,Narita,53.9581
+Kanagawa,Komatsu,0.013
+Kanagawa,Toyama,0.0035
+Kanagawa,Mt.Fuji Shizuoka,0.2101
+Kanagawa,Chubu,0.77
+Kanagawa,Kansai,10.3564
+Kanagawa,Yonago,0
+Kanagawa,Okayama,0.0053
+Kanagawa,Hiroshima,0.015
+Kanagawa,Sakai Port,0
+Kanagawa,Kanmon (Shimonoseki) Port,0
+Kanagawa,Takamatsu,0
+Kanagawa,Fukuoka,0.2047
+Kanagawa,Hakata Port,0.0143
+Kanagawa,Saga,0
+Kanagawa,Izuhara Port,0
+Kanagawa,Miyazaki,0
+Kanagawa,Kagoshima,0
+Kanagawa,Naha,0.0167
+Kanagawa,Other,0
+Niigata,New Chitose,0.2378
+Niigata,Hakodate,0
+Niigata,Aomori,0
+Niigata,Sendai,4.1143
+Niigata,Ibaraki,0.3098
+Niigata,Haneda,32.8274
+Niigata,Narita,55.6298
+Niigata,Komatsu,0.3998
+Niigata,Toyama,0.0364
+Niigata,Mt.Fuji Shizuoka,0.3002
+Niigata,Chubu,2.2738
+Niigata,Kansai,2.7019
+Niigata,Yonago,0
+Niigata,Okayama,0
+Niigata,Hiroshima,0.079
+Niigata,Sakai Port,0
+Niigata,Kanmon (Shimonoseki) Port,0
+Niigata,Takamatsu,0
+Niigata,Fukuoka,0.8201
+Niigata,Hakata Port,0
+Niigata,Saga,0
+Niigata,Izuhara Port,0
+Niigata,Miyazaki,0
+Niigata,Kagoshima,0
+Niigata,Naha,0.2697
+Niigata,Other,0
+Toyama,New Chitose,0.1159
+Toyama,Hakodate,0
+Toyama,Aomori,0
+Toyama,Sendai,0
+Toyama,Ibaraki,0
+Toyama,Haneda,9.5596
+Toyama,Narita,20.9858
+Toyama,Komatsu,12.803
+Toyama,Toyama,2.0116
+Toyama,Mt.Fuji Shizuoka,0.0487
+Toyama,Chubu,47.3737
+Toyama,Kansai,6.7349
+Toyama,Yonago,0
+Toyama,Okayama,0
+Toyama,Hiroshima,0
+Toyama,Sakai Port,0
+Toyama,Kanmon (Shimonoseki) Port,0
+Toyama,Takamatsu,0
+Toyama,Fukuoka,0.3668
+Toyama,Hakata Port,0
+Toyama,Saga,0
+Toyama,Izuhara Port,0
+Toyama,Miyazaki,0
+Toyama,Kagoshima,0
+Toyama,Naha,0
+Toyama,Other,0
+Ishikawa,New Chitose,0.1437
+Ishikawa,Hakodate,0
+Ishikawa,Aomori,0
+Ishikawa,Sendai,0
+Ishikawa,Ibaraki,0
+Ishikawa,Haneda,25.5163
+Ishikawa,Narita,26.6855
+Ishikawa,Komatsu,8.9825
+Ishikawa,Toyama,0.7516
+Ishikawa,Mt.Fuji Shizuoka,0
+Ishikawa,Chubu,20.5751
+Ishikawa,Kansai,16.8722
+Ishikawa,Yonago,0
+Ishikawa,Okayama,0.0837
+Ishikawa,Hiroshima,0.0256
+Ishikawa,Sakai Port,0
+Ishikawa,Kanmon (Shimonoseki) Port,0
+Ishikawa,Takamatsu,0
+Ishikawa,Fukuoka,0.3638
+Ishikawa,Hakata Port,0
+Ishikawa,Saga,0
+Ishikawa,Izuhara Port,0
+Ishikawa,Miyazaki,0
+Ishikawa,Kagoshima,0
+Ishikawa,Naha,0
+Ishikawa,Other,0
+Fukui,New Chitose,0
+Fukui,Hakodate,0
+Fukui,Aomori,0
+Fukui,Sendai,0
+Fukui,Ibaraki,0
+Fukui,Haneda,18.3966
+Fukui,Narita,20.5577
+Fukui,Komatsu,9.576
+Fukui,Toyama,0.169
+Fukui,Mt.Fuji Shizuoka,0
+Fukui,Chubu,29.6987
+Fukui,Kansai,21.602
+Fukui,Yonago,0
+Fukui,Okayama,0
+Fukui,Hiroshima,0
+Fukui,Sakai Port,0
+Fukui,Kanmon (Shimonoseki) Port,0
+Fukui,Takamatsu,0
+Fukui,Fukuoka,0
+Fukui,Hakata Port,0
+Fukui,Saga,0
+Fukui,Izuhara Port,0
+Fukui,Miyazaki,0
+Fukui,Kagoshima,0
+Fukui,Naha,0
+Fukui,Other,0
+Yamanashi,New Chitose,0.0265
+Yamanashi,Hakodate,0
+Yamanashi,Aomori,0
+Yamanashi,Sendai,0.0146
+Yamanashi,Ibaraki,0.0624
+Yamanashi,Haneda,25.3986
+Yamanashi,Narita,60.753
+Yamanashi,Komatsu,0
+Yamanashi,Toyama,0.0069
+Yamanashi,Mt.Fuji Shizuoka,0.4676
+Yamanashi,Chubu,1.4488
+Yamanashi,Kansai,11.6558
+Yamanashi,Yonago,0
+Yamanashi,Okayama,0.0205
+Yamanashi,Hiroshima,0.0032
+Yamanashi,Sakai Port,0
+Yamanashi,Kanmon (Shimonoseki) Port,0
+Yamanashi,Takamatsu,0.0081
+Yamanashi,Fukuoka,0.134
+Yamanashi,Hakata Port,0
+Yamanashi,Saga,0
+Yamanashi,Izuhara Port,0
+Yamanashi,Miyazaki,0
+Yamanashi,Kagoshima,0
+Yamanashi,Naha,0
+Yamanashi,Other,0
+Nagano,New Chitose,0.1283
+Nagano,Hakodate,0
+Nagano,Aomori,0
+Nagano,Sendai,0
+Nagano,Ibaraki,0.0062
+Nagano,Haneda,23.6175
+Nagano,Narita,50.0289
+Nagano,Komatsu,1.425
+Nagano,Toyama,0.0098
+Nagano,Mt.Fuji Shizuoka,0.077
+Nagano,Chubu,16.02
+Nagano,Kansai,8.1896
+Nagano,Yonago,0
+Nagano,Okayama,0.0514
+Nagano,Hiroshima,0
+Nagano,Sakai Port,0
+Nagano,Kanmon (Shimonoseki) Port,0
+Nagano,Takamatsu,0
+Nagano,Fukuoka,0.4462
+Nagano,Hakata Port,0
+Nagano,Saga,0
+Nagano,Izuhara Port,0
+Nagano,Miyazaki,0
+Nagano,Kagoshima,0
+Nagano,Naha,0
+Nagano,Other,0
+Gifu,New Chitose,0.18
+Gifu,Hakodate,0
+Gifu,Aomori,0
+Gifu,Sendai,0
+Gifu,Ibaraki,0
+Gifu,Haneda,15.0695
+Gifu,Narita,19.0405
+Gifu,Komatsu,4.5856
+Gifu,Toyama,0.2221
+Gifu,Mt.Fuji Shizuoka,0.0532
+Gifu,Chubu,45.6181
+Gifu,Kansai,14.9779
+Gifu,Yonago,0
+Gifu,Okayama,0
+Gifu,Hiroshima,0.0237
+Gifu,Sakai Port,0
+Gifu,Kanmon (Shimonoseki) Port,0
+Gifu,Takamatsu,0
+Gifu,Fukuoka,0.2296
+Gifu,Hakata Port,0
+Gifu,Saga,0
+Gifu,Izuhara Port,0
+Gifu,Miyazaki,0
+Gifu,Kagoshima,0
+Gifu,Naha,0
+Gifu,Other,0
+Shizuoka,New Chitose,0.0271
+Shizuoka,Hakodate,0
+Shizuoka,Aomori,0
+Shizuoka,Sendai,0
+Shizuoka,Ibaraki,0.0231
+Shizuoka,Haneda,23.7446
+Shizuoka,Narita,51.1267
+Shizuoka,Komatsu,0.0177
+Shizuoka,Toyama,0.0327
+Shizuoka,Mt.Fuji Shizuoka,4.9146
+Shizuoka,Chubu,7.7084
+Shizuoka,Kansai,12.1151
+Shizuoka,Yonago,0
+Shizuoka,Okayama,0.0132
+Shizuoka,Hiroshima,0.022
+Shizuoka,Sakai Port,0
+Shizuoka,Kanmon (Shimonoseki) Port,0
+Shizuoka,Takamatsu,0
+Shizuoka,Fukuoka,0.2331
+Shizuoka,Hakata Port,0.0214
+Shizuoka,Saga,0
+Shizuoka,Izuhara Port,0
+Shizuoka,Miyazaki,0
+Shizuoka,Kagoshima,0
+Shizuoka,Naha,0
+Shizuoka,Other,0
+Aichi,New Chitose,0.1883
+Aichi,Hakodate,0
+Aichi,Aomori,0
+Aichi,Sendai,0
+Aichi,Ibaraki,0.0024
+Aichi,Haneda,8.8749
+Aichi,Narita,16.5072
+Aichi,Komatsu,2.252
+Aichi,Toyama,0.0219
+Aichi,Mt.Fuji Shizuoka,0.2131
+Aichi,Chubu,53.1193
+Aichi,Kansai,18.2888
+Aichi,Yonago,0
+Aichi,Okayama,0.0557
+Aichi,Hiroshima,0.0044
+Aichi,Sakai Port,0
+Aichi,Kanmon (Shimonoseki) Port,0
+Aichi,Takamatsu,0.0214
+Aichi,Fukuoka,0.3723
+Aichi,Hakata Port,0.0235
+Aichi,Saga,0
+Aichi,Izuhara Port,0
+Aichi,Miyazaki,0
+Aichi,Kagoshima,0
+Aichi,Naha,0.0547
+Aichi,Other,0
+Mie,New Chitose,0.1437
+Mie,Hakodate,0
+Mie,Aomori,0
+Mie,Sendai,0
+Mie,Ibaraki,0
+Mie,Haneda,8.9481
+Mie,Narita,6.1802
+Mie,Komatsu,0.4308
+Mie,Toyama,0
+Mie,Mt.Fuji Shizuoka,0
+Mie,Chubu,64.4897
+Mie,Kansai,19.6108
+Mie,Yonago,0
+Mie,Okayama,0
+Mie,Hiroshima,0
+Mie,Sakai Port,0
+Mie,Kanmon (Shimonoseki) Port,0
+Mie,Takamatsu,0.1967
+Mie,Fukuoka,0
+Mie,Hakata Port,0
+Mie,Saga,0
+Mie,Izuhara Port,0
+Mie,Miyazaki,0
+Mie,Kagoshima,0
+Mie,Naha,0
+Mie,Other,0
+Shiga,New Chitose,0
+Shiga,Hakodate,0
+Shiga,Aomori,0
+Shiga,Sendai,0
+Shiga,Ibaraki,0
+Shiga,Haneda,5.6056
+Shiga,Narita,8.0548
+Shiga,Komatsu,0.9976
+Shiga,Toyama,0
+Shiga,Mt.Fuji Shizuoka,0
+Shiga,Chubu,7.8222
+Shiga,Kansai,77.3446
+Shiga,Yonago,0
+Shiga,Okayama,0.1752
+Shiga,Hiroshima,0
+Shiga,Sakai Port,0
+Shiga,Kanmon (Shimonoseki) Port,0
+Shiga,Takamatsu,0
+Shiga,Fukuoka,0
+Shiga,Hakata Port,0
+Shiga,Saga,0
+Shiga,Izuhara Port,0
+Shiga,Miyazaki,0
+Shiga,Kagoshima,0
+Shiga,Naha,0
+Shiga,Other,0
+Kyoto,New Chitose,0.119
+Kyoto,Hakodate,0
+Kyoto,Aomori,0
+Kyoto,Sendai,0.0045
+Kyoto,Ibaraki,0
+Kyoto,Haneda,16.1708
+Kyoto,Narita,21.6631
+Kyoto,Komatsu,0.0332
+Kyoto,Toyama,0.0235
+Kyoto,Mt.Fuji Shizuoka,0.0323
+Kyoto,Chubu,1.4939
+Kyoto,Kansai,59.962
+Kyoto,Yonago,0.0018
+Kyoto,Okayama,0.0714
+Kyoto,Hiroshima,0.0233
+Kyoto,Sakai Port,0
+Kyoto,Kanmon (Shimonoseki) Port,0
+Kyoto,Takamatsu,0.0464
+Kyoto,Fukuoka,0.3267
+Kyoto,Hakata Port,0.0045
+Kyoto,Saga,0.0019
+Kyoto,Izuhara Port,0
+Kyoto,Miyazaki,0
+Kyoto,Kagoshima,0.0037
+Kyoto,Naha,0.0182
+Kyoto,Other,0
+Osaka,New Chitose,0.1997
+Osaka,Hakodate,0
+Osaka,Aomori,0
+Osaka,Sendai,0.0083
+Osaka,Ibaraki,0
+Osaka,Haneda,11.3151
+Osaka,Narita,16.9903
+Osaka,Komatsu,0.025
+Osaka,Toyama,0.0228
+Osaka,Mt.Fuji Shizuoka,0.037
+Osaka,Chubu,1.3122
+Osaka,Kansai,69.4347
+Osaka,Yonago,0.004
+Osaka,Okayama,0.1022
+Osaka,Hiroshima,0.0298
+Osaka,Sakai Port,0.0004
+Osaka,Kanmon (Shimonoseki) Port,0.0063
+Osaka,Takamatsu,0.0675
+Osaka,Fukuoka,0.381
+Osaka,Hakata Port,0.0034
+Osaka,Saga,0.0014
+Osaka,Izuhara Port,0
+Osaka,Miyazaki,0
+Osaka,Kagoshima,0.0042
+Osaka,Naha,0.0548
+Osaka,Other,0
+Hyogo,New Chitose,0.0633
+Hyogo,Hakodate,0
+Hyogo,Aomori,0
+Hyogo,Sendai,0.0261
+Hyogo,Ibaraki,0
+Hyogo,Haneda,9.5942
+Hyogo,Narita,14.0911
+Hyogo,Komatsu,0
+Hyogo,Toyama,0
+Hyogo,Mt.Fuji Shizuoka,0.0019
+Hyogo,Chubu,0.7171
+Hyogo,Kansai,73.9328
+Hyogo,Yonago,0.0108
+Hyogo,Okayama,0.7226
+Hyogo,Hiroshima,0.0935
+Hyogo,Sakai Port,0
+Hyogo,Kanmon (Shimonoseki) Port,0.0245
+Hyogo,Takamatsu,0.2828
+Hyogo,Fukuoka,0.4177
+Hyogo,Hakata Port,0
+Hyogo,Saga,0
+Hyogo,Izuhara Port,0
+Hyogo,Miyazaki,0
+Hyogo,Kagoshima,0.0216
+Hyogo,Naha,0
+Hyogo,Other,0
+Nara,New Chitose,0.0205
+Nara,Hakodate,0
+Nara,Aomori,0
+Nara,Sendai,0
+Nara,Ibaraki,0
+Nara,Haneda,17.0872
+Nara,Narita,30.7636
+Nara,Komatsu,0.005
+Nara,Toyama,0.0356
+Nara,Mt.Fuji Shizuoka,0.0843
+Nara,Chubu,1.4909
+Nara,Kansai,50.2928
+Nara,Yonago,0
+Nara,Okayama,0.0579
+Nara,Hiroshima,0
+Nara,Sakai Port,0
+Nara,Kanmon (Shimonoseki) Port,0
+Nara,Takamatsu,0.0071
+Nara,Fukuoka,0.1552
+Nara,Hakata Port,0
+Nara,Saga,0
+Nara,Izuhara Port,0
+Nara,Miyazaki,0
+Nara,Kagoshima,0
+Nara,Naha,0
+Nara,Other,0
+Wakayama,New Chitose,0.0743
+Wakayama,Hakodate,0
+Wakayama,Aomori,0
+Wakayama,Sendai,0
+Wakayama,Ibaraki,0
+Wakayama,Haneda,14.354
+Wakayama,Narita,16.8647
+Wakayama,Komatsu,0
+Wakayama,Toyama,0.016
+Wakayama,Mt.Fuji Shizuoka,0
+Wakayama,Chubu,1.5901
+Wakayama,Kansai,66.1942
+Wakayama,Yonago,0
+Wakayama,Okayama,0.1093
+Wakayama,Hiroshima,0
+Wakayama,Sakai Port,0
+Wakayama,Kanmon (Shimonoseki) Port,0
+Wakayama,Takamatsu,0.4919
+Wakayama,Fukuoka,0.2589
+Wakayama,Hakata Port,0
+Wakayama,Saga,0.0467
+Wakayama,Izuhara Port,0
+Wakayama,Miyazaki,0
+Wakayama,Kagoshima,0
+Wakayama,Naha,0
+Wakayama,Other,0
+Tottori,New Chitose,0
+Tottori,Hakodate,0
+Tottori,Aomori,0
+Tottori,Sendai,0
+Tottori,Ibaraki,0
+Tottori,Haneda,8.875
+Tottori,Narita,9.0321
+Tottori,Komatsu,0
+Tottori,Toyama,0
+Tottori,Mt.Fuji Shizuoka,0
+Tottori,Chubu,0
+Tottori,Kansai,46.2126
+Tottori,Yonago,18.8167
+Tottori,Okayama,7.9478
+Tottori,Hiroshima,3.1082
+Tottori,Sakai Port,0.4413
+Tottori,Kanmon (Shimonoseki) Port,0
+Tottori,Takamatsu,2.9156
+Tottori,Fukuoka,2.4385
+Tottori,Hakata Port,0
+Tottori,Saga,0.2123
+Tottori,Izuhara Port,0
+Tottori,Miyazaki,0
+Tottori,Kagoshima,0
+Tottori,Naha,0
+Tottori,Other,0
+Shimane,New Chitose,0
+Shimane,Hakodate,0
+Shimane,Aomori,0
+Shimane,Sendai,0
+Shimane,Ibaraki,0
+Shimane,Haneda,9.3595
+Shimane,Narita,15.1791
+Shimane,Komatsu,0
+Shimane,Toyama,0
+Shimane,Mt.Fuji Shizuoka,0
+Shimane,Chubu,0
+Shimane,Kansai,35.8289
+Shimane,Yonago,12.9501
+Shimane,Okayama,10.5679
+Shimane,Hiroshima,5.5307
+Shimane,Sakai Port,0.1187
+Shimane,Kanmon (Shimonoseki) Port,0
+Shimane,Takamatsu,2.8837
+Shimane,Fukuoka,7.5814
+Shimane,Hakata Port,0
+Shimane,Saga,0
+Shimane,Izuhara Port,0
+Shimane,Miyazaki,0
+Shimane,Kagoshima,0
+Shimane,Naha,0
+Shimane,Other,0
+Okayama,New Chitose,0.4133
+Okayama,Hakodate,0
+Okayama,Aomori,0
+Okayama,Sendai,0
+Okayama,Ibaraki,0
+Okayama,Haneda,12.3909
+Okayama,Narita,15.8393
+Okayama,Komatsu,0
+Okayama,Toyama,0
+Okayama,Mt.Fuji Shizuoka,0.5075
+Okayama,Chubu,0.1676
+Okayama,Kansai,31.0616
+Okayama,Yonago,0.1141
+Okayama,Okayama,22.4709
+Okayama,Hiroshima,2.0894
+Okayama,Sakai Port,0
+Okayama,Kanmon (Shimonoseki) Port,0.1557
+Okayama,Takamatsu,9.1703
+Okayama,Fukuoka,5.5448
+Okayama,Hakata Port,0.0744
+Okayama,Saga,0
+Okayama,Izuhara Port,0
+Okayama,Miyazaki,0
+Okayama,Kagoshima,0
+Okayama,Naha,0
+Okayama,Other,0
+Hiroshima,New Chitose,0.2828
+Hiroshima,Hakodate,0
+Hiroshima,Aomori,0
+Hiroshima,Sendai,0
+Hiroshima,Ibaraki,0
+Hiroshima,Haneda,31.9577
+Hiroshima,Narita,33.7135
+Hiroshima,Komatsu,0.012
+Hiroshima,Toyama,0
+Hiroshima,Mt.Fuji Shizuoka,0
+Hiroshima,Chubu,0.2716
+Hiroshima,Kansai,21.3566
+Hiroshima,Yonago,0.0281
+Hiroshima,Okayama,1.3149
+Hiroshima,Hiroshima,5.3812
+Hiroshima,Sakai Port,0
+Hiroshima,Kanmon (Shimonoseki) Port,0.0726
+Hiroshima,Takamatsu,0.8088
+Hiroshima,Fukuoka,4.6642
+Hiroshima,Hakata Port,0.0863
+Hiroshima,Saga,0
+Hiroshima,Izuhara Port,0
+Hiroshima,Miyazaki,0
+Hiroshima,Kagoshima,0.0193
+Hiroshima,Naha,0.0303
+Hiroshima,Other,0
+Yamaguchi,New Chitose,0
+Yamaguchi,Hakodate,0
+Yamaguchi,Aomori,0
+Yamaguchi,Sendai,0
+Yamaguchi,Ibaraki,0
+Yamaguchi,Haneda,6.0642
+Yamaguchi,Narita,5.827
+Yamaguchi,Komatsu,0
+Yamaguchi,Toyama,0
+Yamaguchi,Mt.Fuji Shizuoka,0
+Yamaguchi,Chubu,0
+Yamaguchi,Kansai,2.2598
+Yamaguchi,Yonago,0
+Yamaguchi,Okayama,0.3701
+Yamaguchi,Hiroshima,2.2242
+Yamaguchi,Sakai Port,0.0315
+Yamaguchi,Kanmon (Shimonoseki) Port,35.5794
+Yamaguchi,Takamatsu,0
+Yamaguchi,Fukuoka,46.2348
+Yamaguchi,Hakata Port,1.4091
+Yamaguchi,Saga,0
+Yamaguchi,Izuhara Port,0
+Yamaguchi,Miyazaki,0
+Yamaguchi,Kagoshima,0
+Yamaguchi,Naha,0
+Yamaguchi,Other,0
+Tokushima,New Chitose,0
+Tokushima,Hakodate,0
+Tokushima,Aomori,0
+Tokushima,Sendai,0
+Tokushima,Ibaraki,0
+Tokushima,Haneda,6.2936
+Tokushima,Narita,10.4306
+Tokushima,Komatsu,0
+Tokushima,Toyama,0
+Tokushima,Mt.Fuji Shizuoka,0
+Tokushima,Chubu,0.126
+Tokushima,Kansai,29.3912
+Tokushima,Yonago,0
+Tokushima,Okayama,3.501
+Tokushima,Hiroshima,0.8147
+Tokushima,Sakai Port,0
+Tokushima,Kanmon (Shimonoseki) Port,0
+Tokushima,Takamatsu,47.4782
+Tokushima,Fukuoka,1.9648
+Tokushima,Hakata Port,0
+Tokushima,Saga,0
+Tokushima,Izuhara Port,0
+Tokushima,Miyazaki,0
+Tokushima,Kagoshima,0
+Tokushima,Naha,0
+Tokushima,Other,0
+Kagawa,New Chitose,0.3324
+Kagawa,Hakodate,0
+Kagawa,Aomori,0
+Kagawa,Sendai,0
+Kagawa,Ibaraki,0
+Kagawa,Haneda,9.0283
+Kagawa,Narita,11.1495
+Kagawa,Komatsu,0
+Kagawa,Toyama,0
+Kagawa,Mt.Fuji Shizuoka,0
+Kagawa,Chubu,0.0505
+Kagawa,Kansai,15.8283
+Kagawa,Yonago,0.0581
+Kagawa,Okayama,5.1381
+Kagawa,Hiroshima,0.6327
+Kagawa,Sakai Port,0
+Kagawa,Kanmon (Shimonoseki) Port,0
+Kagawa,Takamatsu,55.7334
+Kagawa,Fukuoka,1.9039
+Kagawa,Hakata Port,0.1448
+Kagawa,Saga,0
+Kagawa,Izuhara Port,0
+Kagawa,Miyazaki,0
+Kagawa,Kagoshima,0
+Kagawa,Naha,0
+Kagawa,Other,0
+Ehime,New Chitose,0
+Ehime,Hakodate,0
+Ehime,Aomori,0
+Ehime,Sendai,0
+Ehime,Ibaraki,0
+Ehime,Haneda,13.4984
+Ehime,Narita,15.1609
+Ehime,Komatsu,0
+Ehime,Toyama,0
+Ehime,Mt.Fuji Shizuoka,0
+Ehime,Chubu,0.5496
+Ehime,Kansai,20.5696
+Ehime,Yonago,0
+Ehime,Okayama,6.5914
+Ehime,Hiroshima,2.564
+Ehime,Sakai Port,0
+Ehime,Kanmon (Shimonoseki) Port,0
+Ehime,Takamatsu,37.0901
+Ehime,Fukuoka,3.6835
+Ehime,Hakata Port,0.2925
+Ehime,Saga,0
+Ehime,Izuhara Port,0
+Ehime,Miyazaki,0
+Ehime,Kagoshima,0
+Ehime,Naha,0
+Ehime,Other,0
+Kochi,New Chitose,0
+Kochi,Hakodate,0
+Kochi,Aomori,0
+Kochi,Sendai,0
+Kochi,Ibaraki,0
+Kochi,Haneda,15.485
+Kochi,Narita,20.0481
+Kochi,Komatsu,0
+Kochi,Toyama,0
+Kochi,Mt.Fuji Shizuoka,0
+Kochi,Chubu,0.0472
+Kochi,Kansai,14.985
+Kochi,Yonago,0
+Kochi,Okayama,4.104
+Kochi,Hiroshima,1.2737
+Kochi,Sakai Port,0
+Kochi,Kanmon (Shimonoseki) Port,0
+Kochi,Takamatsu,42.9751
+Kochi,Fukuoka,1.0818
+Kochi,Hakata Port,0
+Kochi,Saga,0
+Kochi,Izuhara Port,0
+Kochi,Miyazaki,0
+Kochi,Kagoshima,0
+Kochi,Naha,0
+Kochi,Other,0
+Fukuoka,New Chitose,0.2687
+Fukuoka,Hakodate,0
+Fukuoka,Aomori,0
+Fukuoka,Sendai,0
+Fukuoka,Ibaraki,0.0013
+Fukuoka,Haneda,2.2816
+Fukuoka,Narita,3.1549
+Fukuoka,Komatsu,0.0041
+Fukuoka,Toyama,0
+Fukuoka,Mt.Fuji Shizuoka,0
+Fukuoka,Chubu,0.0848
+Fukuoka,Kansai,1.5401
+Fukuoka,Yonago,0
+Fukuoka,Okayama,0.0787
+Fukuoka,Hiroshima,0.1254
+Fukuoka,Sakai Port,0.0014
+Fukuoka,Kanmon (Shimonoseki) Port,1.2508
+Fukuoka,Takamatsu,0.0284
+Fukuoka,Fukuoka,88.0143
+Fukuoka,Hakata Port,2.1579
+Fukuoka,Saga,0.77
+Fukuoka,Izuhara Port,0
+Fukuoka,Miyazaki,0.0212
+Fukuoka,Kagoshima,0.1402
+Fukuoka,Naha,0.0761
+Fukuoka,Other,0
+Saga,New Chitose,0.2905
+Saga,Hakodate,0
+Saga,Aomori,0
+Saga,Sendai,0
+Saga,Ibaraki,0
+Saga,Haneda,1.0699
+Saga,Narita,1.4984
+Saga,Komatsu,0
+Saga,Toyama,0
+Saga,Mt.Fuji Shizuoka,0
+Saga,Chubu,0
+Saga,Kansai,0.3593
+Saga,Yonago,0
+Saga,Okayama,0
+Saga,Hiroshima,0
+Saga,Sakai Port,0
+Saga,Kanmon (Shimonoseki) Port,0
+Saga,Takamatsu,0
+Saga,Fukuoka,68.7909
+Saga,Hakata Port,0.7761
+Saga,Saga,27.0862
+Saga,Izuhara Port,0
+Saga,Miyazaki,0
+Saga,Kagoshima,0.1286
+Saga,Naha,0
+Saga,Other,0
+Nagasaki,New Chitose,0.0693
+Nagasaki,Hakodate,0
+Nagasaki,Aomori,0
+Nagasaki,Sendai,0
+Nagasaki,Ibaraki,0
+Nagasaki,Haneda,11.7476
+Nagasaki,Narita,11.6141
+Nagasaki,Komatsu,0
+Nagasaki,Toyama,0
+Nagasaki,Mt.Fuji Shizuoka,0.0052
+Nagasaki,Chubu,0.0534
+Nagasaki,Kansai,3.0716
+Nagasaki,Yonago,0
+Nagasaki,Okayama,0.1953
+Nagasaki,Hiroshima,0.0733
+Nagasaki,Sakai Port,0
+Nagasaki,Kanmon (Shimonoseki) Port,0.2841
+Nagasaki,Takamatsu,0
+Nagasaki,Fukuoka,66.9088
+Nagasaki,Hakata Port,0.9313
+Nagasaki,Saga,1.9591
+Nagasaki,Izuhara Port,3.0037
+Nagasaki,Miyazaki,0
+Nagasaki,Kagoshima,0.0833
+Nagasaki,Naha,0
+Nagasaki,Other,0
+Kumamoto,New Chitose,0.1826
+Kumamoto,Hakodate,0
+Kumamoto,Aomori,0
+Kumamoto,Sendai,0
+Kumamoto,Ibaraki,0.0066
+Kumamoto,Haneda,4.4173
+Kumamoto,Narita,4.2879
+Kumamoto,Komatsu,0
+Kumamoto,Toyama,0
+Kumamoto,Mt.Fuji Shizuoka,0
+Kumamoto,Chubu,0.0758
+Kumamoto,Kansai,1.8285
+Kumamoto,Yonago,0
+Kumamoto,Okayama,0.0886
+Kumamoto,Hiroshima,0.0604
+Kumamoto,Sakai Port,0
+Kumamoto,Kanmon (Shimonoseki) Port,0.2513
+Kumamoto,Takamatsu,0
+Kumamoto,Fukuoka,84.4355
+Kumamoto,Hakata Port,0.7416
+Kumamoto,Saga,2.1928
+Kumamoto,Izuhara Port,0
+Kumamoto,Miyazaki,0.1351
+Kumamoto,Kagoshima,1.1356
+Kumamoto,Naha,0.1606
+Kumamoto,Other,0
+Oita,New Chitose,0.0565
+Oita,Hakodate,0
+Oita,Aomori,0
+Oita,Sendai,0
+Oita,Ibaraki,0
+Oita,Haneda,1.3566
+Oita,Narita,1.8583
+Oita,Komatsu,0
+Oita,Toyama,0
+Oita,Mt.Fuji Shizuoka,0
+Oita,Chubu,0.0069
+Oita,Kansai,0.8585
+Oita,Yonago,0
+Oita,Okayama,0.0249
+Oita,Hiroshima,0.0472
+Oita,Sakai Port,0
+Oita,Kanmon (Shimonoseki) Port,0.3311
+Oita,Takamatsu,0
+Oita,Fukuoka,91.9338
+Oita,Hakata Port,1.9303
+Oita,Saga,1.3645
+Oita,Izuhara Port,0
+Oita,Miyazaki,0
+Oita,Kagoshima,0.1457
+Oita,Naha,0.0855
+Oita,Other,0
+Miyazaki,New Chitose,0
+Miyazaki,Hakodate,0
+Miyazaki,Aomori,0
+Miyazaki,Sendai,0
+Miyazaki,Ibaraki,0
+Miyazaki,Haneda,8.2318
+Miyazaki,Narita,6.6226
+Miyazaki,Komatsu,0
+Miyazaki,Toyama,0
+Miyazaki,Mt.Fuji Shizuoka,0
+Miyazaki,Chubu,0.2342
+Miyazaki,Kansai,2.5548
+Miyazaki,Yonago,0
+Miyazaki,Okayama,0.3038
+Miyazaki,Hiroshima,0
+Miyazaki,Sakai Port,0
+Miyazaki,Kanmon (Shimonoseki) Port,0.4227
+Miyazaki,Takamatsu,0
+Miyazaki,Fukuoka,58.5858
+Miyazaki,Hakata Port,1.0221
+Miyazaki,Saga,1.406
+Miyazaki,Izuhara Port,0
+Miyazaki,Miyazaki,14.0492
+Miyazaki,Kagoshima,6.5669
+Miyazaki,Naha,0
+Miyazaki,Other,0
+Kagoshima,New Chitose,0
+Kagoshima,Hakodate,0
+Kagoshima,Aomori,0
+Kagoshima,Sendai,0
+Kagoshima,Ibaraki,0
+Kagoshima,Haneda,11.9031
+Kagoshima,Narita,12.0759
+Kagoshima,Komatsu,0
+Kagoshima,Toyama,0
+Kagoshima,Mt.Fuji Shizuoka,0
+Kagoshima,Chubu,0.227
+Kagoshima,Kansai,3.3264
+Kagoshima,Yonago,0
+Kagoshima,Okayama,0.1754
+Kagoshima,Hiroshima,0.0443
+Kagoshima,Sakai Port,0
+Kagoshima,Kanmon (Shimonoseki) Port,0.2179
+Kagoshima,Takamatsu,0
+Kagoshima,Fukuoka,38.3322
+Kagoshima,Hakata Port,0.2405
+Kagoshima,Saga,1.1098
+Kagoshima,Izuhara Port,0
+Kagoshima,Miyazaki,1.7636
+Kagoshima,Kagoshima,29.8132
+Kagoshima,Naha,0.7706
+Kagoshima,Other,0
+Okinawa,New Chitose,0.0665
+Okinawa,Hakodate,0
+Okinawa,Aomori,0
+Okinawa,Sendai,0
+Okinawa,Ibaraki,0
+Okinawa,Haneda,3.4747
+Okinawa,Narita,3.8473
+Okinawa,Komatsu,0
+Okinawa,Toyama,0
+Okinawa,Mt.Fuji Shizuoka,0
+Okinawa,Chubu,0.0427
+Okinawa,Kansai,1.9582
+Okinawa,Yonago,0
+Okinawa,Okayama,0
+Okinawa,Hiroshima,0.0097
+Okinawa,Sakai Port,0
+Okinawa,Kanmon (Shimonoseki) Port,0
+Okinawa,Takamatsu,0
+Okinawa,Fukuoka,0.5415
+Okinawa,Hakata Port,0
+Okinawa,Saga,0.0131
+Okinawa,Izuhara Port,0
+Okinawa,Miyazaki,0
+Okinawa,Kagoshima,0
+Okinawa,Naha,90.0463
+Okinawa,Other,0
+Hokkaido Region,New Chitose,74.7068
+Hokkaido Region,Hakodate,3.6174
+Hokkaido Region,Aomori,0.0097
+Hokkaido Region,Sendai,0.2571
+Hokkaido Region,Ibaraki,0.0128
+Hokkaido Region,Haneda,7.8511
+Hokkaido Region,Narita,10.3402
+Hokkaido Region,Komatsu,0
+Hokkaido Region,Toyama,0
+Hokkaido Region,Mt.Fuji Shizuoka,0.007
+Hokkaido Region,Chubu,0.5049
+Hokkaido Region,Kansai,2.2821
+Hokkaido Region,Yonago,0
+Hokkaido Region,Okayama,0.0212
+Hokkaido Region,Hiroshima,0.0172
+Hokkaido Region,Sakai Port,0
+Hokkaido Region,Kanmon (Shimonoseki) Port,0
+Hokkaido Region,Takamatsu,0.0095
+Hokkaido Region,Fukuoka,0.3332
+Hokkaido Region,Hakata Port,0.0104
+Hokkaido Region,Saga,0
+Hokkaido Region,Izuhara Port,0
+Hokkaido Region,Miyazaki,0
+Hokkaido Region,Kagoshima,0
+Hokkaido Region,Naha,0.0194
+Hokkaido Region,Other,0
+Tohoku Region,New Chitose,2.8905
+Tohoku Region,Hakodate,0.1342
+Tohoku Region,Aomori,1.6528
+Tohoku Region,Sendai,29.851
+Tohoku Region,Ibaraki,0.7485
+Tohoku Region,Haneda,20.4325
+Tohoku Region,Narita,40.8453
+Tohoku Region,Komatsu,0.0546
+Tohoku Region,Toyama,0.0106
+Tohoku Region,Mt.Fuji Shizuoka,0.0286
+Tohoku Region,Chubu,0.5748
+Tohoku Region,Kansai,2.1058
+Tohoku Region,Yonago,0
+Tohoku Region,Okayama,0.0495
+Tohoku Region,Hiroshima,0.0309
+Tohoku Region,Sakai Port,0
+Tohoku Region,Kanmon (Shimonoseki) Port,0
+Tohoku Region,Takamatsu,0.0387
+Tohoku Region,Fukuoka,0.4668
+Tohoku Region,Hakata Port,0.0849
+Tohoku Region,Saga,0
+Tohoku Region,Izuhara Port,0
+Tohoku Region,Miyazaki,0
+Tohoku Region,Kagoshima,0
+Tohoku Region,Naha,0
+Tohoku Region,Other,0
+Kanto Region,New Chitose,0.343
+Kanto Region,Hakodate,0.0046
+Kanto Region,Aomori,0.0024
+Kanto Region,Sendai,0.0668
+Kanto Region,Ibaraki,0.1252
+Kanto Region,Haneda,27.9479
+Kanto Region,Narita,58.4644
+Kanto Region,Komatsu,0.0129
+Kanto Region,Toyama,0.0197
+Kanto Region,Mt.Fuji Shizuoka,0.1698
+Kanto Region,Chubu,0.9587
+Kanto Region,Kansai,11.4461
+Kanto Region,Yonago,0
+Kanto Region,Okayama,0.012
+Kanto Region,Hiroshima,0.0197
+Kanto Region,Sakai Port,0
+Kanto Region,Kanmon (Shimonoseki) Port,0.0027
+Kanto Region,Takamatsu,0.0128
+Kanto Region,Fukuoka,0.3245
+Kanto Region,Hakata Port,0.0078
+Kanto Region,Saga,0
+Kanto Region,Izuhara Port,0
+Kanto Region,Miyazaki,0
+Kanto Region,Kagoshima,0.0031
+Kanto Region,Naha,0.0556
+Kanto Region,Other,0
+Hokuriku-Shin'etsu Region,New Chitose,0.1298
+Hokuriku-Shin'etsu Region,Hakodate,0
+Hokuriku-Shin'etsu Region,Aomori,0
+Hokuriku-Shin'etsu Region,Sendai,0.3921
+Hokuriku-Shin'etsu Region,Ibaraki,0.033
+Hokuriku-Shin'etsu Region,Haneda,25.0964
+Hokuriku-Shin'etsu Region,Narita,41.3108
+Hokuriku-Shin'etsu Region,Komatsu,3.8968
+Hokuriku-Shin'etsu Region,Toyama,0.3886
+Hokuriku-Shin'etsu Region,Mt.Fuji Shizuoka,0.0527
+Hokuriku-Shin'etsu Region,Chubu,16.9227
+Hokuriku-Shin'etsu Region,Kansai,11.2424
+Hokuriku-Shin'etsu Region,Yonago,0
+Hokuriku-Shin'etsu Region,Okayama,0.0646
+Hokuriku-Shin'etsu Region,Hiroshima,0.0186
+Hokuriku-Shin'etsu Region,Sakai Port,0
+Hokuriku-Shin'etsu Region,Kanmon (Shimonoseki) Port,0
+Hokuriku-Shin'etsu Region,Takamatsu,0
+Hokuriku-Shin'etsu Region,Fukuoka,0.4256
+Hokuriku-Shin'etsu Region,Hakata Port,0
+Hokuriku-Shin'etsu Region,Saga,0
+Hokuriku-Shin'etsu Region,Izuhara Port,0
+Hokuriku-Shin'etsu Region,Miyazaki,0
+Hokuriku-Shin'etsu Region,Kagoshima,0
+Hokuriku-Shin'etsu Region,Naha,0.0257
+Hokuriku-Shin'etsu Region,Other,0
+Chubu Region,New Chitose,0.1648
+Chubu Region,Hakodate,0
+Chubu Region,Aomori,0
+Chubu Region,Sendai,0
+Chubu Region,Ibaraki,0.0088
+Chubu Region,Haneda,16.2908
+Chubu Region,Narita,29.8194
+Chubu Region,Komatsu,1.7669
+Chubu Region,Toyama,0.0793
+Chubu Region,Mt.Fuji Shizuoka,1.5657
+Chubu Region,Chubu,31.5414
+Chubu Region,Kansai,18.3409
+Chubu Region,Yonago,0
+Chubu Region,Okayama,0.0373
+Chubu Region,Hiroshima,0.0172
+Chubu Region,Sakai Port,0
+Chubu Region,Kanmon (Shimonoseki) Port,0
+Chubu Region,Takamatsu,0.0127
+Chubu Region,Fukuoka,0.3083
+Chubu Region,Hakata Port,0.014
+Chubu Region,Saga,0
+Chubu Region,Izuhara Port,0
+Chubu Region,Miyazaki,0
+Chubu Region,Kagoshima,0
+Chubu Region,Naha,0.0325
+Chubu Region,Other,0
+Kinki Region,New Chitose,0.1995
+Kinki Region,Hakodate,0
+Kinki Region,Aomori,0
+Kinki Region,Sendai,0.0078
+Kinki Region,Ibaraki,0
+Kinki Region,Haneda,13.659
+Kinki Region,Narita,18.724
+Kinki Region,Komatsu,0.0282
+Kinki Region,Toyama,0.0213
+Kinki Region,Mt.Fuji Shizuoka,0.0392
+Kinki Region,Chubu,1.5362
+Kinki Region,Kansai,65.017
+Kinki Region,Yonago,0.0037
+Kinki Region,Okayama,0.1472
+Kinki Region,Hiroshima,0.0365
+Kinki Region,Sakai Port,0.0004
+Kinki Region,Kanmon (Shimonoseki) Port,0.0059
+Kinki Region,Takamatsu,0.0966
+Kinki Region,Fukuoka,0.4095
+Kinki Region,Hakata Port,0.0032
+Kinki Region,Saga,0.0013
+Kinki Region,Izuhara Port,0
+Kinki Region,Miyazaki,0
+Kinki Region,Kagoshima,0.0039
+Kinki Region,Naha,0.0596
+Kinki Region,Other,0
+Chugoku Region,New Chitose,0.2327
+Chugoku Region,Hakodate,0
+Chugoku Region,Aomori,0
+Chugoku Region,Sendai,0
+Chugoku Region,Ibaraki,0
+Chugoku Region,Haneda,26.1004
+Chugoku Region,Narita,27.9482
+Chugoku Region,Komatsu,0.0092
+Chugoku Region,Toyama,0
+Chugoku Region,Mt.Fuji Shizuoka,0.0963
+Chugoku Region,Chubu,0.2412
+Chugoku Region,Kansai,21.7859
+Chugoku Region,Yonago,1.0463
+Chugoku Region,Okayama,4.2637
+Chugoku Region,Hiroshima,4.1481
+Chugoku Region,Sakai Port,0.0245
+Chugoku Region,Kanmon (Shimonoseki) Port,3.6969
+Chugoku Region,Takamatsu,2.0568
+Chugoku Region,Fukuoka,8.1009
+Chugoku Region,Hakata Port,0.1988
+Chugoku Region,Saga,0.0118
+Chugoku Region,Izuhara Port,0
+Chugoku Region,Miyazaki,0
+Chugoku Region,Kagoshima,0.0149
+Chugoku Region,Naha,0.0234
+Chugoku Region,Other,0
+Shikoku Region,New Chitose,0.2693
+Shikoku Region,Hakodate,0
+Shikoku Region,Aomori,0
+Shikoku Region,Sendai,0
+Shikoku Region,Ibaraki,0
+Shikoku Region,Haneda,12.6948
+Shikoku Region,Narita,14.9608
+Shikoku Region,Komatsu,0
+Shikoku Region,Toyama,0
+Shikoku Region,Mt.Fuji Shizuoka,0
+Shikoku Region,Chubu,0.2468
+Shikoku Region,Kansai,18.0153
+Shikoku Region,Yonago,0.0471
+Shikoku Region,Okayama,4.7322
+Shikoku Region,Hiroshima,1.0833
+Shikoku Region,Sakai Port,0
+Shikoku Region,Kanmon (Shimonoseki) Port,0
+Shikoku Region,Takamatsu,45.1527
+Shikoku Region,Fukuoka,2.5847
+Shikoku Region,Hakata Port,0.2129
+Shikoku Region,Saga,0
+Shikoku Region,Izuhara Port,0
+Shikoku Region,Miyazaki,0
+Shikoku Region,Kagoshima,0
+Shikoku Region,Naha,0
+Shikoku Region,Other,0
+Kyushu Region,New Chitose,0.2736
+Kyushu Region,Hakodate,0
+Kyushu Region,Aomori,0
+Kyushu Region,Sendai,0
+Kyushu Region,Ibaraki,0.0012
+Kyushu Region,Haneda,3.1583
+Kyushu Region,Narita,4.0573
+Kyushu Region,Komatsu,0.0039
+Kyushu Region,Toyama,0
+Kyushu Region,Mt.Fuji Shizuoka,0.0004
+Kyushu Region,Chubu,0.0973
+Kyushu Region,Kansai,1.7568
+Kyushu Region,Yonago,0
+Kyushu Region,Okayama,0.0747
+Kyushu Region,Hiroshima,0.1191
+Kyushu Region,Sakai Port,0.0013
+Kyushu Region,Kanmon (Shimonoseki) Port,1.2448
+Kyushu Region,Takamatsu,0.0269
+Kyushu Region,Fukuoka,83.5306
+Kyushu Region,Hakata Port,2.048
+Kyushu Region,Saga,1.3631
+Kyushu Region,Izuhara Port,0.2433
+Kyushu Region,Miyazaki,0.4039
+Kyushu Region,Kagoshima,1.4849
+Kyushu Region,Naha,0.1106
+Kyushu Region,Other,0
+Okinawa Region,New Chitose,0.0665
+Okinawa Region,Hakodate,0
+Okinawa Region,Aomori,0
+Okinawa Region,Sendai,0
+Okinawa Region,Ibaraki,0
+Okinawa Region,Haneda,3.4747
+Okinawa Region,Narita,3.8473
+Okinawa Region,Komatsu,0
+Okinawa Region,Toyama,0
+Okinawa Region,Mt.Fuji Shizuoka,0
+Okinawa Region,Chubu,0.0427
+Okinawa Region,Kansai,1.9582
+Okinawa Region,Yonago,0
+Okinawa Region,Okayama,0
+Okinawa Region,Hiroshima,0.0097
+Okinawa Region,Sakai Port,0
+Okinawa Region,Kanmon (Shimonoseki) Port,0
+Okinawa Region,Takamatsu,0
+Okinawa Region,Fukuoka,0.5415
+Okinawa Region,Hakata Port,0
+Okinawa Region,Saga,0.0131
+Okinawa Region,Izuhara Port,0
+Okinawa Region,Miyazaki,0
+Okinawa Region,Kagoshima,0
+Okinawa Region,Naha,90.0463
+Okinawa Region,Other,0

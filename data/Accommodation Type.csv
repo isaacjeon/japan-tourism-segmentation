@@ -1,0 +1,571 @@
+Area of Visit,Accommodation Type,Percentage
+Hokkaido,Hotel (western style),94.5684
+Hokkaido,Japanese-style inn,29.7697
+Hokkaido,My own pension/condominium,0.2981
+Hokkaido,School dormitory/company-owned accommodation facility,0.1532
+Hokkaido,Home of family/friends,1.5343
+Hokkaido,Youth hostel/guest house,2.3809
+Hokkaido,Capsule hotel,0.5346
+Hokkaido,"Paid residential accommodation (Airbnb, Tujia, etc.)",5.9206
+Hokkaido,Other,1.7655
+Hokkaido,I did not stay.,0
+Aomori,Hotel (western style),95.6417
+Aomori,Japanese-style inn,35.2941
+Aomori,My own pension/condominium,0.9083
+Aomori,School dormitory/company-owned accommodation facility,0
+Aomori,Home of family/friends,3.2563
+Aomori,Youth hostel/guest house,3.1213
+Aomori,Capsule hotel,1.2903
+Aomori,"Paid residential accommodation (Airbnb, Tujia, etc.)",7.6493
+Aomori,Other,9.9908
+Aomori,I did not stay.,0
+Iwate,Hotel (western style),96.793
+Iwate,Japanese-style inn,47.3534
+Iwate,My own pension/condominium,0.586
+Iwate,School dormitory/company-owned accommodation facility,0.4122
+Iwate,Home of family/friends,3.0658
+Iwate,Youth hostel/guest house,3.3335
+Iwate,Capsule hotel,0.7856
+Iwate,"Paid residential accommodation (Airbnb, Tujia, etc.)",3.8104
+Iwate,Other,1.9394
+Iwate,I did not stay.,0
+Miyagi,Hotel (western style),95.1977
+Miyagi,Japanese-style inn,37.5314
+Miyagi,My own pension/condominium,0.3488
+Miyagi,School dormitory/company-owned accommodation facility,0.3577
+Miyagi,Home of family/friends,2.4559
+Miyagi,Youth hostel/guest house,3.7873
+Miyagi,Capsule hotel,1.637
+Miyagi,"Paid residential accommodation (Airbnb, Tujia, etc.)",7.2198
+Miyagi,Other,1.7511
+Miyagi,I did not stay.,0
+Akita,Hotel (western style),93.4614
+Akita,Japanese-style inn,47.4526
+Akita,My own pension/condominium,0.6514
+Akita,School dormitory/company-owned accommodation facility,0.9613
+Akita,Home of family/friends,2.3804
+Akita,Youth hostel/guest house,3.2031
+Akita,Capsule hotel,2.1373
+Akita,"Paid residential accommodation (Airbnb, Tujia, etc.)",8.4885
+Akita,Other,7.4383
+Akita,I did not stay.,0
+Yamagata,Hotel (western style),97.2186
+Yamagata,Japanese-style inn,57.5895
+Yamagata,My own pension/condominium,0.3019
+Yamagata,School dormitory/company-owned accommodation facility,0.3463
+Yamagata,Home of family/friends,2.0411
+Yamagata,Youth hostel/guest house,1.9967
+Yamagata,Capsule hotel,0.7552
+Yamagata,"Paid residential accommodation (Airbnb, Tujia, etc.)",4.1859
+Yamagata,Other,2.7255
+Yamagata,I did not stay.,0
+Fukushima,Hotel (western style),95.219
+Fukushima,Japanese-style inn,45.9361
+Fukushima,My own pension/condominium,0.2372
+Fukushima,School dormitory/company-owned accommodation facility,0.689
+Fukushima,Home of family/friends,5.5964
+Fukushima,Youth hostel/guest house,3.2575
+Fukushima,Capsule hotel,1.5983
+Fukushima,"Paid residential accommodation (Airbnb, Tujia, etc.)",9.5366
+Fukushima,Other,3.4922
+Fukushima,I did not stay.,0
+Ibaraki,Hotel (western style),90.1697
+Ibaraki,Japanese-style inn,21.5066
+Ibaraki,My own pension/condominium,0.422
+Ibaraki,School dormitory/company-owned accommodation facility,2.0351
+Ibaraki,Home of family/friends,10.216
+Ibaraki,Youth hostel/guest house,2.0227
+Ibaraki,Capsule hotel,0.4607
+Ibaraki,"Paid residential accommodation (Airbnb, Tujia, etc.)",8.3125
+Ibaraki,Other,1.9642
+Ibaraki,I did not stay.,0
+Tochigi,Hotel (western style),91.0256
+Tochigi,Japanese-style inn,38.1783
+Tochigi,My own pension/condominium,0.7793
+Tochigi,School dormitory/company-owned accommodation facility,0.4532
+Tochigi,Home of family/friends,6.1811
+Tochigi,Youth hostel/guest house,6.8317
+Tochigi,Capsule hotel,1.9823
+Tochigi,"Paid residential accommodation (Airbnb, Tujia, etc.)",11.6834
+Tochigi,Other,4.296
+Tochigi,I did not stay.,0
+Gunma,Hotel (western style),90.5129
+Gunma,Japanese-style inn,53.0333
+Gunma,My own pension/condominium,0.8609
+Gunma,School dormitory/company-owned accommodation facility,0.3829
+Gunma,Home of family/friends,11.3428
+Gunma,Youth hostel/guest house,2.8312
+Gunma,Capsule hotel,1.9368
+Gunma,"Paid residential accommodation (Airbnb, Tujia, etc.)",13.3786
+Gunma,Other,5.2912
+Gunma,I did not stay.,0
+Saitama,Hotel (western style),79.454
+Saitama,Japanese-style inn,9.6358
+Saitama,My own pension/condominium,0.7684
+Saitama,School dormitory/company-owned accommodation facility,0.4444
+Saitama,Home of family/friends,16.294
+Saitama,Youth hostel/guest house,3.8998
+Saitama,Capsule hotel,1.1383
+Saitama,"Paid residential accommodation (Airbnb, Tujia, etc.)",9.4888
+Saitama,Other,2.1119
+Saitama,I did not stay.,0
+Chiba,Hotel (western style),88.3625
+Chiba,Japanese-style inn,14.1889
+Chiba,My own pension/condominium,0.3233
+Chiba,School dormitory/company-owned accommodation facility,0.1569
+Chiba,Home of family/friends,3.8876
+Chiba,Youth hostel/guest house,3.5413
+Chiba,Capsule hotel,1.5306
+Chiba,"Paid residential accommodation (Airbnb, Tujia, etc.)",10.6052
+Chiba,Other,1.6526
+Chiba,I did not stay.,0.0131
+Tokyo,Hotel (western style),88.9539
+Tokyo,Japanese-style inn,14.6481
+Tokyo,My own pension/condominium,0.3343
+Tokyo,School dormitory/company-owned accommodation facility,0.1657
+Tokyo,Home of family/friends,3.9395
+Tokyo,Youth hostel/guest house,3.6352
+Tokyo,Capsule hotel,1.5645
+Tokyo,"Paid residential accommodation (Airbnb, Tujia, etc.)",10.8609
+Tokyo,Other,1.864
+Tokyo,I did not stay.,0.0221
+Kanagawa,Hotel (western style),88.93
+Kanagawa,Japanese-style inn,25.9642
+Kanagawa,My own pension/condominium,0.3375
+Kanagawa,School dormitory/company-owned accommodation facility,0.3049
+Kanagawa,Home of family/friends,5.0706
+Kanagawa,Youth hostel/guest house,4.3916
+Kanagawa,Capsule hotel,1.6508
+Kanagawa,"Paid residential accommodation (Airbnb, Tujia, etc.)",11.9134
+Kanagawa,Other,3.4739
+Kanagawa,I did not stay.,0.0268
+Niigata,Hotel (western style),91.1265
+Niigata,Japanese-style inn,38.1795
+Niigata,My own pension/condominium,0.7087
+Niigata,School dormitory/company-owned accommodation facility,0.3432
+Niigata,Home of family/friends,4.8778
+Niigata,Youth hostel/guest house,3.199
+Niigata,Capsule hotel,2.0516
+Niigata,"Paid residential accommodation (Airbnb, Tujia, etc.)",13.9949
+Niigata,Other,3.3872
+Niigata,I did not stay.,0
+Toyama,Hotel (western style),97.7473
+Toyama,Japanese-style inn,29.4852
+Toyama,My own pension/condominium,0.2599
+Toyama,School dormitory/company-owned accommodation facility,0.4943
+Toyama,Home of family/friends,1.8712
+Toyama,Youth hostel/guest house,3.2701
+Toyama,Capsule hotel,0.7277
+Toyama,"Paid residential accommodation (Airbnb, Tujia, etc.)",4.1909
+Toyama,Other,2.8743
+Toyama,I did not stay.,0
+Ishikawa,Hotel (western style),97.1371
+Ishikawa,Japanese-style inn,36.7097
+Ishikawa,My own pension/condominium,0.1574
+Ishikawa,School dormitory/company-owned accommodation facility,0.1346
+Ishikawa,Home of family/friends,1.7891
+Ishikawa,Youth hostel/guest house,5.6337
+Ishikawa,Capsule hotel,2.1437
+Ishikawa,"Paid residential accommodation (Airbnb, Tujia, etc.)",8.9492
+Ishikawa,Other,4.2963
+Ishikawa,I did not stay.,0
+Fukui,Hotel (western style),94.1411
+Fukui,Japanese-style inn,34.1901
+Fukui,My own pension/condominium,0
+Fukui,School dormitory/company-owned accommodation facility,0.5739
+Fukui,Home of family/friends,7.2041
+Fukui,Youth hostel/guest house,7.1174
+Fukui,Capsule hotel,1.8631
+Fukui,"Paid residential accommodation (Airbnb, Tujia, etc.)",12.2482
+Fukui,Other,6.1779
+Fukui,I did not stay.,0
+Yamanashi,Hotel (western style),91.6313
+Yamanashi,Japanese-style inn,28.1703
+Yamanashi,My own pension/condominium,0.4075
+Yamanashi,School dormitory/company-owned accommodation facility,0.1323
+Yamanashi,Home of family/friends,2.2808
+Yamanashi,Youth hostel/guest house,3.6794
+Yamanashi,Capsule hotel,1.4755
+Yamanashi,"Paid residential accommodation (Airbnb, Tujia, etc.)",11.2553
+Yamanashi,Other,2.695
+Yamanashi,I did not stay.,0
+Nagano,Hotel (western style),94.2539
+Nagano,Japanese-style inn,35.2552
+Nagano,My own pension/condominium,0.757
+Nagano,School dormitory/company-owned accommodation facility,0.0539
+Nagano,Home of family/friends,3.3033
+Nagano,Youth hostel/guest house,7.023
+Nagano,Capsule hotel,1.8898
+Nagano,"Paid residential accommodation (Airbnb, Tujia, etc.)",11.427
+Nagano,Other,4.9002
+Nagano,I did not stay.,0
+Gifu,Hotel (western style),96.8215
+Gifu,Japanese-style inn,36.2811
+Gifu,My own pension/condominium,0.5056
+Gifu,School dormitory/company-owned accommodation facility,0.0805
+Gifu,Home of family/friends,1.7161
+Gifu,Youth hostel/guest house,4.0367
+Gifu,Capsule hotel,1.2993
+Gifu,"Paid residential accommodation (Airbnb, Tujia, etc.)",7.1323
+Gifu,Other,3.9103
+Gifu,I did not stay.,0
+Shizuoka,Hotel (western style),92.2555
+Shizuoka,Japanese-style inn,32.4
+Shizuoka,My own pension/condominium,0.3838
+Shizuoka,School dormitory/company-owned accommodation facility,0.3814
+Shizuoka,Home of family/friends,4.1224
+Shizuoka,Youth hostel/guest house,3.2517
+Shizuoka,Capsule hotel,1.012
+Shizuoka,"Paid residential accommodation (Airbnb, Tujia, etc.)",9.7113
+Shizuoka,Other,4.3821
+Shizuoka,I did not stay.,0
+Aichi,Hotel (western style),95.4304
+Aichi,Japanese-style inn,20.0327
+Aichi,My own pension/condominium,0.2518
+Aichi,School dormitory/company-owned accommodation facility,0.0795
+Aichi,Home of family/friends,3.2024
+Aichi,Youth hostel/guest house,2.7362
+Aichi,Capsule hotel,1.06
+Aichi,"Paid residential accommodation (Airbnb, Tujia, etc.)",5.6633
+Aichi,Other,1.3941
+Aichi,I did not stay.,0
+Mie,Hotel (western style),95.3012
+Mie,Japanese-style inn,19.6785
+Mie,My own pension/condominium,0
+Mie,School dormitory/company-owned accommodation facility,0.4039
+Mie,Home of family/friends,3.8556
+Mie,Youth hostel/guest house,3.422
+Mie,Capsule hotel,0.1915
+Mie,"Paid residential accommodation (Airbnb, Tujia, etc.)",4.7761
+Mie,Other,1.7805
+Mie,I did not stay.,0
+Shiga,Hotel (western style),89.086
+Shiga,Japanese-style inn,16.6714
+Shiga,My own pension/condominium,2.2532
+Shiga,School dormitory/company-owned accommodation facility,0.5822
+Shiga,Home of family/friends,3.5311
+Shiga,Youth hostel/guest house,4.1588
+Shiga,Capsule hotel,0.505
+Shiga,"Paid residential accommodation (Airbnb, Tujia, etc.)",14.5962
+Shiga,Other,1.755
+Shiga,I did not stay.,0
+Kyoto,Hotel (western style),91.7108
+Kyoto,Japanese-style inn,14.2529
+Kyoto,My own pension/condominium,0.23
+Kyoto,School dormitory/company-owned accommodation facility,0.1344
+Kyoto,Home of family/friends,2.3196
+Kyoto,Youth hostel/guest house,3.9297
+Kyoto,Capsule hotel,1.3249
+Kyoto,"Paid residential accommodation (Airbnb, Tujia, etc.)",11.1318
+Kyoto,Other,1.7463
+Kyoto,I did not stay.,0
+Osaka,Hotel (western style),90.8559
+Osaka,Japanese-style inn,11.1307
+Osaka,My own pension/condominium,0.2443
+Osaka,School dormitory/company-owned accommodation facility,0.1024
+Osaka,Home of family/friends,2.3675
+Osaka,Youth hostel/guest house,3.2006
+Osaka,Capsule hotel,1.158
+Osaka,"Paid residential accommodation (Airbnb, Tujia, etc.)",10.3664
+Osaka,Other,1.5099
+Osaka,I did not stay.,0.0274
+Hyogo,Hotel (western style),90.181
+Hyogo,Japanese-style inn,15.1934
+Hyogo,My own pension/condominium,0.3541
+Hyogo,School dormitory/company-owned accommodation facility,0.1072
+Hyogo,Home of family/friends,4.1047
+Hyogo,Youth hostel/guest house,3.4729
+Hyogo,Capsule hotel,1.3115
+Hyogo,"Paid residential accommodation (Airbnb, Tujia, etc.)",10.4465
+Hyogo,Other,2.0307
+Hyogo,I did not stay.,0
+Nara,Hotel (western style),90.3831
+Nara,Japanese-style inn,18.0105
+Nara,My own pension/condominium,0.2265
+Nara,School dormitory/company-owned accommodation facility,0.0896
+Nara,Home of family/friends,2.5403
+Nara,Youth hostel/guest house,4.7188
+Nara,Capsule hotel,1.7438
+Nara,"Paid residential accommodation (Airbnb, Tujia, etc.)",12.8044
+Nara,Other,1.9785
+Nara,I did not stay.,0
+Wakayama,Hotel (western style),90.068
+Wakayama,Japanese-style inn,30.7897
+Wakayama,My own pension/condominium,0.1978
+Wakayama,School dormitory/company-owned accommodation facility,0.2968
+Wakayama,Home of family/friends,2.9469
+Wakayama,Youth hostel/guest house,8.5828
+Wakayama,Capsule hotel,2.5212
+Wakayama,"Paid residential accommodation (Airbnb, Tujia, etc.)",13.0688
+Wakayama,Other,18.0287
+Wakayama,I did not stay.,0
+Tottori,Hotel (western style),93.8681
+Tottori,Japanese-style inn,25.8515
+Tottori,My own pension/condominium,0.4047
+Tottori,School dormitory/company-owned accommodation facility,0.285
+Tottori,Home of family/friends,2.2641
+Tottori,Youth hostel/guest house,3.3849
+Tottori,Capsule hotel,1.2873
+Tottori,"Paid residential accommodation (Airbnb, Tujia, etc.)",8.7265
+Tottori,Other,7.6001
+Tottori,I did not stay.,0
+Shimane,Hotel (western style),93.4523
+Shimane,Japanese-style inn,28.0721
+Shimane,My own pension/condominium,0.4267
+Shimane,School dormitory/company-owned accommodation facility,0
+Shimane,Home of family/friends,7.0926
+Shimane,Youth hostel/guest house,3.5779
+Shimane,Capsule hotel,3.2799
+Shimane,"Paid residential accommodation (Airbnb, Tujia, etc.)",9.0173
+Shimane,Other,3.0335
+Shimane,I did not stay.,0
+Okayama,Hotel (western style),94.1627
+Okayama,Japanese-style inn,22.3282
+Okayama,My own pension/condominium,0.4879
+Okayama,School dormitory/company-owned accommodation facility,0.1625
+Okayama,Home of family/friends,2.5562
+Okayama,Youth hostel/guest house,7.362
+Okayama,Capsule hotel,4.3049
+Okayama,"Paid residential accommodation (Airbnb, Tujia, etc.)",10.0656
+Okayama,Other,2.2861
+Okayama,I did not stay.,0
+Hiroshima,Hotel (western style),92.3051
+Hiroshima,Japanese-style inn,26.0303
+Hiroshima,My own pension/condominium,0.5187
+Hiroshima,School dormitory/company-owned accommodation facility,0.1292
+Hiroshima,Home of family/friends,2.6353
+Hiroshima,Youth hostel/guest house,9.3265
+Hiroshima,Capsule hotel,3.5248
+Hiroshima,"Paid residential accommodation (Airbnb, Tujia, etc.)",13.1365
+Hiroshima,Other,5.7264
+Hiroshima,I did not stay.,0
+Yamaguchi,Hotel (western style),88.2781
+Yamaguchi,Japanese-style inn,12.0236
+Yamaguchi,My own pension/condominium,1.1399
+Yamaguchi,School dormitory/company-owned accommodation facility,0.1549
+Yamaguchi,Home of family/friends,3.5117
+Yamaguchi,Youth hostel/guest house,3.0858
+Yamaguchi,Capsule hotel,1.2972
+Yamaguchi,"Paid residential accommodation (Airbnb, Tujia, etc.)",4.336
+Yamaguchi,Other,2.4662
+Yamaguchi,I did not stay.,6.7456
+Tokushima,Hotel (western style),92.4333
+Tokushima,Japanese-style inn,35.4547
+Tokushima,My own pension/condominium,1.2455
+Tokushima,School dormitory/company-owned accommodation facility,0
+Tokushima,Home of family/friends,4.2777
+Tokushima,Youth hostel/guest house,7.6893
+Tokushima,Capsule hotel,1.6605
+Tokushima,"Paid residential accommodation (Airbnb, Tujia, etc.)",6.3188
+Tokushima,Other,2.4652
+Tokushima,I did not stay.,0
+Kagawa,Hotel (western style),94.191
+Kagawa,Japanese-style inn,26.4782
+Kagawa,My own pension/condominium,0.4665
+Kagawa,School dormitory/company-owned accommodation facility,0.1978
+Kagawa,Home of family/friends,1.7185
+Kagawa,Youth hostel/guest house,6.1137
+Kagawa,Capsule hotel,1.8491
+Kagawa,"Paid residential accommodation (Airbnb, Tujia, etc.)",7.5183
+Kagawa,Other,2.5193
+Kagawa,I did not stay.,0
+Ehime,Hotel (western style),93.105
+Ehime,Japanese-style inn,38.61
+Ehime,My own pension/condominium,1.3539
+Ehime,School dormitory/company-owned accommodation facility,0.2452
+Ehime,Home of family/friends,1.7078
+Ehime,Youth hostel/guest house,8.0429
+Ehime,Capsule hotel,3.982
+Ehime,"Paid residential accommodation (Airbnb, Tujia, etc.)",7.9573
+Ehime,Other,4.4587
+Ehime,I did not stay.,0
+Kochi,Hotel (western style),85.7397
+Kochi,Japanese-style inn,35.2029
+Kochi,My own pension/condominium,1.1456
+Kochi,School dormitory/company-owned accommodation facility,0
+Kochi,Home of family/friends,3.0071
+Kochi,Youth hostel/guest house,9.8193
+Kochi,Capsule hotel,2.2977
+Kochi,"Paid residential accommodation (Airbnb, Tujia, etc.)",6.5036
+Kochi,Other,17.4391
+Kochi,I did not stay.,0
+Fukuoka,Hotel (western style),92.8899
+Fukuoka,Japanese-style inn,18.4076
+Fukuoka,My own pension/condominium,0.2938
+Fukuoka,School dormitory/company-owned accommodation facility,0.0854
+Fukuoka,Home of family/friends,1.6646
+Fukuoka,Youth hostel/guest house,2.5459
+Fukuoka,Capsule hotel,1.2532
+Fukuoka,"Paid residential accommodation (Airbnb, Tujia, etc.)",4.791
+Fukuoka,Other,0.6411
+Fukuoka,I did not stay.,0.3177
+Saga,Hotel (western style),95.4868
+Saga,Japanese-style inn,30.83
+Saga,My own pension/condominium,0.5346
+Saga,School dormitory/company-owned accommodation facility,0.1592
+Saga,Home of family/friends,2.4595
+Saga,Youth hostel/guest house,2.3171
+Saga,Capsule hotel,0.4679
+Saga,"Paid residential accommodation (Airbnb, Tujia, etc.)",3.4916
+Saga,Other,0.8155
+Saga,I did not stay.,0
+Nagasaki,Hotel (western style),94.8653
+Nagasaki,Japanese-style inn,22.0826
+Nagasaki,My own pension/condominium,0.6974
+Nagasaki,School dormitory/company-owned accommodation facility,0
+Nagasaki,Home of family/friends,3.163
+Nagasaki,Youth hostel/guest house,4.7207
+Nagasaki,Capsule hotel,1.033
+Nagasaki,"Paid residential accommodation (Airbnb, Tujia, etc.)",5.1572
+Nagasaki,Other,6.0922
+Nagasaki,I did not stay.,0.4491
+Kumamoto,Hotel (western style),95.0562
+Kumamoto,Japanese-style inn,30.5512
+Kumamoto,My own pension/condominium,0.5189
+Kumamoto,School dormitory/company-owned accommodation facility,0.1343
+Kumamoto,Home of family/friends,3.3072
+Kumamoto,Youth hostel/guest house,2.2315
+Kumamoto,Capsule hotel,0.5482
+Kumamoto,"Paid residential accommodation (Airbnb, Tujia, etc.)",6.1801
+Kumamoto,Other,1.4545
+Kumamoto,I did not stay.,0
+Oita,Hotel (western style),94.4433
+Oita,Japanese-style inn,40.7058
+Oita,My own pension/condominium,0.1607
+Oita,School dormitory/company-owned accommodation facility,0.0797
+Oita,Home of family/friends,1.16
+Oita,Youth hostel/guest house,1.7469
+Oita,Capsule hotel,0.4584
+Oita,"Paid residential accommodation (Airbnb, Tujia, etc.)",5.7571
+Oita,Other,0.6587
+Oita,I did not stay.,0
+Miyazaki,Hotel (western style),96.2587
+Miyazaki,Japanese-style inn,23.6311
+Miyazaki,My own pension/condominium,0.5123
+Miyazaki,School dormitory/company-owned accommodation facility,0.1305
+Miyazaki,Home of family/friends,6.1988
+Miyazaki,Youth hostel/guest house,3.1339
+Miyazaki,Capsule hotel,0.3331
+Miyazaki,"Paid residential accommodation (Airbnb, Tujia, etc.)",9.2359
+Miyazaki,Other,3.8183
+Miyazaki,I did not stay.,0
+Kagoshima,Hotel (western style),93.8846
+Kagoshima,Japanese-style inn,22.8746
+Kagoshima,My own pension/condominium,0.8409
+Kagoshima,School dormitory/company-owned accommodation facility,0
+Kagoshima,Home of family/friends,4.3163
+Kagoshima,Youth hostel/guest house,5.1312
+Kagoshima,Capsule hotel,0.9333
+Kagoshima,"Paid residential accommodation (Airbnb, Tujia, etc.)",6.6706
+Kagoshima,Other,9.1414
+Kagoshima,I did not stay.,0
+Okinawa,Hotel (western style),93.6697
+Okinawa,Japanese-style inn,6.4919
+Okinawa,My own pension/condominium,0.2057
+Okinawa,School dormitory/company-owned accommodation facility,0.062
+Okinawa,Home of family/friends,0.9679
+Okinawa,Youth hostel/guest house,2.1036
+Okinawa,Capsule hotel,0.5488
+Okinawa,"Paid residential accommodation (Airbnb, Tujia, etc.)",6.4472
+Okinawa,Other,0.952
+Okinawa,I did not stay.,0
+Hokkaido Region,Hotel (western style),94.5684
+Hokkaido Region,Japanese-style inn,29.7697
+Hokkaido Region,My own pension/condominium,0.2981
+Hokkaido Region,School dormitory/company-owned accommodation facility,0.1532
+Hokkaido Region,Home of family/friends,1.5343
+Hokkaido Region,Youth hostel/guest house,2.3809
+Hokkaido Region,Capsule hotel,0.5346
+Hokkaido Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",5.9206
+Hokkaido Region,Other,1.7655
+Hokkaido Region,I did not stay.,0
+Tohoku Region,Hotel (western style),94.2905
+Tohoku Region,Japanese-style inn,36.1078
+Tohoku Region,My own pension/condominium,0.4255
+Tohoku Region,School dormitory/company-owned accommodation facility,0.6973
+Tohoku Region,Home of family/friends,4.7276
+Tohoku Region,Youth hostel/guest house,3.5747
+Tohoku Region,Capsule hotel,1.6712
+Tohoku Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",7.288
+Tohoku Region,Other,5.9781
+Tohoku Region,I did not stay.,0
+Kanto Region,Hotel (western style),88.9188
+Kanto Region,Japanese-style inn,14.8735
+Kanto Region,My own pension/condominium,0.3494
+Kanto Region,School dormitory/company-owned accommodation facility,0.1799
+Kanto Region,Home of family/friends,4.0865
+Kanto Region,Youth hostel/guest house,3.5511
+Kanto Region,Capsule hotel,1.5265
+Kanto Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",10.6633
+Kanto Region,Other,1.908
+Kanto Region,I did not stay.,0.025
+Hokuriku-Shin'etsu Region,Hotel (western style),94.9306
+Hokuriku-Shin'etsu Region,Japanese-style inn,35.499
+Hokuriku-Shin'etsu Region,My own pension/condominium,0.5416
+Hokuriku-Shin'etsu Region,School dormitory/company-owned accommodation facility,0.1577
+Hokuriku-Shin'etsu Region,Home of family/friends,2.9964
+Hokuriku-Shin'etsu Region,Youth hostel/guest house,5.7333
+Hokuriku-Shin'etsu Region,Capsule hotel,1.7103
+Hokuriku-Shin'etsu Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",10.5393
+Hokuriku-Shin'etsu Region,Other,4.47
+Hokuriku-Shin'etsu Region,I did not stay.,0
+Chubu Region,Hotel (western style),94.4921
+Chubu Region,Japanese-style inn,26.9869
+Chubu Region,My own pension/condominium,0.3897
+Chubu Region,School dormitory/company-owned accommodation facility,0.2088
+Chubu Region,Home of family/friends,3.425
+Chubu Region,Youth hostel/guest house,3.3989
+Chubu Region,Capsule hotel,1.2449
+Chubu Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",7.7614
+Chubu Region,Other,3.076
+Chubu Region,I did not stay.,0
+Kinki Region,Hotel (western style),90.9827
+Kinki Region,Japanese-style inn,11.9514
+Kinki Region,My own pension/condominium,0.2596
+Kinki Region,School dormitory/company-owned accommodation facility,0.1285
+Kinki Region,Home of family/friends,2.53
+Kinki Region,Youth hostel/guest house,3.3779
+Kinki Region,Capsule hotel,1.1937
+Kinki Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",10.6293
+Kinki Region,Other,1.6341
+Kinki Region,I did not stay.,0.0257
+Chugoku Region,Hotel (western style),92.1432
+Chugoku Region,Japanese-style inn,23.7596
+Chugoku Region,My own pension/condominium,0.4777
+Chugoku Region,School dormitory/company-owned accommodation facility,0.1303
+Chugoku Region,Home of family/friends,2.75
+Chugoku Region,Youth hostel/guest house,7.9744
+Chugoku Region,Capsule hotel,3.1347
+Chugoku Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",11.5483
+Chugoku Region,Other,5.0285
+Chugoku Region,I did not stay.,0.6991
+Shikoku Region,Hotel (western style),92.7305
+Shikoku Region,Japanese-style inn,25.5689
+Shikoku Region,My own pension/condominium,0.4423
+Shikoku Region,School dormitory/company-owned accommodation facility,0.2403
+Shikoku Region,Home of family/friends,2.8387
+Shikoku Region,Youth hostel/guest house,7.0991
+Shikoku Region,Capsule hotel,2.3948
+Shikoku Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",7.8804
+Shikoku Region,Other,6.0858
+Shikoku Region,I did not stay.,0
+Kyushu Region,Hotel (western style),92.7515
+Kyushu Region,Japanese-style inn,18.575
+Kyushu Region,My own pension/condominium,0.3347
+Kyushu Region,School dormitory/company-owned accommodation facility,0.089
+Kyushu Region,Home of family/friends,1.9132
+Kyushu Region,Youth hostel/guest house,2.6191
+Kyushu Region,Capsule hotel,1.2283
+Kyushu Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",4.9604
+Kyushu Region,Other,1.2977
+Kyushu Region,I did not stay.,0.3379
+Okinawa Region,Hotel (western style),93.6697
+Okinawa Region,Japanese-style inn,6.4919
+Okinawa Region,My own pension/condominium,0.2057
+Okinawa Region,School dormitory/company-owned accommodation facility,0.062
+Okinawa Region,Home of family/friends,0.9679
+Okinawa Region,Youth hostel/guest house,2.1036
+Okinawa Region,Capsule hotel,0.5488
+Okinawa Region,"Paid residential accommodation (Airbnb, Tujia, etc.)",6.4472
+Okinawa Region,Other,0.952
+Okinawa Region,I did not stay.,0

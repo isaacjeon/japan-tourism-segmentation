@@ -1,0 +1,172 @@
+Area of Visit,Travel Arrangement,Percentage
+Hokkaido,Group tour,26.9795
+Hokkaido,Package for individual travelers,4.7123
+Hokkaido,Independent travel,68.3082
+Aomori,Group tour,27.4284
+Aomori,Package for individual travelers,4.7204
+Aomori,Independent travel,67.8512
+Iwate,Group tour,47.98
+Iwate,Package for individual travelers,2.9662
+Iwate,Independent travel,49.0538
+Miyagi,Group tour,28.9168
+Miyagi,Package for individual travelers,2.3558
+Miyagi,Independent travel,68.7274
+Akita,Group tour,38.9544
+Akita,Package for individual travelers,5.2604
+Akita,Independent travel,55.7852
+Yamagata,Group tour,41.1823
+Yamagata,Package for individual travelers,3.2582
+Yamagata,Independent travel,55.5594
+Fukushima,Group tour,39.6052
+Fukushima,Package for individual travelers,3.4166
+Fukushima,Independent travel,56.9782
+Ibaraki,Group tour,26.0177
+Ibaraki,Package for individual travelers,2.0585
+Ibaraki,Independent travel,71.9238
+Tochigi,Group tour,15.8333
+Tochigi,Package for individual travelers,5.1369
+Tochigi,Independent travel,79.0298
+Gunma,Group tour,18.1316
+Gunma,Package for individual travelers,4.2759
+Gunma,Independent travel,77.5926
+Saitama,Group tour,8.2514
+Saitama,Package for individual travelers,2.2102
+Saitama,Independent travel,89.5384
+Chiba,Group tour,11.6454
+Chiba,Package for individual travelers,3.6651
+Chiba,Independent travel,84.6895
+Tokyo,Group tour,9.6528
+Tokyo,Package for individual travelers,3.5373
+Tokyo,Independent travel,86.8099
+Kanagawa,Group tour,11.3439
+Kanagawa,Package for individual travelers,3.9445
+Kanagawa,Independent travel,84.7116
+Niigata,Group tour,8.3194
+Niigata,Package for individual travelers,4.194
+Niigata,Independent travel,87.4866
+Toyama,Group tour,56.1105
+Toyama,Package for individual travelers,1.1392
+Toyama,Independent travel,42.7503
+Ishikawa,Group tour,30.4882
+Ishikawa,Package for individual travelers,5.0468
+Ishikawa,Independent travel,64.4649
+Fukui,Group tour,25.7827
+Fukui,Package for individual travelers,2.9809
+Fukui,Independent travel,71.2364
+Yamanashi,Group tour,28.169
+Yamanashi,Package for individual travelers,3.2868
+Yamanashi,Independent travel,68.5443
+Nagano,Group tour,22.774
+Nagano,Package for individual travelers,4.1279
+Nagano,Independent travel,73.0982
+Gifu,Group tour,33.3984
+Gifu,Package for individual travelers,5.3629
+Gifu,Independent travel,61.2387
+Shizuoka,Group tour,31.0065
+Shizuoka,Package for individual travelers,3.5443
+Shizuoka,Independent travel,65.4492
+Aichi,Group tour,30.951
+Aichi,Package for individual travelers,2.6068
+Aichi,Independent travel,66.4422
+Mie,Group tour,29.6125
+Mie,Package for individual travelers,3.1066
+Mie,Independent travel,67.2809
+Shiga,Group tour,18.5208
+Shiga,Package for individual travelers,1.5377
+Shiga,Independent travel,79.9415
+Kyoto,Group tour,13.5242
+Kyoto,Package for individual travelers,3.2339
+Kyoto,Independent travel,83.2419
+Osaka,Group tour,12.3288
+Osaka,Package for individual travelers,3.0205
+Osaka,Independent travel,84.6508
+Hyogo,Group tour,17.9721
+Hyogo,Package for individual travelers,2.9997
+Hyogo,Independent travel,79.0283
+Nara,Group tour,21.5122
+Nara,Package for individual travelers,3.2051
+Nara,Independent travel,75.2827
+Wakayama,Group tour,14.792
+Wakayama,Package for individual travelers,3.9068
+Wakayama,Independent travel,81.3012
+Tottori,Group tour,14.8013
+Tottori,Package for individual travelers,2.2289
+Tottori,Independent travel,82.9698
+Shimane,Group tour,22.9579
+Shimane,Package for individual travelers,2.7094
+Shimane,Independent travel,74.3326
+Okayama,Group tour,13.674
+Okayama,Package for individual travelers,3.2346
+Okayama,Independent travel,83.0915
+Hiroshima,Group tour,11.1665
+Hiroshima,Package for individual travelers,4.8214
+Hiroshima,Independent travel,84.0121
+Yamaguchi,Group tour,8.2152
+Yamaguchi,Package for individual travelers,2.781
+Yamaguchi,Independent travel,89.0038
+Tokushima,Group tour,20.7492
+Tokushima,Package for individual travelers,1.2535
+Tokushima,Independent travel,77.9973
+Kagawa,Group tour,12.9262
+Kagawa,Package for individual travelers,4.8244
+Kagawa,Independent travel,82.2494
+Ehime,Group tour,21.971
+Ehime,Package for individual travelers,1.8226
+Ehime,Independent travel,76.2064
+Kochi,Group tour,27.8061
+Kochi,Package for individual travelers,4.9907
+Kochi,Independent travel,67.2032
+Fukuoka,Group tour,8.5616
+Fukuoka,Package for individual travelers,2.7197
+Fukuoka,Independent travel,88.7187
+Saga,Group tour,23.0106
+Saga,Package for individual travelers,5.1084
+Saga,Independent travel,71.881
+Nagasaki,Group tour,15.224
+Nagasaki,Package for individual travelers,3.1859
+Nagasaki,Independent travel,81.5901
+Kumamoto,Group tour,24.0331
+Kumamoto,Package for individual travelers,3.9662
+Kumamoto,Independent travel,72.0008
+Oita,Group tour,16.1304
+Oita,Package for individual travelers,4.0356
+Oita,Independent travel,79.834
+Miyazaki,Group tour,18.5514
+Miyazaki,Package for individual travelers,4.8027
+Miyazaki,Independent travel,76.6459
+Kagoshima,Group tour,14.5554
+Kagoshima,Package for individual travelers,9.511
+Kagoshima,Independent travel,75.9336
+Okinawa,Group tour,14.2268
+Okinawa,Package for individual travelers,5.9242
+Okinawa,Independent travel,79.849
+Hokkaido Region,Group tour,26.9795
+Hokkaido Region,Package for individual travelers,4.7123
+Hokkaido Region,Independent travel,68.3082
+Tohoku Region,Group tour,25.7222
+Tohoku Region,Package for individual travelers,3.662
+Tohoku Region,Independent travel,70.6158
+Kanto Region,Group tour,10.5824
+Kanto Region,Package for individual travelers,3.536
+Kanto Region,Independent travel,85.8816
+Hokuriku-Shin'etsu Region,Group tour,24.1863
+Hokuriku-Shin'etsu Region,Package for individual travelers,4.218
+Hokuriku-Shin'etsu Region,Independent travel,71.5957
+Chubu Region,Group tour,29.3738
+Chubu Region,Package for individual travelers,3.6977
+Chubu Region,Independent travel,66.9285
+Kinki Region,Group tour,11.8576
+Kinki Region,Package for individual travelers,3.0405
+Kinki Region,Independent travel,85.1019
+Chugoku Region,Group tour,11.1052
+Chugoku Region,Package for individual travelers,4.3963
+Chugoku Region,Independent travel,84.4985
+Shikoku Region,Group tour,14.7388
+Shikoku Region,Package for individual travelers,5.1909
+Shikoku Region,Independent travel,80.0703
+Kyushu Region,Group tour,9.034
+Kyushu Region,Package for individual travelers,3.1662
+Kyushu Region,Independent travel,87.7998
+Okinawa Region,Group tour,14.2268
+Okinawa Region,Package for individual travelers,5.9242
+Okinawa Region,Independent travel,79.849
