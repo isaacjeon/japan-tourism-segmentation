@@ -20,9 +20,9 @@ According to the Japan Tourism Agency:
 
 The data is provided as Excel files for each yearly quarter and, for recent years, for calendar years. I will be using the data for `Calendar Year 2024`. The public data does not include data at an individual level, but instead aggregated numbers and percentages. For instance, public data based on the Regional Survey includes number of surveyees as well as percentages of surveyees that visited a prefecture based on certain characteristics (e.g. number of South Koreans who visited Hokkaido, number of solo travelers who visited Yamanashi, etc.) but individual surveyee data such as a specific surveyee's nationality, sex, age, etc. is not available.
 
-The Excel file contains multiple sheets with tables based on the three afforementioned surveys (A1, B1, B2). For the purposes of this project, I am interested in statistic based on regions of Japan and data for people traveling for tourism (i.e. not traveling for business, visiting family, etc.), so I used data from the two sheets `Annex 8` and `Annex 12` which use data from the B1: Regional Survey. This survey excludes tourists who traveled to Japan by cruise ship.
+The Excel file contains multiple sheets with tables based on the three afforementioned surveys (A1, B1, B2). For the purposes of this project, I am interested in statistic based on regions of Japan and data for people traveling for tourism (i.e. not traveling for business, visiting family, etc.), so I used data from the `Annex 12` sheet which use data from the B1: Regional Survey. This survey excludes tourists who traveled to Japan by cruise ship.
 
-Each table from these sheets includes `Numbers` and `Ratio (%)` (i.e. percentages of surveyees with values 0-100) of surveyees visiting each area and belonging to specific categories, but for simplicity I will only use `Ratio (%)`. It is important to note that there is some margin of error to the values in the dataset, with certain values having large standard errors for reasons such as having a low number of responses. For instance, popular tourist destinations such as Tokyo and Kyoto may have a relatively low standard error while prefectures like Fukushima and Shimane with much less foreign tourists have high standard errors reaching as high as 10%.
+Each table from the sheet includes `Numbers` and `Ratio (%)` (i.e. percentages of surveyees with values 0-100) of surveyees visiting each area and belonging to specific categories, but for simplicity I will only use `Ratio (%)`. It is important to note that there is some margin of error to the values in the dataset, with certain values having large standard errors for reasons such as having a low number of responses. For instance, popular tourist destinations such as Tokyo and Kyoto may have a relatively low standard error while prefectures like Fukushima and Shimane with much less foreign tourists have high standard errors reaching as high as 10%.
 
 Each table includes statistics for each of Japan's 48 prefectures (similar to U.S. states), but also data for each geographic region of Japan. The IVS groups each prefecture under each region as follows:
 > Hokkaido Region : Hokkaido
@@ -36,7 +36,7 @@ Each table includes statistics for each of Japan's 48 prefectures (similar to U.
 > Kyushu Region : Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima
 > Okinawa Region : Okinawa
 
-## Workflow
+## Project Workflow
 ### Preprocessing (Google Sheets)
 - Imported Excel sheets into Google Sheets
 - Cleaned header names and formats
