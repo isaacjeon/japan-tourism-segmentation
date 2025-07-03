@@ -1,10 +1,37 @@
-# japan-tourism-segmentation
-Japan Tourism Segmentation with SQL and Tableau
+# Japan Tourism Segmentation
 
+## Overview
+This project visualizes and analyzes Japan tourism data on a **regional level** collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay). The original data was provided as a single **Excel** file with multiple sheets. After cleaning and restructuring in Google Sheets, the data was imported as multiple tables into **MySQL** that were unified and prepared for interactive exploration using **Tableau**.
+
+# Dataset
+This project uses data from the [International Visitor Survey (IVS)](https://www.mlit.go.jp/kankocho/en/siryou/toukei/syouhityousa.html) published by the Japan Tourism Agency.
+
+According to the Japan Tourism Agency:
+>IVS is aimed at obtaining baseline information for designing and evaluating measures to attract foreign tourists by assessing trends in consumption by international visitors to >Japan. IVS is made up of three quarterly surveys for different purposes:
+
+>A1: National Survey: Designed to characterize international visitors to Japan as a whole by their attributes as well as by what they did and how – and how much – they spent in Japan.
+>B1: Regional Survey: Designed to characterize international visitors to each prefecture in Japan by their attributes as well as by what they did and how – and how much – they spent in Japan.
+>B2: Cruise Survey: Designed to characterize international visitors to Japan with landing permission for cruise ship tourists by their attributes as well as by what they did and how – and how much – they spent in Japan.
+
+The data is provided as Excel files for each yearly quarter and, for recent years, for calendar years. I will be using the data for `Calendar Year 2024`. The public data does not include data at an individual level, but instead aggregated numbers and percentages. For instance, public data based on the Regional Survey includes number of surveyees as well as percentages of surveyees that visited a prefecture based on certain characteristics (e.g. number of South Koreans who visited Hokkaido, number of solo travelers who visited Yamanashi, etc.) but individual surveyee data such as a specific surveyee's nationality, sex, age, etc. is not available.
+
+The Excel file contains multiple sheets with tables based on the three afforementioned surveys (A1, B1, B2). For the purposes of this project, I am interested in statistic based on regions of Japan and data for people traveling for tourism (i.e. not traveling for business, visiting family, etc.), so I used data from the two sheets `Annex 8` and `Annex 12` which use data from the B1: Regional Survey. This survey excludes tourists who traveled to Japan by cruise ship.
+
+Each table from these sheets includes `Numbers` and `Ratio (%)` of surveyees visiting each area and belonging to specific categories, but for simplicity I will only use the `Ratio (%)` values, which are percentages of surveyees. It is important to note that there is some margin of error to the values in the dataset, with certain values having large standard errors for reasons such as having a low number of responses. For instance, popular tourist destinations such as Tokyo and Kyoto may have a relatively low standard error while prefectures like Fukushima and Shimane with much less foreign tourists have high standard errors reaching as high as 10%.
+
+Each table includes statistics for each of Japan's 48 prefectures (similar to U.S. states), but also data for each geographic region of Japan. The IVS groups each prefecture under each region as follows:
+> Hokkaido Region : Hokkaido
+> Tohoku Region : Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima
+> Kanto Region : Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Yamanashi
+> Hokuriku-Shin'etsu Region : Niigata, Toyama, Ishikawa, Nagano
+> Chubu Region : Fukui, Gifu, Shizuoka, Aichi, Mie
+> Kinki Region : Shiga, Kyoto, Osaka, Nara, Wakayama, Hyogo
+> Chugoku Region : Tottori, Shimane, Okayama, Hiroshima, Yamaguchi
+> Shikoku Region : Tokushima, Kagawa, Ehime, Kochi
+> Kyushu Region : Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima
+> Okinawa Region : Okinawa
 
 ## Data Source and Attribution
-
-This project uses data from the International Visitor Survey (IVS) published by the Japan Tourism Agency.
 
 Source: Created by editing the International Visitor Survey (Japan Tourism Agency)  
 URL: https://www.mlit.go.jp/kankocho/en/siryou/toukei/syouhityousa.html  
