@@ -1,7 +1,7 @@
 # Japan Tourism Segmentation
 
 ## Overview
-This project visualizes and analyzes **Japan tourism data on a regional level** collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay). The original data was provided as a single **Excel** file with multiple sheets. After cleaning and restructuring in Google Sheets, the data was imported as multiple tables into **MySQL** that were unified and prepared for interactive exploration using **Tableau**.
+This project visualizes and analyzes **Japan tourism data on a regional level** collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay). The goal is to identify characteristics of tourists that visit each region of Japan, which may provide some insight into which demographics each region may or may not appeal to and can allow for more informative tourism advertising such as in promotion of travel services and attractions. The original data was provided as a single **Excel** file with multiple sheets. After cleaning and restructuring in Google Sheets, the data was imported as multiple tables into **MySQL** that were unified and prepared for interactive exploration using **Tableau**.
 
 ## How to use
 Data used in this project have been preprocessed and are stored as CSV files in the `data` folder. Please scroll down to the Data Source and Attribution section at the bottom of this README file for the original source.
