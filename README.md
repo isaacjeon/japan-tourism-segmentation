@@ -3,7 +3,7 @@
 ## Overview
 This project visualizes and analyzes **Japan tourism data on a regional level** collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay). The original data was provided as a single **Excel** file with multiple sheets. After cleaning and restructuring in Google Sheets, the data was imported as multiple tables into **MySQL** that were unified and prepared for interactive exploration using **Tableau**.
 
-## How to use the files for this project
+## How to use
 Data used in this project have been preprocessed and are stored as CSV files in the `data` folder. Please scroll down to the Data Source and Attribution section at the bottom of this README file for the original source.
 
 Each individual CSV file should be imported into MySQL (there should be 11 tables in total). The `japan_tourism_view.sql` file contains the script to create a view for use with Tableau.
