@@ -1,7 +1,7 @@
 /*
-	Create a view of Japan tourism-related tables that categorizes data
-	by location, geographic_level (Prefecture or Region), category (e.g.
-	Nationality), label (e.g. South Korea), and percentage.
+Create a view of Japan tourism-related tables that categorizes data
+by location, geographic_level (Prefecture or Region), category (e.g.
+Nationality), label (e.g. South Korea), and percentage.
 */
 CREATE OR REPLACE VIEW japan_tourism_stats AS
 -- Combine tables using generalized 'category' and 'label columns'
