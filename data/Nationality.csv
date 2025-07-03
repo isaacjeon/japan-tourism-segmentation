@@ -1,0 +1,1198 @@
+Area of Visit,Nationality,Percentage
+Hokkaido,South Korea,34.5809
+Hokkaido,Taiwan,23.7785
+Hokkaido,Hong Kong,6.933
+Hokkaido,China,10.6669
+Hokkaido,Thailand,4.8797
+Hokkaido,Singapore,2.5467
+Hokkaido,Malaysia,2.2323
+Hokkaido,Indonesia,0.6136
+Hokkaido,Philippines,0.7439
+Hokkaido,Vietnam,0.1727
+Hokkaido,India,0.1689
+Hokkaido,UK,0.791
+Hokkaido,Germany,0.388
+Hokkaido,France,0.3647
+Hokkaido,Italy,0.2498
+Hokkaido,Spain,0.0219
+Hokkaido,Russia,0.2054
+Hokkaido,United States,4.0137
+Hokkaido,Canada,0.8365
+Hokkaido,Australia,3.1884
+Hokkaido,Other,2.6237
+Aomori,South Korea,6.0213
+Aomori,Taiwan,40.9687
+Aomori,Hong Kong,9.898
+Aomori,China,8.2608
+Aomori,Thailand,2.7861
+Aomori,Singapore,1.7712
+Aomori,Malaysia,1.4236
+Aomori,Indonesia,0.2687
+Aomori,Philippines,0.2986
+Aomori,Vietnam,0
+Aomori,India,0.1937
+Aomori,UK,2.2297
+Aomori,Germany,0.7458
+Aomori,France,1.971
+Aomori,Italy,0.3237
+Aomori,Spain,0.1253
+Aomori,Russia,0
+Aomori,United States,9.0774
+Aomori,Canada,1.5289
+Aomori,Australia,7.606
+Aomori,Other,4.5017
+Iwate,South Korea,1.5061
+Iwate,Taiwan,71.7569
+Iwate,Hong Kong,5.8399
+Iwate,China,2.1083
+Iwate,Thailand,1.2788
+Iwate,Singapore,1.0614
+Iwate,Malaysia,1.067
+Iwate,Indonesia,0.682
+Iwate,Philippines,0
+Iwate,Vietnam,0
+Iwate,India,0
+Iwate,UK,0.7472
+Iwate,Germany,1.0262
+Iwate,France,0.8677
+Iwate,Italy,0
+Iwate,Spain,0.1901
+Iwate,Russia,0
+Iwate,United States,3.5235
+Iwate,Canada,0.9324
+Iwate,Australia,2.8083
+Iwate,Other,4.6043
+Miyagi,South Korea,3.8214
+Miyagi,Taiwan,57.9598
+Miyagi,Hong Kong,6.8109
+Miyagi,China,7.2123
+Miyagi,Thailand,2.4404
+Miyagi,Singapore,1.1157
+Miyagi,Malaysia,1.8006
+Miyagi,Indonesia,0.2009
+Miyagi,Philippines,0.188
+Miyagi,Vietnam,0.1251
+Miyagi,India,0.079
+Miyagi,UK,1.7704
+Miyagi,Germany,1.1687
+Miyagi,France,1.2728
+Miyagi,Italy,0.2658
+Miyagi,Spain,0.423
+Miyagi,Russia,0
+Miyagi,United States,4.7375
+Miyagi,Canada,0.8507
+Miyagi,Australia,3.1713
+Miyagi,Other,4.5858
+Akita,South Korea,3.723
+Akita,Taiwan,52.6675
+Akita,Hong Kong,10.4187
+Akita,China,10.9467
+Akita,Thailand,1.4173
+Akita,Singapore,0.1825
+Akita,Malaysia,0.8715
+Akita,Indonesia,1.0683
+Akita,Philippines,0.2209
+Akita,Vietnam,0
+Akita,India,0
+Akita,UK,1.1106
+Akita,Germany,1.5717
+Akita,France,1.6946
+Akita,Italy,0
+Akita,Spain,0
+Akita,Russia,0
+Akita,United States,3.9704
+Akita,Canada,2.3912
+Akita,Australia,4.9842
+Akita,Other,2.761
+Yamagata,South Korea,2.1993
+Yamagata,Taiwan,71.4528
+Yamagata,Hong Kong,6.8808
+Yamagata,China,2.086
+Yamagata,Thailand,1.8663
+Yamagata,Singapore,0.7034
+Yamagata,Malaysia,3.0426
+Yamagata,Indonesia,0.206
+Yamagata,Philippines,0.2287
+Yamagata,Vietnam,0.136
+Yamagata,India,0
+Yamagata,UK,0.8139
+Yamagata,Germany,1.1629
+Yamagata,France,1.4794
+Yamagata,Italy,0.2536
+Yamagata,Spain,0.1336
+Yamagata,Russia,0
+Yamagata,United States,2.5541
+Yamagata,Canada,0.178
+Yamagata,Australia,2.0656
+Yamagata,Other,2.5571
+Fukushima,South Korea,0.7187
+Fukushima,Taiwan,57.8759
+Fukushima,Hong Kong,7.6287
+Fukushima,China,2.1386
+Fukushima,Thailand,3.1467
+Fukushima,Singapore,1.3079
+Fukushima,Malaysia,1.3997
+Fukushima,Indonesia,0.0462
+Fukushima,Philippines,0.5966
+Fukushima,Vietnam,0.3913
+Fukushima,India,0.4651
+Fukushima,UK,1.1691
+Fukushima,Germany,1.0366
+Fukushima,France,1.2858
+Fukushima,Italy,0.195
+Fukushima,Spain,0.769
+Fukushima,Russia,0.4319
+Fukushima,United States,5.7092
+Fukushima,Canada,0.2714
+Fukushima,Australia,4.9088
+Fukushima,Other,8.5079
+Ibaraki,South Korea,6.7638
+Ibaraki,Taiwan,38.1276
+Ibaraki,Hong Kong,12.4724
+Ibaraki,China,8.3539
+Ibaraki,Thailand,3.5152
+Ibaraki,Singapore,2.5561
+Ibaraki,Malaysia,2.6343
+Ibaraki,Indonesia,2.828
+Ibaraki,Philippines,4.2752
+Ibaraki,Vietnam,0
+Ibaraki,India,0.2764
+Ibaraki,UK,1.3392
+Ibaraki,Germany,0.4823
+Ibaraki,France,0.8228
+Ibaraki,Italy,0.8874
+Ibaraki,Spain,0
+Ibaraki,Russia,0.4953
+Ibaraki,United States,7.9938
+Ibaraki,Canada,1.617
+Ibaraki,Australia,0.4061
+Ibaraki,Other,4.1531
+Tochigi,South Korea,1.4445
+Tochigi,Taiwan,20.5433
+Tochigi,Hong Kong,5.7167
+Tochigi,China,4.4383
+Tochigi,Thailand,7.6657
+Tochigi,Singapore,1.854
+Tochigi,Malaysia,1.9655
+Tochigi,Indonesia,1.5889
+Tochigi,Philippines,1.6841
+Tochigi,Vietnam,0.788
+Tochigi,India,0.7343
+Tochigi,UK,2.1735
+Tochigi,Germany,2.9187
+Tochigi,France,4.7694
+Tochigi,Italy,4.5349
+Tochigi,Spain,3.0305
+Tochigi,Russia,0.1361
+Tochigi,United States,10.3284
+Tochigi,Canada,2.149
+Tochigi,Australia,6.0814
+Tochigi,Other,15.4546
+Gunma,South Korea,2.8571
+Gunma,Taiwan,26.9451
+Gunma,Hong Kong,12.5164
+Gunma,China,5.6786
+Gunma,Thailand,5.1333
+Gunma,Singapore,1.2368
+Gunma,Malaysia,1.0784
+Gunma,Indonesia,0.9214
+Gunma,Philippines,2.4377
+Gunma,Vietnam,0.7233
+Gunma,India,0.4049
+Gunma,UK,2.82
+Gunma,Germany,1.3538
+Gunma,France,3.3538
+Gunma,Italy,0.4891
+Gunma,Spain,1.8545
+Gunma,Russia,0
+Gunma,United States,9.3984
+Gunma,Canada,1.9618
+Gunma,Australia,5.7738
+Gunma,Other,13.0617
+Saitama,South Korea,9.6265
+Saitama,Taiwan,24.6408
+Saitama,Hong Kong,8.6092
+Saitama,China,17.7816
+Saitama,Thailand,6.1842
+Saitama,Singapore,3.4067
+Saitama,Malaysia,1.1265
+Saitama,Indonesia,1.7207
+Saitama,Philippines,3.0143
+Saitama,Vietnam,1.6167
+Saitama,India,0.3865
+Saitama,UK,0.7498
+Saitama,Germany,0.921
+Saitama,France,0.9104
+Saitama,Italy,0.5448
+Saitama,Spain,0.2372
+Saitama,Russia,0.7091
+Saitama,United States,6.0231
+Saitama,Canada,2.0923
+Saitama,Australia,2.3193
+Saitama,Other,7.3793
+Chiba,South Korea,14.2565
+Chiba,Taiwan,14.5499
+Chiba,Hong Kong,7.679
+Chiba,China,16.1596
+Chiba,Thailand,4.0753
+Chiba,Singapore,2.6036
+Chiba,Malaysia,1.5081
+Chiba,Indonesia,1.8155
+Chiba,Philippines,3.1551
+Chiba,Vietnam,2.0353
+Chiba,India,0.6955
+Chiba,UK,1.1973
+Chiba,Germany,0.994
+Chiba,France,1.1481
+Chiba,Italy,0.6725
+Chiba,Spain,0.7678
+Chiba,Russia,0.3458
+Chiba,United States,10.0237
+Chiba,Canada,2.9405
+Chiba,Australia,4.3139
+Chiba,Other,9.0629
+Tokyo,South Korea,11.0538
+Tokyo,Taiwan,12.1119
+Tokyo,Hong Kong,6.426
+Tokyo,China,17.3746
+Tokyo,Thailand,3.3226
+Tokyo,Singapore,2.6309
+Tokyo,Malaysia,1.6818
+Tokyo,Indonesia,2.2515
+Tokyo,Philippines,2.5104
+Tokyo,Vietnam,1.6804
+Tokyo,India,0.6495
+Tokyo,UK,2.0749
+Tokyo,Germany,1.452
+Tokyo,France,2.067
+Tokyo,Italy,1.2408
+Tokyo,Spain,1.0079
+Tokyo,Russia,0.5234
+Tokyo,United States,12.7789
+Tokyo,Canada,2.9355
+Tokyo,Australia,4.8413
+Tokyo,Other,9.385
+Kanagawa,South Korea,6.3218
+Kanagawa,Taiwan,12.5939
+Kanagawa,Hong Kong,5.5579
+Kanagawa,China,21.9432
+Kanagawa,Thailand,2.4752
+Kanagawa,Singapore,2.1455
+Kanagawa,Malaysia,1.6549
+Kanagawa,Indonesia,1.1536
+Kanagawa,Philippines,1.687
+Kanagawa,Vietnam,0.567
+Kanagawa,India,0.6487
+Kanagawa,UK,2.3712
+Kanagawa,Germany,2.065
+Kanagawa,France,3.1936
+Kanagawa,Italy,1.6204
+Kanagawa,Spain,1.2601
+Kanagawa,Russia,0.6266
+Kanagawa,United States,13.362
+Kanagawa,Canada,3.112
+Kanagawa,Australia,5.1975
+Kanagawa,Other,10.4428
+Niigata,South Korea,1.8134
+Niigata,Taiwan,35.3066
+Niigata,Hong Kong,10.408
+Niigata,China,9.9227
+Niigata,Thailand,7.3072
+Niigata,Singapore,1.8624
+Niigata,Malaysia,2.2757
+Niigata,Indonesia,1.7382
+Niigata,Philippines,3.0815
+Niigata,Vietnam,0.5286
+Niigata,India,0
+Niigata,UK,1.2483
+Niigata,Germany,1.5692
+Niigata,France,2.2769
+Niigata,Italy,0.4424
+Niigata,Spain,0.1451
+Niigata,Russia,2.7755
+Niigata,United States,5.3096
+Niigata,Canada,1.2191
+Niigata,Australia,6.4818
+Niigata,Other,4.2878
+Toyama,South Korea,5.0682
+Toyama,Taiwan,47.0766
+Toyama,Hong Kong,13.2715
+Toyama,China,9.2725
+Toyama,Thailand,2.903
+Toyama,Singapore,3.5287
+Toyama,Malaysia,1.6616
+Toyama,Indonesia,1.8571
+Toyama,Philippines,1.172
+Toyama,Vietnam,0.7762
+Toyama,India,0.4889
+Toyama,UK,0.656
+Toyama,Germany,0.7259
+Toyama,France,1.7289
+Toyama,Italy,0.1445
+Toyama,Spain,0.1878
+Toyama,Russia,0
+Toyama,United States,1.997
+Toyama,Canada,0.8965
+Toyama,Australia,2.1704
+Toyama,Other,4.4169
+Ishikawa,South Korea,0.803
+Ishikawa,Taiwan,25.0911
+Ishikawa,Hong Kong,4.4374
+Ishikawa,China,5.9444
+Ishikawa,Thailand,0.9304
+Ishikawa,Singapore,1.8449
+Ishikawa,Malaysia,0.842
+Ishikawa,Indonesia,1.2245
+Ishikawa,Philippines,0.502
+Ishikawa,Vietnam,0.152
+Ishikawa,India,0.4974
+Ishikawa,UK,3.9593
+Ishikawa,Germany,2.4085
+Ishikawa,France,5.099
+Ishikawa,Italy,6.8088
+Ishikawa,Spain,2.8366
+Ishikawa,Russia,0.953
+Ishikawa,United States,10.1179
+Ishikawa,Canada,3.0255
+Ishikawa,Australia,6.2789
+Ishikawa,Other,16.2432
+Fukui,South Korea,1.1178
+Fukui,Taiwan,29.3803
+Fukui,Hong Kong,20.1747
+Fukui,China,6.4953
+Fukui,Thailand,1.5056
+Fukui,Singapore,3.8264
+Fukui,Malaysia,0.0639
+Fukui,Indonesia,0.6188
+Fukui,Philippines,1.0086
+Fukui,Vietnam,0.9859
+Fukui,India,0
+Fukui,UK,1.2376
+Fukui,Germany,4.6246
+Fukui,France,7.1046
+Fukui,Italy,1.2223
+Fukui,Spain,0
+Fukui,Russia,0
+Fukui,United States,3.1081
+Fukui,Canada,3.0852
+Fukui,Australia,4.2233
+Fukui,Other,10.2169
+Yamanashi,South Korea,2.2092
+Yamanashi,Taiwan,13.5296
+Yamanashi,Hong Kong,5.992
+Yamanashi,China,24.5797
+Yamanashi,Thailand,7.209
+Yamanashi,Singapore,3.4365
+Yamanashi,Malaysia,3.8588
+Yamanashi,Indonesia,2.3762
+Yamanashi,Philippines,3.078
+Yamanashi,Vietnam,5.4983
+Yamanashi,India,0.7148
+Yamanashi,UK,1.6684
+Yamanashi,Germany,1.0472
+Yamanashi,France,2.0417
+Yamanashi,Italy,0.5962
+Yamanashi,Spain,0.5902
+Yamanashi,Russia,0.3679
+Yamanashi,United States,6.7784
+Yamanashi,Canada,1.9605
+Yamanashi,Australia,4.6813
+Yamanashi,Other,7.786
+Nagano,South Korea,2.038
+Nagano,Taiwan,27.1455
+Nagano,Hong Kong,9.588
+Nagano,China,5.404
+Nagano,Thailand,5.8547
+Nagano,Singapore,3.0568
+Nagano,Malaysia,1.1113
+Nagano,Indonesia,1.9595
+Nagano,Philippines,0.9553
+Nagano,Vietnam,0.4442
+Nagano,India,0.2947
+Nagano,UK,2.6417
+Nagano,Germany,1.7408
+Nagano,France,3.2292
+Nagano,Italy,0.9953
+Nagano,Spain,0.6064
+Nagano,Russia,0.1269
+Nagano,United States,6.5036
+Nagano,Canada,2.0668
+Nagano,Australia,12.9621
+Nagano,Other,11.2754
+Gifu,South Korea,6.0859
+Gifu,Taiwan,27.5999
+Gifu,Hong Kong,10.2767
+Gifu,China,7.2969
+Gifu,Thailand,4.7982
+Gifu,Singapore,2.7854
+Gifu,Malaysia,1.5491
+Gifu,Indonesia,1.7323
+Gifu,Philippines,1.5801
+Gifu,Vietnam,0.8429
+Gifu,India,0.4953
+Gifu,UK,2.1067
+Gifu,Germany,1.4999
+Gifu,France,3.1435
+Gifu,Italy,2.9369
+Gifu,Spain,3.109
+Gifu,Russia,0.0806
+Gifu,United States,5.282
+Gifu,Canada,1.9041
+Gifu,Australia,4.8274
+Gifu,Other,10.0671
+Shizuoka,South Korea,6.9535
+Shizuoka,Taiwan,12.311
+Shizuoka,Hong Kong,7.5414
+Shizuoka,China,30.8733
+Shizuoka,Thailand,3.6947
+Shizuoka,Singapore,2.545
+Shizuoka,Malaysia,2.314
+Shizuoka,Indonesia,2.5844
+Shizuoka,Philippines,3.3643
+Shizuoka,Vietnam,3.2227
+Shizuoka,India,0.4553
+Shizuoka,UK,1.6938
+Shizuoka,Germany,1.2866
+Shizuoka,France,1.4231
+Shizuoka,Italy,0.6039
+Shizuoka,Spain,0.178
+Shizuoka,Russia,0.2321
+Shizuoka,United States,5.5563
+Shizuoka,Canada,2.2018
+Shizuoka,Australia,4.7463
+Shizuoka,Other,6.2185
+Aichi,South Korea,10.3873
+Aichi,Taiwan,22.2537
+Aichi,Hong Kong,10.7593
+Aichi,China,27.2968
+Aichi,Thailand,3.2142
+Aichi,Singapore,2.6643
+Aichi,Malaysia,1.0309
+Aichi,Indonesia,0.8212
+Aichi,Philippines,2.2627
+Aichi,Vietnam,2.5003
+Aichi,India,0.1597
+Aichi,UK,0.4476
+Aichi,Germany,0.8713
+Aichi,France,1.4705
+Aichi,Italy,0.6504
+Aichi,Spain,0.3106
+Aichi,Russia,0.0284
+Aichi,United States,4.107
+Aichi,Canada,1.25
+Aichi,Australia,2.4098
+Aichi,Other,5.1041
+Mie,South Korea,5.5602
+Mie,Taiwan,35.292
+Mie,Hong Kong,20.6527
+Mie,China,9.5951
+Mie,Thailand,3.0499
+Mie,Singapore,2.9361
+Mie,Malaysia,2.4832
+Mie,Indonesia,0.3588
+Mie,Philippines,4.5859
+Mie,Vietnam,0.514
+Mie,India,0.0151
+Mie,UK,0.3543
+Mie,Germany,0.6115
+Mie,France,2.7626
+Mie,Italy,0.3835
+Mie,Spain,0.1099
+Mie,Russia,0.0813
+Mie,United States,4.304
+Mie,Canada,1.0094
+Mie,Australia,2.9813
+Mie,Other,2.3592
+Shiga,South Korea,4.4984
+Shiga,Taiwan,33.6953
+Shiga,Hong Kong,15.1282
+Shiga,China,24.4482
+Shiga,Thailand,0.7665
+Shiga,Singapore,1.1811
+Shiga,Malaysia,0.8527
+Shiga,Indonesia,0.2282
+Shiga,Philippines,1.1919
+Shiga,Vietnam,0
+Shiga,India,0
+Shiga,UK,1.6822
+Shiga,Germany,1.4732
+Shiga,France,1.5845
+Shiga,Italy,1.2499
+Shiga,Spain,0.7146
+Shiga,Russia,0
+Shiga,United States,4.8429
+Shiga,Canada,1.7056
+Shiga,Australia,1.6727
+Shiga,Other,3.0837
+Kyoto,South Korea,13.8574
+Kyoto,Taiwan,10.8341
+Kyoto,Hong Kong,5.0656
+Kyoto,China,22.3421
+Kyoto,Thailand,2.0561
+Kyoto,Singapore,2.034
+Kyoto,Malaysia,1.5225
+Kyoto,Indonesia,1.5052
+Kyoto,Philippines,1.7736
+Kyoto,Vietnam,1.498
+Kyoto,India,0.605
+Kyoto,UK,2.1378
+Kyoto,Germany,1.6172
+Kyoto,France,2.3113
+Kyoto,Italy,1.5556
+Kyoto,Spain,1.306
+Kyoto,Russia,0.515
+Kyoto,United States,10.708
+Kyoto,Canada,2.6468
+Kyoto,Australia,4.4635
+Kyoto,Other,9.645
+Osaka,South Korea,19.4287
+Osaka,Taiwan,11.5197
+Osaka,Hong Kong,6.1888
+Osaka,China,23.9756
+Osaka,Thailand,2.5364
+Osaka,Singapore,2.0534
+Osaka,Malaysia,1.5618
+Osaka,Indonesia,1.5189
+Osaka,Philippines,2.0565
+Osaka,Vietnam,1.543
+Osaka,India,0.4176
+Osaka,UK,1.5302
+Osaka,Germany,1.1421
+Osaka,France,1.612
+Osaka,Italy,0.9887
+Osaka,Spain,0.9715
+Osaka,Russia,0.4262
+Osaka,United States,7.3824
+Osaka,Canada,2.0993
+Osaka,Australia,3.702
+Osaka,Other,7.3452
+Hyogo,South Korea,15.796
+Hyogo,Taiwan,14.8442
+Hyogo,Hong Kong,8.7084
+Hyogo,China,25.1382
+Hyogo,Thailand,2.263
+Hyogo,Singapore,1.9835
+Hyogo,Malaysia,1.2918
+Hyogo,Indonesia,0.8903
+Hyogo,Philippines,1.9117
+Hyogo,Vietnam,0.9386
+Hyogo,India,0.1749
+Hyogo,UK,1.596
+Hyogo,Germany,1.618
+Hyogo,France,2.2001
+Hyogo,Italy,1.1979
+Hyogo,Spain,0.74
+Hyogo,Russia,0.4937
+Hyogo,United States,5.8777
+Hyogo,Canada,2.2458
+Hyogo,Australia,3.1281
+Hyogo,Other,6.9622
+Nara,South Korea,7.6693
+Nara,Taiwan,8.5842
+Nara,Hong Kong,4.007
+Nara,China,28.2907
+Nara,Thailand,1.2305
+Nara,Singapore,1.8559
+Nara,Malaysia,1.848
+Nara,Indonesia,0.9793
+Nara,Philippines,2.5253
+Nara,Vietnam,0.7317
+Nara,India,0.6849
+Nara,UK,2.1798
+Nara,Germany,2.0021
+Nara,France,3.3004
+Nara,Italy,2.4768
+Nara,Spain,2.097
+Nara,Russia,0.7489
+Nara,United States,9.3985
+Nara,Canada,2.8122
+Nara,Australia,3.8812
+Nara,Other,12.6963
+Wakayama,South Korea,2.9416
+Wakayama,Taiwan,11.4541
+Wakayama,Hong Kong,14.8338
+Wakayama,China,23.9441
+Wakayama,Thailand,1.1378
+Wakayama,Singapore,1.7536
+Wakayama,Malaysia,1.0937
+Wakayama,Indonesia,0.0893
+Wakayama,Philippines,0.2785
+Wakayama,Vietnam,0.2646
+Wakayama,India,0.2123
+Wakayama,UK,4.2254
+Wakayama,Germany,2.2367
+Wakayama,France,4.4598
+Wakayama,Italy,2.4951
+Wakayama,Spain,1.572
+Wakayama,Russia,0
+Wakayama,United States,5.7129
+Wakayama,Canada,2.5652
+Wakayama,Australia,5.1994
+Wakayama,Other,13.5301
+Tottori,South Korea,24.4055
+Tottori,Taiwan,24.3341
+Tottori,Hong Kong,20.3541
+Tottori,China,11.8104
+Tottori,Thailand,1.0303
+Tottori,Singapore,1.374
+Tottori,Malaysia,0.189
+Tottori,Indonesia,0.2341
+Tottori,Philippines,0
+Tottori,Vietnam,0
+Tottori,India,0
+Tottori,UK,0.5112
+Tottori,Germany,0.5983
+Tottori,France,1.8402
+Tottori,Italy,0.7461
+Tottori,Spain,0
+Tottori,Russia,0
+Tottori,United States,3.4634
+Tottori,Canada,2.3175
+Tottori,Australia,2.5847
+Tottori,Other,4.2067
+Shimane,South Korea,15.8055
+Shimane,Taiwan,36.0649
+Shimane,Hong Kong,14.5902
+Shimane,China,6.8334
+Shimane,Thailand,1.7783
+Shimane,Singapore,0
+Shimane,Malaysia,0.4723
+Shimane,Indonesia,0
+Shimane,Philippines,0
+Shimane,Vietnam,0
+Shimane,India,0
+Shimane,UK,1.0058
+Shimane,Germany,1.9639
+Shimane,France,3.2043
+Shimane,Italy,0
+Shimane,Spain,0
+Shimane,Russia,0.3929
+Shimane,United States,5.906
+Shimane,Canada,1.7155
+Shimane,Australia,7.2416
+Shimane,Other,3.0255
+Okayama,South Korea,9.986
+Okayama,Taiwan,34.866
+Okayama,Hong Kong,8.6605
+Okayama,China,7.6835
+Okayama,Thailand,1.5902
+Okayama,Singapore,2.0853
+Okayama,Malaysia,0.2999
+Okayama,Indonesia,0.7826
+Okayama,Philippines,0.1451
+Okayama,Vietnam,0.3527
+Okayama,India,0.2289
+Okayama,UK,2.7036
+Okayama,Germany,2.2268
+Okayama,France,3.5131
+Okayama,Italy,0.4257
+Okayama,Spain,1.1393
+Okayama,Russia,0.9745
+Okayama,United States,4.8435
+Okayama,Canada,1.1453
+Okayama,Australia,5.7079
+Okayama,Other,10.6395
+Hiroshima,South Korea,4.7359
+Hiroshima,Taiwan,6.2827
+Hiroshima,Hong Kong,2.0268
+Hiroshima,China,1.9586
+Hiroshima,Thailand,0.7237
+Hiroshima,Singapore,1.0176
+Hiroshima,Malaysia,0.1751
+Hiroshima,Indonesia,0.2346
+Hiroshima,Philippines,0.9956
+Hiroshima,Vietnam,0.0456
+Hiroshima,India,1.5525
+Hiroshima,UK,7.0303
+Hiroshima,Germany,4.0316
+Hiroshima,France,5.8219
+Hiroshima,Italy,3.8247
+Hiroshima,Spain,2.6231
+Hiroshima,Russia,0.1328
+Hiroshima,United States,15.3089
+Hiroshima,Canada,4.8449
+Hiroshima,Australia,12.2937
+Hiroshima,Other,24.3392
+Yamaguchi,South Korea,61.6967
+Yamaguchi,Taiwan,15.5156
+Yamaguchi,Hong Kong,7.1917
+Yamaguchi,China,1.2332
+Yamaguchi,Thailand,0.8795
+Yamaguchi,Singapore,1.3252
+Yamaguchi,Malaysia,0
+Yamaguchi,Indonesia,0.2174
+Yamaguchi,Philippines,0.3763
+Yamaguchi,Vietnam,0.3499
+Yamaguchi,India,0
+Yamaguchi,UK,0.5118
+Yamaguchi,Germany,0.732
+Yamaguchi,France,1.1085
+Yamaguchi,Italy,0
+Yamaguchi,Spain,0.2545
+Yamaguchi,Russia,0
+Yamaguchi,United States,3.1158
+Yamaguchi,Canada,1.167
+Yamaguchi,Australia,1.7208
+Yamaguchi,Other,2.604
+Tokushima,South Korea,4.3944
+Tokushima,Taiwan,37.1059
+Tokushima,Hong Kong,26.952
+Tokushima,China,4.3097
+Tokushima,Thailand,1.8385
+Tokushima,Singapore,1.3263
+Tokushima,Malaysia,0.634
+Tokushima,Indonesia,1.1071
+Tokushima,Philippines,0.2721
+Tokushima,Vietnam,0
+Tokushima,India,0.3396
+Tokushima,UK,2.1418
+Tokushima,Germany,2.4998
+Tokushima,France,2.9081
+Tokushima,Italy,0.293
+Tokushima,Spain,0
+Tokushima,Russia,0.2103
+Tokushima,United States,4.2574
+Tokushima,Canada,1.1999
+Tokushima,Australia,2.004
+Tokushima,Other,6.2061
+Kagawa,South Korea,23.2613
+Kagawa,Taiwan,27.5391
+Kagawa,Hong Kong,12.2676
+Kagawa,China,11.3709
+Kagawa,Thailand,0.6856
+Kagawa,Singapore,0.4964
+Kagawa,Malaysia,0.2418
+Kagawa,Indonesia,0.1133
+Kagawa,Philippines,0.1935
+Kagawa,Vietnam,0
+Kagawa,India,0
+Kagawa,UK,1.7914
+Kagawa,Germany,1.4905
+Kagawa,France,2.6462
+Kagawa,Italy,0.4341
+Kagawa,Spain,0.3651
+Kagawa,Russia,0
+Kagawa,United States,2.6041
+Kagawa,Canada,1.4841
+Kagawa,Australia,4.5229
+Kagawa,Other,8.492
+Ehime,South Korea,4.4187
+Ehime,Taiwan,40.3916
+Ehime,Hong Kong,12.9516
+Ehime,China,4.094
+Ehime,Thailand,0.7438
+Ehime,Singapore,1.6838
+Ehime,Malaysia,0.433
+Ehime,Indonesia,0
+Ehime,Philippines,0.8785
+Ehime,Vietnam,0.5226
+Ehime,India,0
+Ehime,UK,1.9313
+Ehime,Germany,1.9949
+Ehime,France,3.9488
+Ehime,Italy,0.7211
+Ehime,Spain,1.0387
+Ehime,Russia,0.1347
+Ehime,United States,6.0562
+Ehime,Canada,1.7585
+Ehime,Australia,3.5283
+Ehime,Other,12.7699
+Kochi,South Korea,2.5427
+Kochi,Taiwan,42.8748
+Kochi,Hong Kong,14.0876
+Kochi,China,0.6055
+Kochi,Thailand,1.7031
+Kochi,Singapore,0.7006
+Kochi,Malaysia,0.0472
+Kochi,Indonesia,0
+Kochi,Philippines,0.5449
+Kochi,Vietnam,0
+Kochi,India,0
+Kochi,UK,2.7576
+Kochi,Germany,1.5696
+Kochi,France,4.0934
+Kochi,Italy,0
+Kochi,Spain,0
+Kochi,Russia,0
+Kochi,United States,10.9116
+Kochi,Canada,4.6701
+Kochi,Australia,5.6526
+Kochi,Other,7.2387
+Fukuoka,South Korea,58.8504
+Fukuoka,Taiwan,14.183
+Fukuoka,Hong Kong,10.2894
+Fukuoka,China,5.1156
+Fukuoka,Thailand,2.649
+Fukuoka,Singapore,1.0294
+Fukuoka,Malaysia,0.2748
+Fukuoka,Indonesia,0.0689
+Fukuoka,Philippines,0.8276
+Fukuoka,Vietnam,0.1193
+Fukuoka,India,0.0476
+Fukuoka,UK,0.5931
+Fukuoka,Germany,0.3636
+Fukuoka,France,0.4181
+Fukuoka,Italy,0.1177
+Fukuoka,Spain,0.0842
+Fukuoka,Russia,0.002
+Fukuoka,United States,1.5915
+Fukuoka,Canada,0.5864
+Fukuoka,Australia,0.8475
+Fukuoka,Other,1.9408
+Saga,South Korea,40.532
+Saga,Taiwan,27.9772
+Saga,Hong Kong,14.7036
+Saga,China,9.326
+Saga,Thailand,2.5965
+Saga,Singapore,0.9938
+Saga,Malaysia,0.2547
+Saga,Indonesia,0
+Saga,Philippines,0.9563
+Saga,Vietnam,0
+Saga,India,0.188
+Saga,UK,0.4848
+Saga,Germany,0.3083
+Saga,France,0.2717
+Saga,Italy,0.1119
+Saga,Spain,0
+Saga,Russia,0
+Saga,United States,0.5568
+Saga,Canada,0.1903
+Saga,Australia,0.2308
+Saga,Other,0.3172
+Nagasaki,South Korea,22.8742
+Nagasaki,Taiwan,24.0177
+Nagasaki,Hong Kong,10.8396
+Nagasaki,China,3.927
+Nagasaki,Thailand,4.3212
+Nagasaki,Singapore,3.709
+Nagasaki,Malaysia,0.5191
+Nagasaki,Indonesia,0.1807
+Nagasaki,Philippines,2.5352
+Nagasaki,Vietnam,0
+Nagasaki,India,0.1934
+Nagasaki,UK,3.7818
+Nagasaki,Germany,1.6011
+Nagasaki,France,1.6825
+Nagasaki,Italy,0.6248
+Nagasaki,Spain,0.3576
+Nagasaki,Russia,0
+Nagasaki,United States,5.4989
+Nagasaki,Canada,1.8317
+Nagasaki,Australia,3.4868
+Nagasaki,Other,8.0177
+Kumamoto,South Korea,24.8962
+Kumamoto,Taiwan,30.0405
+Kumamoto,Hong Kong,17.2924
+Kumamoto,China,8.734
+Kumamoto,Thailand,5.3702
+Kumamoto,Singapore,2.096
+Kumamoto,Malaysia,0.7046
+Kumamoto,Indonesia,0.0854
+Kumamoto,Philippines,0.5752
+Kumamoto,Vietnam,0.4543
+Kumamoto,India,0.0781
+Kumamoto,UK,1.1927
+Kumamoto,Germany,0.6013
+Kumamoto,France,1.2285
+Kumamoto,Italy,0.3893
+Kumamoto,Spain,0.2179
+Kumamoto,Russia,0
+Kumamoto,United States,1.1623
+Kumamoto,Canada,1.1881
+Kumamoto,Australia,1.2476
+Kumamoto,Other,2.4454
+Oita,South Korea,60.5252
+Oita,Taiwan,15.2093
+Oita,Hong Kong,10.7646
+Oita,China,3.241
+Oita,Thailand,3.6126
+Oita,Singapore,1.6107
+Oita,Malaysia,0.3443
+Oita,Indonesia,0.0324
+Oita,Philippines,0.4842
+Oita,Vietnam,0.2418
+Oita,India,0.0281
+Oita,UK,0.2297
+Oita,Germany,0.2701
+Oita,France,0.5019
+Oita,Italy,0.2459
+Oita,Spain,0.1275
+Oita,Russia,0.0503
+Oita,United States,0.4962
+Oita,Canada,0.3356
+Oita,Australia,0.6191
+Oita,Other,1.0293
+Miyazaki,South Korea,22.4859
+Miyazaki,Taiwan,26.2353
+Miyazaki,Hong Kong,17.9962
+Miyazaki,China,5.4847
+Miyazaki,Thailand,4.8791
+Miyazaki,Singapore,3.4377
+Miyazaki,Malaysia,1.0213
+Miyazaki,Indonesia,0
+Miyazaki,Philippines,0.3408
+Miyazaki,Vietnam,0.2132
+Miyazaki,India,0
+Miyazaki,UK,1.5548
+Miyazaki,Germany,1.3054
+Miyazaki,France,2.4023
+Miyazaki,Italy,1.9525
+Miyazaki,Spain,0
+Miyazaki,Russia,0
+Miyazaki,United States,2.975
+Miyazaki,Canada,1.6821
+Miyazaki,Australia,2.693
+Miyazaki,Other,3.3409
+Kagoshima,South Korea,24.3787
+Kagoshima,Taiwan,14.0418
+Kagoshima,Hong Kong,19.7862
+Kagoshima,China,10.7151
+Kagoshima,Thailand,1.8286
+Kagoshima,Singapore,3.4169
+Kagoshima,Malaysia,0.5903
+Kagoshima,Indonesia,0
+Kagoshima,Philippines,0.9927
+Kagoshima,Vietnam,0.1231
+Kagoshima,India,0
+Kagoshima,UK,2.2705
+Kagoshima,Germany,2.4518
+Kagoshima,France,2.7374
+Kagoshima,Italy,1.51
+Kagoshima,Spain,0.3512
+Kagoshima,Russia,0
+Kagoshima,United States,4.7913
+Kagoshima,Canada,2.0264
+Kagoshima,Australia,3.5967
+Kagoshima,Other,4.3912
+Okinawa,South Korea,26.7734
+Okinawa,Taiwan,44.2413
+Okinawa,Hong Kong,10.5413
+Okinawa,China,7.9814
+Okinawa,Thailand,0.5163
+Okinawa,Singapore,1.3685
+Okinawa,Malaysia,0.0592
+Okinawa,Indonesia,0
+Okinawa,Philippines,0.0372
+Okinawa,Vietnam,0.0382
+Okinawa,India,0.013
+Okinawa,UK,0.365
+Okinawa,Germany,0.4231
+Okinawa,France,0.5791
+Okinawa,Italy,0.2014
+Okinawa,Spain,0.1392
+Okinawa,Russia,0
+Okinawa,United States,3.0762
+Okinawa,Canada,0.9003
+Okinawa,Australia,0.5716
+Okinawa,Other,2.1743
+Hokkaido Region,South Korea,34.5809
+Hokkaido Region,Taiwan,23.7785
+Hokkaido Region,Hong Kong,6.933
+Hokkaido Region,China,10.6669
+Hokkaido Region,Thailand,4.8797
+Hokkaido Region,Singapore,2.5467
+Hokkaido Region,Malaysia,2.2323
+Hokkaido Region,Indonesia,0.6136
+Hokkaido Region,Philippines,0.7439
+Hokkaido Region,Vietnam,0.1727
+Hokkaido Region,India,0.1689
+Hokkaido Region,UK,0.791
+Hokkaido Region,Germany,0.388
+Hokkaido Region,France,0.3647
+Hokkaido Region,Italy,0.2498
+Hokkaido Region,Spain,0.0219
+Hokkaido Region,Russia,0.2054
+Hokkaido Region,United States,4.0137
+Hokkaido Region,Canada,0.8365
+Hokkaido Region,Australia,3.1884
+Hokkaido Region,Other,2.6237
+Tohoku Region,South Korea,4.7869
+Tohoku Region,Taiwan,47.2132
+Tohoku Region,Hong Kong,7.9431
+Tohoku Region,China,7.8878
+Tohoku Region,Thailand,2.4597
+Tohoku Region,Singapore,1.2219
+Tohoku Region,Malaysia,1.8665
+Tohoku Region,Indonesia,0.3539
+Tohoku Region,Philippines,0.4306
+Tohoku Region,Vietnam,0.2046
+Tohoku Region,India,0.1472
+Tohoku Region,UK,1.9766
+Tohoku Region,Germany,1.3087
+Tohoku Region,France,1.5013
+Tohoku Region,Italy,0.3354
+Tohoku Region,Spain,0.5715
+Tohoku Region,Russia,0.0892
+Tohoku Region,United States,7.9819
+Tohoku Region,Canada,1.4145
+Tohoku Region,Australia,4.7781
+Tohoku Region,Other,5.5274
+Kanto Region,South Korea,11.0677
+Kanto Region,Taiwan,12.287
+Kanto Region,Hong Kong,6.4439
+Kanto Region,China,17.5829
+Kanto Region,Thailand,3.4137
+Kanto Region,Singapore,2.6305
+Kanto Region,Malaysia,1.7087
+Kanto Region,Indonesia,2.2154
+Kanto Region,Philippines,2.538
+Kanto Region,Vietnam,1.8195
+Kanto Region,India,0.6383
+Kanto Region,UK,2.0269
+Kanto Region,Germany,1.422
+Kanto Region,France,2.0099
+Kanto Region,Italy,1.2006
+Kanto Region,Spain,0.9768
+Kanto Region,Russia,0.5159
+Kanto Region,United States,12.5749
+Kanto Region,Canada,2.9294
+Kanto Region,Australia,4.8113
+Kanto Region,Other,9.1869
+Hokuriku-Shin'etsu Region,South Korea,2.066
+Hokuriku-Shin'etsu Region,Taiwan,26.0833
+Hokuriku-Shin'etsu Region,Hong Kong,8.3169
+Hokuriku-Shin'etsu Region,China,7.1757
+Hokuriku-Shin'etsu Region,Thailand,4.4271
+Hokuriku-Shin'etsu Region,Singapore,2.5548
+Hokuriku-Shin'etsu Region,Malaysia,1.2847
+Hokuriku-Shin'etsu Region,Indonesia,1.7827
+Hokuriku-Shin'etsu Region,Philippines,1.1055
+Hokuriku-Shin'etsu Region,Vietnam,0.4448
+Hokuriku-Shin'etsu Region,India,0.3587
+Hokuriku-Shin'etsu Region,UK,2.6963
+Hokuriku-Shin'etsu Region,Germany,1.9546
+Hokuriku-Shin'etsu Region,France,3.3847
+Hokuriku-Shin'etsu Region,Italy,3.0881
+Hokuriku-Shin'etsu Region,Spain,1.5256
+Hokuriku-Shin'etsu Region,Russia,0.4428
+Hokuriku-Shin'etsu Region,United States,7.8576
+Hokuriku-Shin'etsu Region,Canada,2.3334
+Hokuriku-Shin'etsu Region,Australia,9.2857
+Hokuriku-Shin'etsu Region,Other,11.831
+Chubu Region,South Korea,8.0635
+Chubu Region,Taiwan,18.218
+Chubu Region,Hong Kong,8.8275
+Chubu Region,China,23.98
+Chubu Region,Thailand,3.6093
+Chubu Region,Singapore,2.5499
+Chubu Region,Malaysia,1.5305
+Chubu Region,Indonesia,1.6215
+Chubu Region,Philippines,2.4053
+Chubu Region,Vietnam,2.4426
+Chubu Region,India,0.3736
+Chubu Region,UK,1.3951
+Chubu Region,Germany,1.2939
+Chubu Region,France,2.061
+Chubu Region,Italy,1.332
+Chubu Region,Spain,1.1777
+Chubu Region,Russia,0.1168
+Chubu Region,United States,5.6356
+Chubu Region,Canada,1.8845
+Chubu Region,Australia,4.0101
+Chubu Region,Other,7.4715
+Kinki Region,South Korea,18.2515
+Kinki Region,Taiwan,10.9972
+Kinki Region,Hong Kong,5.922
+Kinki Region,China,22.7828
+Kinki Region,Thailand,2.4168
+Kinki Region,Singapore,2.0414
+Kinki Region,Malaysia,1.4949
+Kinki Region,Indonesia,1.5076
+Kinki Region,Philippines,1.9776
+Kinki Region,Vietnam,1.4772
+Kinki Region,India,0.502
+Kinki Region,UK,1.7712
+Kinki Region,Germany,1.287
+Kinki Region,France,1.8335
+Kinki Region,Italy,1.1548
+Kinki Region,Spain,0.9825
+Kinki Region,Russia,0.499
+Kinki Region,United States,9.0548
+Kinki Region,Canada,2.2642
+Kinki Region,Australia,3.9059
+Kinki Region,Other,7.8761
+Chugoku Region,South Korea,12.4592
+Chugoku Region,Taiwan,10.4009
+Chugoku Region,Hong Kong,4.0009
+Chugoku Region,China,3.1879
+Chugoku Region,Thailand,0.8395
+Chugoku Region,Singapore,1.1164
+Chugoku Region,Malaysia,0.1991
+Chugoku Region,Indonesia,0.3134
+Chugoku Region,Philippines,0.8122
+Chugoku Region,Vietnam,0.1384
+Chugoku Region,India,1.1967
+Chugoku Region,UK,5.5913
+Chugoku Region,Germany,3.3118
+Chugoku Region,France,4.7272
+Chugoku Region,Italy,3.0154
+Chugoku Region,Spain,2.0499
+Chugoku Region,Russia,0.2981
+Chugoku Region,United States,12.5449
+Chugoku Region,Canada,3.9925
+Chugoku Region,Australia,10.0975
+Chugoku Region,Other,19.7066
+Shikoku Region,South Korea,19.4447
+Shikoku Region,Taiwan,24.7858
+Shikoku Region,Hong Kong,11.6823
+Shikoku Region,China,9.7332
+Shikoku Region,Thailand,1.0972
+Shikoku Region,Singapore,0.9305
+Shikoku Region,Malaysia,0.2047
+Shikoku Region,Indonesia,0.3234
+Shikoku Region,Philippines,0.3988
+Shikoku Region,Vietnam,0.1707
+Shikoku Region,India,0.071
+Shikoku Region,UK,2.4393
+Shikoku Region,Germany,1.7692
+Shikoku Region,France,2.755
+Shikoku Region,Italy,0.413
+Shikoku Region,Spain,0.4091
+Shikoku Region,Russia,0.044
+Shikoku Region,United States,5.9121
+Shikoku Region,Canada,2.6564
+Shikoku Region,Australia,4.9167
+Shikoku Region,Other,9.8429
+Kyushu Region,South Korea,57.7238
+Kyushu Region,Taiwan,13.8324
+Kyushu Region,Hong Kong,10.3324
+Kyushu Region,China,5.0183
+Kyushu Region,Thailand,2.5247
+Kyushu Region,Singapore,1.021
+Kyushu Region,Malaysia,0.268
+Kyushu Region,Indonesia,0.0708
+Kyushu Region,Philippines,0.8159
+Kyushu Region,Vietnam,0.1194
+Kyushu Region,India,0.0696
+Kyushu Region,UK,0.7553
+Kyushu Region,Germany,0.4973
+Kyushu Region,France,0.5391
+Kyushu Region,Italy,0.1693
+Kyushu Region,Spain,0.1097
+Kyushu Region,Russia,0.0195
+Kyushu Region,United States,2.0253
+Kyushu Region,Canada,0.6914
+Kyushu Region,Australia,1.1291
+Kyushu Region,Other,2.2677
+Okinawa Region,South Korea,26.7734
+Okinawa Region,Taiwan,44.2413
+Okinawa Region,Hong Kong,10.5413
+Okinawa Region,China,7.9814
+Okinawa Region,Thailand,0.5163
+Okinawa Region,Singapore,1.3685
+Okinawa Region,Malaysia,0.0592
+Okinawa Region,Indonesia,0
+Okinawa Region,Philippines,0.0372
+Okinawa Region,Vietnam,0.0382
+Okinawa Region,India,0.013
+Okinawa Region,UK,0.365
+Okinawa Region,Germany,0.4231
+Okinawa Region,France,0.5791
+Okinawa Region,Italy,0.2014
+Okinawa Region,Spain,0.1392
+Okinawa Region,Russia,0
+Okinawa Region,United States,3.0762
+Okinawa Region,Canada,0.9003
+Okinawa Region,Australia,0.5716
+Okinawa Region,Other,2.1743
