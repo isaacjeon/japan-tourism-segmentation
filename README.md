@@ -25,16 +25,16 @@ The Excel file contains multiple sheets with tables based on the three afforemen
 Each table from the sheet includes `Numbers` and `Ratio (%)` (i.e. percentages of surveyees with values 0-100) of surveyees visiting each area and belonging to specific categories, but for simplicity I will only use `Ratio (%)`. It is important to note that there is some margin of error to the values in the dataset, with certain values having large standard errors for reasons such as having a low number of responses. For instance, popular tourist destinations such as Tokyo and Kyoto may have a relatively low standard error while prefectures like Fukushima and Shimane with much less foreign tourists have high standard errors reaching as high as 10%.
 
 Each table includes statistics for each of Japan's 48 prefectures (similar to U.S. states), but also data for each geographic region of Japan. The IVS groups each prefecture under each region as follows:
-> Hokkaido Region : Hokkaido
-> Tohoku Region : Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima
-> Kanto Region : Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Yamanashi
-> Hokuriku-Shin'etsu Region : Niigata, Toyama, Ishikawa, Nagano
-> Chubu Region : Fukui, Gifu, Shizuoka, Aichi, Mie
-> Kinki Region : Shiga, Kyoto, Osaka, Nara, Wakayama, Hyogo
-> Chugoku Region : Tottori, Shimane, Okayama, Hiroshima, Yamaguchi
-> Shikoku Region : Tokushima, Kagawa, Ehime, Kochi
-> Kyushu Region : Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima
-> Okinawa Region : Okinawa
+> Hokkaido Region : Hokkaido  
+> Tohoku Region : Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima  
+> Kanto Region : Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Yamanashi  
+> Hokuriku-Shin'etsu Region : Niigata, Toyama, Ishikawa, Nagano  
+> Chubu Region : Fukui, Gifu, Shizuoka, Aichi, Mie  
+> Kinki Region : Shiga, Kyoto, Osaka, Nara, Wakayama, Hyogo  
+> Chugoku Region : Tottori, Shimane, Okayama, Hiroshima, Yamaguchi  
+> Shikoku Region : Tokushima, Kagawa, Ehime, Kochi  
+> Kyushu Region : Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima  
+> Okinawa Region : Okinawa  
 
 ## Project Workflow
 ### Preprocessing (Google Sheets)
