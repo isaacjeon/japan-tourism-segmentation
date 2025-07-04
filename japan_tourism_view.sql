@@ -9,85 +9,86 @@ WITH all_categories AS (
 	SELECT `Area of Visit`,
 		'Accommodation Type' AS category,
 		`Accommodation Type` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `accommodation type`
     UNION ALL
     	SELECT `Area of Visit`,
 		'Length of Stay' AS category,
 		`Length of Stay` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `length of stay`
     UNION ALL
 	SELECT `Area of Visit`,
 		'Means of Transportation' AS category,
 		`Means of Transportation` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `means of transportation`
     UNION ALL
 	SELECT `Area of Visit`,
 		'Nationality' AS category,
 		`Nationality` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `nationality`
     UNION ALL
 	SELECT `Area of Visit`,
 		'Places to Shop' AS category,
 		`Places to Shop` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `places to shop`
     UNION ALL
 	SELECT `Area of Visit`,
 		'Port of Departure' AS category,
 		`Port of Departure` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `port of departure`
     UNION ALL
 	SELECT `Area of Visit`,
 		'Port of Entry' AS category,
 		`port of Entry` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `port of entry`
     UNION ALL
 	SELECT `Area of Visit`,
 		'Sex/Age' AS category,
 		`Sex/Age` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `sex and age`
     UNION ALL
     -- Split 'Sex' and 'Age' into separate categories
     SELECT `Area of Visit`,
 		'Sex' AS category,
 		SUBSTRING_INDEX(`Sex/Age`, '/', 1) AS label,
-		ROUND(SUM(Percentage), 4) AS percentage
+		SUM(Percentage) AS Percentage
 	FROM `sex and age`
 	GROUP BY `Area of Visit`, label
 	UNION ALL
     SELECT `Area of Visit`,
 		'Age' AS category,
 		SUBSTRING_INDEX(`Sex/Age`, '/', -1) AS label,
-		ROUND(SUM(Percentage), 4) AS percentage
+		SUM(Percentage) as Percentage
 	FROM `sex and age`
 	GROUP BY `Area of Visit`, label
 	UNION ALL
 	SELECT `Area of Visit`,
 		'Time Visited Japan' AS category,
 		`Times Visited Japan` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `times visited japan`
     UNION ALL
 	SELECT `Area of Visit`,
 		'Travel Arrangement' AS category,
 		`Travel Arrangement` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `travel arrangement`
     UNION ALL
 	SELECT `Area of Visit`,
 		'Travel Companions' AS category,
 		`Travel Companions` AS label,
-		Percentage AS percentage
+		Percentage
 	FROM `travel companions`
 )
 -- Distinguish `Area of Visit` between prefectural and regional level
+-- Convert `Percentage` to decimal and round to 4 places
 SELECT
 	(CASE
 		WHEN `Area of Visit` NOT LIKE '%Region' THEN `Area of Visit`
@@ -97,5 +98,7 @@ SELECT
 		WHEN `Area of Visit` NOT LIKE '%Region' THEN 'Prefecture'
 		ELSE 'Region'
     END) AS geographic_level,  
-    category, label, percentage
+    category,
+    label,
+    ROUND(percentage / 100, 4) as percentage
 FROM all_categories;
