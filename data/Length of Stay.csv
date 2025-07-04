@@ -1,400 +1,400 @@
-Area of Visit,Length of Stay (in days),Percentage
-Hokkaido,0~3,3.3227
-Hokkaido,4~6,57.1509
-Hokkaido,7~13,28.6328
-Hokkaido,14~20,6.5899
-Hokkaido,21~27,2.5261
-Hokkaido,28~90,1.6885
-Hokkaido,91~,0.0889
-Aomori,0~3,1.056
-Aomori,4~6,29.5878
-Aomori,7~13,39.5783
-Aomori,14~20,18.1123
-Aomori,21~27,5.98
-Aomori,28~90,5.4673
-Aomori,91~,0.2183
-Iwate,0~3,0.4649
-Iwate,4~6,49.7856
-Iwate,7~13,30.6193
-Iwate,14~20,11.5766
-Iwate,21~27,3.7517
-Iwate,28~90,3.802
-Iwate,91~,0
-Miyagi,0~3,1.8919
-Miyagi,4~6,42.8888
-Miyagi,7~13,35.661
-Miyagi,14~20,10.2882
-Miyagi,21~27,4.3583
-Miyagi,28~90,4.7832
-Miyagi,91~,0.1286
-Akita,0~3,0.4862
-Akita,4~6,39.0275
-Akita,7~13,37.5526
-Akita,14~20,13.4063
-Akita,21~27,5.2225
-Akita,28~90,4.3049
-Akita,91~,0
-Yamagata,0~3,0.2432
-Yamagata,4~6,49.8437
-Yamagata,7~13,35.9768
-Yamagata,14~20,8.1696
-Yamagata,21~27,2.8072
-Yamagata,28~90,2.3494
-Yamagata,91~,0.6102
-Fukushima,0~3,0
-Fukushima,4~6,39.8919
-Fukushima,7~13,35.202
-Fukushima,14~20,13.8004
-Fukushima,21~27,5.958
-Fukushima,28~90,4.6659
-Fukushima,91~,0.4818
-Ibaraki,0~3,0.6981
-Ibaraki,4~6,41.5255
-Ibaraki,7~13,40.587
-Ibaraki,14~20,10.8509
-Ibaraki,21~27,3.2838
-Ibaraki,28~90,2.2397
-Ibaraki,91~,0.815
-Tochigi,0~3,0.3053
-Tochigi,4~6,21.5585
-Tochigi,7~13,38.2891
-Tochigi,14~20,24.5738
-Tochigi,21~27,10.0368
-Tochigi,28~90,4.9845
-Tochigi,91~,0.252
-Gunma,0~3,0.2321
-Gunma,4~6,27.8456
-Gunma,7~13,38.0277
-Gunma,14~20,19.0824
-Gunma,21~27,6.4819
-Gunma,28~90,8.1077
-Gunma,91~,0.2227
-Saitama,0~3,2.5865
-Saitama,4~6,37.302
-Saitama,7~13,42.9114
-Saitama,14~20,12.0935
-Saitama,21~27,2.118
-Saitama,28~90,2.8823
-Saitama,91~,0.1063
-Chiba,0~3,3.658
-Chiba,4~6,39.6703
-Chiba,7~13,39.8674
-Chiba,14~20,12.3736
-Chiba,21~27,2.7888
-Chiba,28~90,1.5945
-Chiba,91~,0.0475
-Tokyo,0~3,3.2892
-Tokyo,4~6,34.1799
-Tokyo,7~13,42.1509
-Tokyo,14~20,15.2143
-Tokyo,21~27,3.3545
-Tokyo,28~90,1.7676
-Tokyo,91~,0.0436
-Kanagawa,0~3,1.5555
-Kanagawa,4~6,26.9836
-Kanagawa,7~13,42.1695
-Kanagawa,14~20,20.8681
-Kanagawa,21~27,5.7611
-Kanagawa,28~90,2.6231
-Kanagawa,91~,0.0391
-Niigata,0~3,0.5556
-Niigata,4~6,24.2096
-Niigata,7~13,47.313
-Niigata,14~20,13.5917
-Niigata,21~27,9.4054
-Niigata,28~90,4.445
-Niigata,91~,0.4796
-Toyama,0~3,0.3225
-Toyama,4~6,53.778
-Toyama,7~13,31.2527
-Toyama,14~20,8.5793
-Toyama,21~27,3.0844
-Toyama,28~90,2.8878
-Toyama,91~,0.0952
-Ishikawa,0~3,0.3208
-Ishikawa,4~6,25.1758
-Ishikawa,7~13,25.357
-Ishikawa,14~20,32.6443
-Ishikawa,21~27,11.5737
-Ishikawa,28~90,4.8864
-Ishikawa,91~,0.0421
-Fukui,0~3,0.353
-Fukui,4~6,28.7968
-Fukui,7~13,27.4686
-Fukui,14~20,21.8266
-Fukui,21~27,11.7789
-Fukui,28~90,9.2023
-Fukui,91~,0.5739
-Yamanashi,0~3,0.3912
-Yamanashi,4~6,36.4239
-Yamanashi,7~13,44.738
-Yamanashi,14~20,12.7622
-Yamanashi,21~27,3.8382
-Yamanashi,28~90,1.8465
-Yamanashi,91~,0
-Nagano,0~3,0.3343
-Nagano,4~6,28.7222
-Nagano,7~13,35.3737
-Nagano,14~20,21.5315
-Nagano,21~27,8.4643
-Nagano,28~90,5.5245
-Nagano,91~,0.0495
-Gifu,0~3,0.94
-Gifu,4~6,38.3562
-Gifu,7~13,30.8256
-Gifu,14~20,19.3327
-Gifu,21~27,7.1197
-Gifu,28~90,3.4258
-Gifu,91~,0
-Shizuoka,0~3,1.5953
-Shizuoka,4~6,36.9191
-Shizuoka,7~13,40.9219
-Shizuoka,14~20,13.7097
-Shizuoka,21~27,3.8819
-Shizuoka,28~90,2.865
-Shizuoka,91~,0.1071
-Aichi,0~3,3.9699
-Aichi,4~6,43.3907
-Aichi,7~13,37.2791
-Aichi,14~20,8.6483
-Aichi,21~27,3.5892
-Aichi,28~90,3.0113
-Aichi,91~,0.1114
-Mie,0~3,1.6408
-Mie,4~6,49.052
-Mie,7~13,36.1469
-Mie,14~20,6.3713
-Mie,21~27,3.5438
-Mie,28~90,3.0915
-Mie,91~,0.1536
-Shiga,0~3,0.3336
-Shiga,4~6,42.2686
-Shiga,7~13,37.909
-Shiga,14~20,12.6191
-Shiga,21~27,4.5568
-Shiga,28~90,2.3128
-Shiga,91~,0
-Kyoto,0~3,2.3764
-Kyoto,4~6,33.56
-Kyoto,7~13,40.9736
-Kyoto,14~20,17.3039
-Kyoto,21~27,3.88
-Kyoto,28~90,1.8747
-Kyoto,91~,0.0315
-Osaka,0~3,5.4982
-Osaka,4~6,40.3735
-Osaka,7~13,36.6175
-Osaka,14~20,12.9318
-Osaka,21~27,3.0178
-Osaka,28~90,1.5178
-Osaka,91~,0.0434
-Hyogo,0~3,3.9798
-Hyogo,4~6,35.8502
-Hyogo,7~13,38.1545
-Hyogo,14~20,13.8306
-Hyogo,21~27,5.0328
-Hyogo,28~90,3.085
-Hyogo,91~,0.0672
-Nara,0~3,1.7597
-Nara,4~6,28.4663
-Nara,7~13,40.8023
-Nara,14~20,21.0231
-Nara,21~27,5.281
-Nara,28~90,2.6494
-Nara,91~,0.0182
-Wakayama,0~3,0.5281
-Wakayama,4~6,26.776
-Wakayama,7~13,34.6004
-Wakayama,14~20,22.6738
-Wakayama,21~27,8.6175
-Wakayama,28~90,6.7074
-Wakayama,91~,0.0968
-Tottori,0~3,10.0011
-Tottori,4~6,23.8017
-Tottori,7~13,44.5844
-Tottori,14~20,8.1798
-Tottori,21~27,6.1074
-Tottori,28~90,7.3256
-Tottori,91~,0
-Shimane,0~3,2.8051
-Shimane,4~6,15.3308
-Shimane,7~13,56.4266
-Shimane,14~20,7.9322
-Shimane,21~27,8.8819
-Shimane,28~90,8.6234
-Shimane,91~,0
-Okayama,0~3,2.0131
-Okayama,4~6,26.4586
-Okayama,7~13,39.3756
-Okayama,14~20,17.2796
-Okayama,21~27,8.8882
-Okayama,28~90,5.9069
-Okayama,91~,0.078
-Hiroshima,0~3,1.5472
-Hiroshima,4~6,7.1611
-Hiroshima,7~13,29.8989
-Hiroshima,14~20,40.6601
-Hiroshima,21~27,14.09
-Hiroshima,28~90,6.5624
-Hiroshima,91~,0.0804
-Yamaguchi,0~3,32.6954
-Yamaguchi,4~6,32.7831
-Yamaguchi,7~13,22.494
-Yamaguchi,14~20,5.2307
-Yamaguchi,21~27,2.9957
-Yamaguchi,28~90,3.8012
-Yamaguchi,91~,0
-Tokushima,0~3,0.9149
-Tokushima,4~6,29.9301
-Tokushima,7~13,41.3627
-Tokushima,14~20,13.5159
-Tokushima,21~27,6.6562
-Tokushima,28~90,6.9536
-Tokushima,91~,0.6667
-Kagawa,0~3,7.8793
-Kagawa,4~6,40.9561
-Kagawa,7~13,27.0407
-Kagawa,14~20,10.9312
-Kagawa,21~27,6.8536
-Kagawa,28~90,6.1946
-Kagawa,91~,0.1446
-Ehime,0~3,0.3685
-Ehime,4~6,25.4594
-Ehime,7~13,41.2803
-Ehime,14~20,11.3322
-Ehime,21~27,13.1947
-Ehime,28~90,8.365
-Ehime,91~,0
-Kochi,0~3,0
-Kochi,4~6,20.8159
-Kochi,7~13,43.8034
-Kochi,14~20,18.9824
-Kochi,21~27,8.9624
-Kochi,28~90,7.4358
-Kochi,91~,0
-Fukuoka,0~3,25.5533
-Fukuoka,4~6,50.8471
-Fukuoka,7~13,16.9977
-Fukuoka,14~20,3.623
-Fukuoka,21~27,1.7014
-Fukuoka,28~90,1.2409
-Fukuoka,91~,0.0365
-Saga,0~3,12.8707
-Saga,4~6,51.3877
-Saga,7~13,30.613
-Saga,14~20,3.4283
-Saga,21~27,0.8845
-Saga,28~90,0.6566
-Saga,91~,0.1592
-Nagasaki,0~3,4.376
-Nagasaki,4~6,30.5776
-Nagasaki,7~13,38.9856
-Nagasaki,14~20,14.3264
-Nagasaki,21~27,5.4795
-Nagasaki,28~90,6.1181
-Nagasaki,91~,0.1368
-Kumamoto,0~3,7.1812
-Kumamoto,4~6,44.5532
-Kumamoto,7~13,36.0868
-Kumamoto,14~20,6.5513
-Kumamoto,21~27,2.6682
-Kumamoto,28~90,2.8999
-Kumamoto,91~,0.0594
-Oita,0~3,16.7883
-Oita,4~6,58.1529
-Oita,7~13,20.3061
-Oita,14~20,2.4908
-Oita,21~27,1.1218
-Oita,28~90,1.1223
-Oita,91~,0.0177
-Miyazaki,0~3,5.3604
-Miyazaki,4~6,32.3395
-Miyazaki,7~13,39.9082
-Miyazaki,14~20,11.2578
-Miyazaki,21~27,3.5947
-Miyazaki,28~90,7.4089
-Miyazaki,91~,0.1305
-Kagoshima,0~3,1.9224
-Kagoshima,4~6,33.8711
-Kagoshima,7~13,37.0382
-Kagoshima,14~20,13.7925
-Kagoshima,21~27,5.7115
-Kagoshima,28~90,7.6643
-Kagoshima,91~,0
-Okinawa,0~3,8.2384
-Okinawa,4~6,71.7661
-Okinawa,7~13,12.8016
-Okinawa,14~20,4.1746
-Okinawa,21~27,1.5564
-Okinawa,28~90,1.3753
-Okinawa,91~,0.0876
-Hokkaido Region,0~3,3.3227
-Hokkaido Region,4~6,57.1509
-Hokkaido Region,7~13,28.6328
-Hokkaido Region,14~20,6.5899
-Hokkaido Region,21~27,2.5261
-Hokkaido Region,28~90,1.6885
-Hokkaido Region,91~,0.0889
-Tohoku Region,0~3,1.8776
-Tohoku Region,4~6,37.1633
-Tohoku Region,7~13,36.2108
-Tohoku Region,14~20,13.7994
-Tohoku Region,21~27,5.6171
-Tohoku Region,28~90,4.9567
-Tohoku Region,91~,0.375
-Kanto Region,0~3,3.4507
-Kanto Region,4~6,34.7164
-Kanto Region,7~13,41.7835
-Kanto Region,14~20,14.9308
-Kanto Region,21~27,3.3081
-Kanto Region,28~90,1.7596
-Kanto Region,91~,0.0509
-Hokuriku-Shin'etsu Region,0~3,0.4223
-Hokuriku-Shin'etsu Region,4~6,27.4722
-Hokuriku-Shin'etsu Region,7~13,34.6338
-Hokuriku-Shin'etsu Region,14~20,24.1789
-Hokuriku-Shin'etsu Region,21~27,8.7376
-Hokuriku-Shin'etsu Region,28~90,4.4641
-Hokuriku-Shin'etsu Region,91~,0.0912
-Chubu Region,0~3,2.7231
-Chubu Region,4~6,37.8962
-Chubu Region,7~13,36.7991
-Chubu Region,14~20,14.2129
-Chubu Region,21~27,5.143
-Chubu Region,28~90,3.116
-Chubu Region,91~,0.1097
-Kinki Region,0~3,5.1504
-Kinki Region,4~6,38.1609
-Kinki Region,7~13,37.7854
-Kinki Region,14~20,14.0333
-Kinki Region,21~27,3.1869
-Kinki Region,28~90,1.6378
-Kinki Region,91~,0.0453
-Chugoku Region,0~3,5.4274
-Chugoku Region,4~6,13.4445
-Chugoku Region,7~13,30.1108
-Chugoku Region,14~20,33.3557
-Chugoku Region,21~27,11.7741
-Chugoku Region,28~90,5.8107
-Chugoku Region,91~,0.0768
-Shikoku Region,0~3,6.3835
-Shikoku Region,4~6,35.0674
-Shikoku Region,7~13,29.2342
-Shikoku Region,14~20,14.1047
-Shikoku Region,21~27,8.365
-Shikoku Region,28~90,6.5885
-Shikoku Region,91~,0.2567
-Kyushu Region,0~3,24.8265
-Kyushu Region,4~6,49.9602
-Kyushu Region,7~13,17.2044
-Kyushu Region,14~20,4.3264
-Kyushu Region,21~27,2.0288
-Kyushu Region,28~90,1.6111
-Kyushu Region,91~,0.0427
-Okinawa Region,0~3,8.2384
-Okinawa Region,4~6,71.7661
-Okinawa Region,7~13,12.8016
-Okinawa Region,14~20,4.1746
-Okinawa Region,21~27,1.5564
-Okinawa Region,28~90,1.3753
-Okinawa Region,91~,0.0876
+Area of Visit,Length of Stay,Percentage
+Hokkaido,0~3 days,3.3227
+Hokkaido,4~6 days,57.1509
+Hokkaido,7~13 days,28.6328
+Hokkaido,14~20 days,6.5899
+Hokkaido,21~27 days,2.5261
+Hokkaido,28~90 days,1.6885
+Hokkaido,91+ days,0.0889
+Aomori,0~3 days,1.056
+Aomori,4~6 days,29.5878
+Aomori,7~13 days,39.5783
+Aomori,14~20 days,18.1123
+Aomori,21~27 days,5.98
+Aomori,28~90 days,5.4673
+Aomori,91+ days,0.2183
+Iwate,0~3 days,0.4649
+Iwate,4~6 days,49.7856
+Iwate,7~13 days,30.6193
+Iwate,14~20 days,11.5766
+Iwate,21~27 days,3.7517
+Iwate,28~90 days,3.802
+Iwate,91+ days,0
+Miyagi,0~3 days,1.8919
+Miyagi,4~6 days,42.8888
+Miyagi,7~13 days,35.661
+Miyagi,14~20 days,10.2882
+Miyagi,21~27 days,4.3583
+Miyagi,28~90 days,4.7832
+Miyagi,91+ days,0.1286
+Akita,0~3 days,0.4862
+Akita,4~6 days,39.0275
+Akita,7~13 days,37.5526
+Akita,14~20 days,13.4063
+Akita,21~27 days,5.2225
+Akita,28~90 days,4.3049
+Akita,91+ days,0
+Yamagata,0~3 days,0.2432
+Yamagata,4~6 days,49.8437
+Yamagata,7~13 days,35.9768
+Yamagata,14~20 days,8.1696
+Yamagata,21~27 days,2.8072
+Yamagata,28~90 days,2.3494
+Yamagata,91+ days,0.6102
+Fukushima,0~3 days,0
+Fukushima,4~6 days,39.8919
+Fukushima,7~13 days,35.202
+Fukushima,14~20 days,13.8004
+Fukushima,21~27 days,5.958
+Fukushima,28~90 days,4.6659
+Fukushima,91+ days,0.4818
+Ibaraki,0~3 days,0.6981
+Ibaraki,4~6 days,41.5255
+Ibaraki,7~13 days,40.587
+Ibaraki,14~20 days,10.8509
+Ibaraki,21~27 days,3.2838
+Ibaraki,28~90 days,2.2397
+Ibaraki,91+ days,0.815
+Tochigi,0~3 days,0.3053
+Tochigi,4~6 days,21.5585
+Tochigi,7~13 days,38.2891
+Tochigi,14~20 days,24.5738
+Tochigi,21~27 days,10.0368
+Tochigi,28~90 days,4.9845
+Tochigi,91+ days,0.252
+Gunma,0~3 days,0.2321
+Gunma,4~6 days,27.8456
+Gunma,7~13 days,38.0277
+Gunma,14~20 days,19.0824
+Gunma,21~27 days,6.4819
+Gunma,28~90 days,8.1077
+Gunma,91+ days,0.2227
+Saitama,0~3 days,2.5865
+Saitama,4~6 days,37.302
+Saitama,7~13 days,42.9114
+Saitama,14~20 days,12.0935
+Saitama,21~27 days,2.118
+Saitama,28~90 days,2.8823
+Saitama,91+ days,0.1063
+Chiba,0~3 days,3.658
+Chiba,4~6 days,39.6703
+Chiba,7~13 days,39.8674
+Chiba,14~20 days,12.3736
+Chiba,21~27 days,2.7888
+Chiba,28~90 days,1.5945
+Chiba,91+ days,0.0475
+Tokyo,0~3 days,3.2892
+Tokyo,4~6 days,34.1799
+Tokyo,7~13 days,42.1509
+Tokyo,14~20 days,15.2143
+Tokyo,21~27 days,3.3545
+Tokyo,28~90 days,1.7676
+Tokyo,91+ days,0.0436
+Kanagawa,0~3 days,1.5555
+Kanagawa,4~6 days,26.9836
+Kanagawa,7~13 days,42.1695
+Kanagawa,14~20 days,20.8681
+Kanagawa,21~27 days,5.7611
+Kanagawa,28~90 days,2.6231
+Kanagawa,91+ days,0.0391
+Niigata,0~3 days,0.5556
+Niigata,4~6 days,24.2096
+Niigata,7~13 days,47.313
+Niigata,14~20 days,13.5917
+Niigata,21~27 days,9.4054
+Niigata,28~90 days,4.445
+Niigata,91+ days,0.4796
+Toyama,0~3 days,0.3225
+Toyama,4~6 days,53.778
+Toyama,7~13 days,31.2527
+Toyama,14~20 days,8.5793
+Toyama,21~27 days,3.0844
+Toyama,28~90 days,2.8878
+Toyama,91+ days,0.0952
+Ishikawa,0~3 days,0.3208
+Ishikawa,4~6 days,25.1758
+Ishikawa,7~13 days,25.357
+Ishikawa,14~20 days,32.6443
+Ishikawa,21~27 days,11.5737
+Ishikawa,28~90 days,4.8864
+Ishikawa,91+ days,0.0421
+Fukui,0~3 days,0.353
+Fukui,4~6 days,28.7968
+Fukui,7~13 days,27.4686
+Fukui,14~20 days,21.8266
+Fukui,21~27 days,11.7789
+Fukui,28~90 days,9.2023
+Fukui,91+ days,0.5739
+Yamanashi,0~3 days,0.3912
+Yamanashi,4~6 days,36.4239
+Yamanashi,7~13 days,44.738
+Yamanashi,14~20 days,12.7622
+Yamanashi,21~27 days,3.8382
+Yamanashi,28~90 days,1.8465
+Yamanashi,91+ days,0
+Nagano,0~3 days,0.3343
+Nagano,4~6 days,28.7222
+Nagano,7~13 days,35.3737
+Nagano,14~20 days,21.5315
+Nagano,21~27 days,8.4643
+Nagano,28~90 days,5.5245
+Nagano,91+ days,0.0495
+Gifu,0~3 days,0.94
+Gifu,4~6 days,38.3562
+Gifu,7~13 days,30.8256
+Gifu,14~20 days,19.3327
+Gifu,21~27 days,7.1197
+Gifu,28~90 days,3.4258
+Gifu,91+ days,0
+Shizuoka,0~3 days,1.5953
+Shizuoka,4~6 days,36.9191
+Shizuoka,7~13 days,40.9219
+Shizuoka,14~20 days,13.7097
+Shizuoka,21~27 days,3.8819
+Shizuoka,28~90 days,2.865
+Shizuoka,91+ days,0.1071
+Aichi,0~3 days,3.9699
+Aichi,4~6 days,43.3907
+Aichi,7~13 days,37.2791
+Aichi,14~20 days,8.6483
+Aichi,21~27 days,3.5892
+Aichi,28~90 days,3.0113
+Aichi,91+ days,0.1114
+Mie,0~3 days,1.6408
+Mie,4~6 days,49.052
+Mie,7~13 days,36.1469
+Mie,14~20 days,6.3713
+Mie,21~27 days,3.5438
+Mie,28~90 days,3.0915
+Mie,91+ days,0.1536
+Shiga,0~3 days,0.3336
+Shiga,4~6 days,42.2686
+Shiga,7~13 days,37.909
+Shiga,14~20 days,12.6191
+Shiga,21~27 days,4.5568
+Shiga,28~90 days,2.3128
+Shiga,91+ days,0
+Kyoto,0~3 days,2.3764
+Kyoto,4~6 days,33.56
+Kyoto,7~13 days,40.9736
+Kyoto,14~20 days,17.3039
+Kyoto,21~27 days,3.88
+Kyoto,28~90 days,1.8747
+Kyoto,91+ days,0.0315
+Osaka,0~3 days,5.4982
+Osaka,4~6 days,40.3735
+Osaka,7~13 days,36.6175
+Osaka,14~20 days,12.9318
+Osaka,21~27 days,3.0178
+Osaka,28~90 days,1.5178
+Osaka,91+ days,0.0434
+Hyogo,0~3 days,3.9798
+Hyogo,4~6 days,35.8502
+Hyogo,7~13 days,38.1545
+Hyogo,14~20 days,13.8306
+Hyogo,21~27 days,5.0328
+Hyogo,28~90 days,3.085
+Hyogo,91+ days,0.0672
+Nara,0~3 days,1.7597
+Nara,4~6 days,28.4663
+Nara,7~13 days,40.8023
+Nara,14~20 days,21.0231
+Nara,21~27 days,5.281
+Nara,28~90 days,2.6494
+Nara,91+ days,0.0182
+Wakayama,0~3 days,0.5281
+Wakayama,4~6 days,26.776
+Wakayama,7~13 days,34.6004
+Wakayama,14~20 days,22.6738
+Wakayama,21~27 days,8.6175
+Wakayama,28~90 days,6.7074
+Wakayama,91+ days,0.0968
+Tottori,0~3 days,10.0011
+Tottori,4~6 days,23.8017
+Tottori,7~13 days,44.5844
+Tottori,14~20 days,8.1798
+Tottori,21~27 days,6.1074
+Tottori,28~90 days,7.3256
+Tottori,91+ days,0
+Shimane,0~3 days,2.8051
+Shimane,4~6 days,15.3308
+Shimane,7~13 days,56.4266
+Shimane,14~20 days,7.9322
+Shimane,21~27 days,8.8819
+Shimane,28~90 days,8.6234
+Shimane,91+ days,0
+Okayama,0~3 days,2.0131
+Okayama,4~6 days,26.4586
+Okayama,7~13 days,39.3756
+Okayama,14~20 days,17.2796
+Okayama,21~27 days,8.8882
+Okayama,28~90 days,5.9069
+Okayama,91+ days,0.078
+Hiroshima,0~3 days,1.5472
+Hiroshima,4~6 days,7.1611
+Hiroshima,7~13 days,29.8989
+Hiroshima,14~20 days,40.6601
+Hiroshima,21~27 days,14.09
+Hiroshima,28~90 days,6.5624
+Hiroshima,91+ days,0.0804
+Yamaguchi,0~3 days,32.6954
+Yamaguchi,4~6 days,32.7831
+Yamaguchi,7~13 days,22.494
+Yamaguchi,14~20 days,5.2307
+Yamaguchi,21~27 days,2.9957
+Yamaguchi,28~90 days,3.8012
+Yamaguchi,91+ days,0
+Tokushima,0~3 days,0.9149
+Tokushima,4~6 days,29.9301
+Tokushima,7~13 days,41.3627
+Tokushima,14~20 days,13.5159
+Tokushima,21~27 days,6.6562
+Tokushima,28~90 days,6.9536
+Tokushima,91+ days,0.6667
+Kagawa,0~3 days,7.8793
+Kagawa,4~6 days,40.9561
+Kagawa,7~13 days,27.0407
+Kagawa,14~20 days,10.9312
+Kagawa,21~27 days,6.8536
+Kagawa,28~90 days,6.1946
+Kagawa,91+ days,0.1446
+Ehime,0~3 days,0.3685
+Ehime,4~6 days,25.4594
+Ehime,7~13 days,41.2803
+Ehime,14~20 days,11.3322
+Ehime,21~27 days,13.1947
+Ehime,28~90 days,8.365
+Ehime,91+ days,0
+Kochi,0~3 days,0
+Kochi,4~6 days,20.8159
+Kochi,7~13 days,43.8034
+Kochi,14~20 days,18.9824
+Kochi,21~27 days,8.9624
+Kochi,28~90 days,7.4358
+Kochi,91+ days,0
+Fukuoka,0~3 days,25.5533
+Fukuoka,4~6 days,50.8471
+Fukuoka,7~13 days,16.9977
+Fukuoka,14~20 days,3.623
+Fukuoka,21~27 days,1.7014
+Fukuoka,28~90 days,1.2409
+Fukuoka,91+ days,0.0365
+Saga,0~3 days,12.8707
+Saga,4~6 days,51.3877
+Saga,7~13 days,30.613
+Saga,14~20 days,3.4283
+Saga,21~27 days,0.8845
+Saga,28~90 days,0.6566
+Saga,91+ days,0.1592
+Nagasaki,0~3 days,4.376
+Nagasaki,4~6 days,30.5776
+Nagasaki,7~13 days,38.9856
+Nagasaki,14~20 days,14.3264
+Nagasaki,21~27 days,5.4795
+Nagasaki,28~90 days,6.1181
+Nagasaki,91+ days,0.1368
+Kumamoto,0~3 days,7.1812
+Kumamoto,4~6 days,44.5532
+Kumamoto,7~13 days,36.0868
+Kumamoto,14~20 days,6.5513
+Kumamoto,21~27 days,2.6682
+Kumamoto,28~90 days,2.8999
+Kumamoto,91+ days,0.0594
+Oita,0~3 days,16.7883
+Oita,4~6 days,58.1529
+Oita,7~13 days,20.3061
+Oita,14~20 days,2.4908
+Oita,21~27 days,1.1218
+Oita,28~90 days,1.1223
+Oita,91+ days,0.0177
+Miyazaki,0~3 days,5.3604
+Miyazaki,4~6 days,32.3395
+Miyazaki,7~13 days,39.9082
+Miyazaki,14~20 days,11.2578
+Miyazaki,21~27 days,3.5947
+Miyazaki,28~90 days,7.4089
+Miyazaki,91+ days,0.1305
+Kagoshima,0~3 days,1.9224
+Kagoshima,4~6 days,33.8711
+Kagoshima,7~13 days,37.0382
+Kagoshima,14~20 days,13.7925
+Kagoshima,21~27 days,5.7115
+Kagoshima,28~90 days,7.6643
+Kagoshima,91+ days,0
+Okinawa,0~3 days,8.2384
+Okinawa,4~6 days,71.7661
+Okinawa,7~13 days,12.8016
+Okinawa,14~20 days,4.1746
+Okinawa,21~27 days,1.5564
+Okinawa,28~90 days,1.3753
+Okinawa,91+ days,0.0876
+Hokkaido Region,0~3 days,3.3227
+Hokkaido Region,4~6 days,57.1509
+Hokkaido Region,7~13 days,28.6328
+Hokkaido Region,14~20 days,6.5899
+Hokkaido Region,21~27 days,2.5261
+Hokkaido Region,28~90 days,1.6885
+Hokkaido Region,91+ days,0.0889
+Tohoku Region,0~3 days,1.8776
+Tohoku Region,4~6 days,37.1633
+Tohoku Region,7~13 days,36.2108
+Tohoku Region,14~20 days,13.7994
+Tohoku Region,21~27 days,5.6171
+Tohoku Region,28~90 days,4.9567
+Tohoku Region,91+ days,0.375
+Kanto Region,0~3 days,3.4507
+Kanto Region,4~6 days,34.7164
+Kanto Region,7~13 days,41.7835
+Kanto Region,14~20 days,14.9308
+Kanto Region,21~27 days,3.3081
+Kanto Region,28~90 days,1.7596
+Kanto Region,91+ days,0.0509
+Hokuriku-Shin'etsu Region,0~3 days,0.4223
+Hokuriku-Shin'etsu Region,4~6 days,27.4722
+Hokuriku-Shin'etsu Region,7~13 days,34.6338
+Hokuriku-Shin'etsu Region,14~20 days,24.1789
+Hokuriku-Shin'etsu Region,21~27 days,8.7376
+Hokuriku-Shin'etsu Region,28~90 days,4.4641
+Hokuriku-Shin'etsu Region,91+ days,0.0912
+Chubu Region,0~3 days,2.7231
+Chubu Region,4~6 days,37.8962
+Chubu Region,7~13 days,36.7991
+Chubu Region,14~20 days,14.2129
+Chubu Region,21~27 days,5.143
+Chubu Region,28~90 days,3.116
+Chubu Region,91+ days,0.1097
+Kinki Region,0~3 days,5.1504
+Kinki Region,4~6 days,38.1609
+Kinki Region,7~13 days,37.7854
+Kinki Region,14~20 days,14.0333
+Kinki Region,21~27 days,3.1869
+Kinki Region,28~90 days,1.6378
+Kinki Region,91+ days,0.0453
+Chugoku Region,0~3 days,5.4274
+Chugoku Region,4~6 days,13.4445
+Chugoku Region,7~13 days,30.1108
+Chugoku Region,14~20 days,33.3557
+Chugoku Region,21~27 days,11.7741
+Chugoku Region,28~90 days,5.8107
+Chugoku Region,91+ days,0.0768
+Shikoku Region,0~3 days,6.3835
+Shikoku Region,4~6 days,35.0674
+Shikoku Region,7~13 days,29.2342
+Shikoku Region,14~20 days,14.1047
+Shikoku Region,21~27 days,8.365
+Shikoku Region,28~90 days,6.5885
+Shikoku Region,91+ days,0.2567
+Kyushu Region,0~3 days,24.8265
+Kyushu Region,4~6 days,49.9602
+Kyushu Region,7~13 days,17.2044
+Kyushu Region,14~20 days,4.3264
+Kyushu Region,21~27 days,2.0288
+Kyushu Region,28~90 days,1.6111
+Kyushu Region,91+ days,0.0427
+Okinawa Region,0~3 days,8.2384
+Okinawa Region,4~6 days,71.7661
+Okinawa Region,7~13 days,12.8016
+Okinawa Region,14~20 days,4.1746
+Okinawa Region,21~27 days,1.5564
+Okinawa Region,28~90 days,1.3753
+Okinawa Region,91+ days,0.0876
