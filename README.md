@@ -6,7 +6,7 @@ This project visualizes and analyzes **Japan tourism data on a regional level** 
 ## How to use
 Data used in this project have been preprocessed and are stored as CSV files in the `data` folder. Please scroll down to the Data Source and Attribution section at the bottom of this README file for the original source.
 
-Each individual CSV file should be imported into MySQL (there should be 11 tables in total). The `japan_tourism_view.sql` file contains the script to create a view for use with Tableau.
+Each individual CSV file should be imported into MySQL (there should be 11 tables in total). When importing the table from `Times Visited Japan.csv`, the field type for the 'Times Visited Japan' column should be set to 'text'. The `japan_tourism_view.sql` file contains the script to create a view for use with Tableau.
 
 ## About the Dataset
 This project uses data from the [International Visitor Survey (IVS)](https://www.mlit.go.jp/kankocho/en/siryou/toukei/syouhityousa.html) published by the Japan Tourism Agency.
