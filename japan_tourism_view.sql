@@ -13,8 +13,8 @@ WITH all_categories AS (
 	FROM `accommodation type`
     UNION ALL
     	SELECT `Area of Visit`,
-		'Length of Stay' AS category,
-		`Length of Stay` AS label,
+		'Length of Stay (in days)' AS category,
+		`Length of Stay (in days)` AS label,
 		Percentage
 	FROM `length of stay`
     UNION ALL
@@ -28,7 +28,7 @@ WITH all_categories AS (
 		'Nationality' AS category,
 		`Nationality` AS label,
 		Percentage
-	FROM `nationality`
+	FROM nationality
     UNION ALL
 	SELECT `Area of Visit`,
 		'Places to Shop' AS category,
@@ -52,25 +52,25 @@ WITH all_categories AS (
 		'Sex/Age' AS category,
 		`Sex/Age` AS label,
 		Percentage
-	FROM `sex and age`
+	FROM sex_age
     UNION ALL
     -- Split 'Sex' and 'Age' into separate categories
     SELECT `Area of Visit`,
 		'Sex' AS category,
 		SUBSTRING_INDEX(`Sex/Age`, '/', 1) AS label,
 		SUM(Percentage) AS Percentage
-	FROM `sex and age`
+	FROM sex_age
 	GROUP BY `Area of Visit`, label
 	UNION ALL
     SELECT `Area of Visit`,
 		'Age' AS category,
 		SUBSTRING_INDEX(`Sex/Age`, '/', -1) AS label,
 		SUM(Percentage) as Percentage
-	FROM `sex and age`
+	FROM sex_age
 	GROUP BY `Area of Visit`, label
 	UNION ALL
 	SELECT `Area of Visit`,
-		'Time Visited Japan' AS category,
+		'Times Visited Japan' AS category,
 		`Times Visited Japan` AS label,
 		Percentage
 	FROM `times visited japan`
