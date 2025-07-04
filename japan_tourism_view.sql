@@ -13,8 +13,8 @@ WITH all_categories AS (
 	FROM `accommodation type`
     UNION ALL
     	SELECT `Area of Visit`,
-		'Length of Stay (in days)' AS category,
-		`Length of Stay (in days)` AS label,
+		'Length of Stay' AS category,
+		`Length of Stay` AS label,
 		Percentage
 	FROM `length of stay`
     UNION ALL
