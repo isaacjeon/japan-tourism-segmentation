@@ -3,10 +3,14 @@
 ## Overview
 This project visualizes and analyzes **Japan tourism data on a regional level** collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay). The goal is to identify characteristics of tourists that visit each region of Japan, which may provide some insight into which demographics each region may or may not appeal to and can allow for more informative tourism advertising such as in promotion of travel services and attractions. The original data was provided as a single **Excel** file with multiple sheets. After cleaning and restructuring in Google Sheets, the data was imported as multiple tables into **MySQL** that were unified and prepared for interactive exploration using **Tableau**.
 
+The Tableau dashboard may be viewed on [Tableau Public])(https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 ## How to use
 Data used in this project have been preprocessed and are stored as CSV files in the `data` folder. Please scroll down to the Data Source and Attribution section at the bottom of this README file for the original source.
 
-Each individual CSV file should be imported into MySQL (there should be 11 tables in total). When importing the table from `Times Visited Japan.csv`, the field type for the 'Times Visited Japan' column should be set to 'text'. The `japan_tourism_view.sql` file contains the script to create a view for use with Tableau.
+Each individual CSV file should be imported into MySQL (there should be 11 tables in total). When importing the table from `Times Visited Japan.csv`, the field type for the 'Times Visited Japan' column should be set to 'text'. The `japan_tourism_view.sql` file contains the script to create a view that can be exported for use with Tableau.
+
+https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## About the Dataset
 This project uses data from the [International Visitor Survey (IVS)](https://www.mlit.go.jp/kankocho/en/siryou/toukei/syouhityousa.html) published by the Japan Tourism Agency.
