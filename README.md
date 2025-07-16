@@ -3,7 +3,7 @@
 ## Overview
 This project visualizes and analyzes **Japan tourism data on a regional level** collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay). The goal is to identify characteristics of tourists that visit each region of Japan, which may provide some insight into which demographics each region may or may not appeal to and can allow for more informative tourism advertising such as in promotion of travel services and attractions. The original data was provided as a single **Excel** file with multiple sheets. After cleaning and restructuring in Google Sheets, the data was imported as multiple tables into **MySQL** that were unified and prepared for interactive exploration using **Tableau**.
 
-The Tableau dashboard may be viewed on [Tableau Public])(https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+The Tableau dashboard may be viewed on [Tableau Public](https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## How to use
 Data used in this project have been preprocessed and are stored as CSV files in the `data` folder. Please scroll down to the Data Source and Attribution section at the bottom of this README file for the original source.
@@ -53,12 +53,22 @@ Each includes the percentage of surveyees that visited each prefecture/region th
 ### Database Setup (MySQL)
 Imported each cleaned sheet as a separate table in MySQL, and created a view `japan_tourism_stats` that:
 - Unifies all sheets using UNION ALL
-- Extracts `Sex` and `Age` from combined `Sex/Age` fields
+- Splits `Sex/Age` fields into separate `Sex` and `Age` columns (while also keeping the original column)
 - Normalizes `Area of Visit` into `location` (name of prefecture or region) and `geographic_level` (Prefecture or Region)
 
 ### Visualization (Tableau)
 - Connected Tableau to the MySQL view
-- Built dashboards for interactive filtering and trend analysis
+- Developed an interactive dashboard enabling:
+  - Filtering by geographic level, geographic location, category, and category group
+  - Comparison of visitation patterns within each survey category
+  - Exploration of demographic and behavioral patterns
+ 
+## Limitations
+When designing the dashboard, I wanted to fit as much functionality as I could within a single dashboard. The (admittedly) excessive use of filters may not as practical in a real world setting, but I mainly wanted to experiment with what could be done with filters. While the dashboard allows multiple plots to dynamically update together depending on which filters are selected, it does have some issues:
+- Filtering is relatively slow, taking a couple seconds to update.
+- Some plots may disappear or break when filters are applied or turned off while certain other filters are selected. In particular,
+  - The treemap below the map should only be used to filter when "(All)" is selected in the Group filter. If "(All)" is not selected, a couple visuals will not be displayed unless the filtered treemap item also happens to be selected within the Group filter.
+  - The Geographic Level and Region filters and Total Percentages of Selected Group(s) from [Category] bar plot filter don't play well together. The biggest issue occurs when changing the Geographic Level while the bar plot filter has been applied, so turning off the Region and bar plot filters before switching Geographic Levels can avoid this problem.
 
 ## Data Source and Attribution
 
