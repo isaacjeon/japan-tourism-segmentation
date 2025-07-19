@@ -64,11 +64,13 @@ Imported each cleaned sheet as a separate table in MySQL, and created a view `ja
   - Exploration of demographic and behavioral patterns
  
 ## Limitations
-When designing the dashboard, I wanted to fit as much functionality as I could within a single dashboard. The (admittedly) excessive use of filters may not as practical in a real world setting, but I mainly wanted to experiment with what could be done with filters. While the dashboard allows multiple plots to dynamically update together depending on which filters are selected, it does have some issues:
+When designing the dashboard, I wanted to fit as much functionality as I could within a single dashboard. This may have led to an excessive use of filters, but for this project I mainly wanted to experiment with different filtering options. While the dashboard allows multiple plots to dynamically update together depending on which filters are selected, it does have some issues:
 - Filtering is relatively slow, taking a couple seconds to update.
 - Some plots may disappear or break when filters are applied or turned off while certain other filters are selected. In particular,
   - The treemap below the map should only be used to filter when "(All)" is selected in the Group filter. If "(All)" is not selected, a couple visuals will not be displayed unless the filtered treemap item also happens to be selected within the Group filter.
   - The Geographic Level and Region filters and Total Percentages of Selected Group(s) from [Category] bar plot filter don't play well together. The biggest issue occurs when changing the Geographic Level while the bar plot filter has been applied, so turning off the Region and bar plot filters before switching Geographic Levels can avoid this problem.
+
+In a practical setting, it may be better to make use of multiple dashboards rather than cramming all the functionality into a single one.
 
 ## Data Source and Attribution
 
